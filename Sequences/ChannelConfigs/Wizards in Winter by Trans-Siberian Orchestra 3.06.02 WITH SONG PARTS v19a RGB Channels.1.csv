@@ -1,0 +1,7 @@
+Type,SavedIndex,Name,Centiseconds,Device,Unit,Network,Circuit,Universe,Channel,LOR Color,Web Color,Color Name
+RGBchannel,188,Carolers Flood [U1.42-44 C.10-12] (RGB),28279,DMX,1,,42
+RGBchannel,176,Festivus Pole Flood [U1.33-35 C.01-03] (RGB),28279,DMX,1,,33
+RGBchannel,180,Manger Flood {L} [U1.36-38 C.04-06] (RGB),28279,DMX,1,,36
+RGBchannel,184,Manger Flood {R} [U1.39-41 C.07-09] (RGB),28279,DMX,1,,39
+RGBchannel,193,Roof Ridgeline {L} [U1.45-47 C.13-15] (RGB),28279,DMX,1,,45
+RGBchannel,197,Roof Ridgeline {R} [U1.48-50 C.16-18] (RGB),28279,DMX,1,,48

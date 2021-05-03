@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF - 8" standalone="no"?>
+<channelMap saveFileVersion="14" createdAt="12/12/2019 09:01:02 AM">
+	<files>
+		<masterFile name="W:\!ActiveDocuments\Christmas\Light-O-Rama 4\2019\Wizlights\Sequences\Wizards in Winter by Trans-Siberian Orchestra 3.03.00.lms"/>
+		<sourceFile name="W:\!ActiveDocuments\Christmas\Light-O-Rama 4\2019\Wizlights\Sequences\Blue Christmas by Elvis Presley 02.09.86 WITH SONG PARTS Remapped.lms"/>
+	</files>
+	<mappings>
+		<channels>
+			<masterChannel name="Master Power Low" type="Channel" savedIndex="24"/>
+			<sourceChannel name="Master Power Low [L1.05]" type="Channel" savedIndex="223"/>
+		</channels>
+		<channels>
+			<masterChannel name="Master Power High" type="Channel" savedIndex="25"/>
+			<sourceChannel name="Master Power High [L1.12]" type="Channel" savedIndex="224"/>
+		</channels>
+		<channels>
+			<masterChannel name="Streetlight Laser (R)" type="Channel" savedIndex="26"/>
+			<sourceChannel name="Streetlight Laser [L7.23]" type="Channel" savedIndex="225"/>
+		</channels>
+		<channels>
+			<masterChannel name="Snowfall Motor" type="Channel" savedIndex="27"/>
+			<sourceChannel name="Snowfall Motor [L7.22]" type="Channel" savedIndex="226"/>
+		</channels>
+		<channels>
+			<masterChannel name="Security Lights (W)" type="Channel" savedIndex="28"/>
+			<sourceChannel name="Security Lights [L1.15]" type="Channel" savedIndex="227"/>
+		</channels>
+		<channels>
+			<masterChannel name="POWER" type="ChannelGroup" savedIndex="29"/>
+			<sourceChannel name="POWER [L1.5,2,7,10,13]" type="ChannelGroup" savedIndex="228"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9 1 (R)" type="Channel" savedIndex="30"/>
+			<sourceChannel name="Eaves Chase C9 [L1.01] (R)" type="Channel" savedIndex="229"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9 2 (G)" type="Channel" savedIndex="31"/>
+			<sourceChannel name="Eaves Chase C9 [L1.02] (G)" type="Channel" savedIndex="230"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9 3 (B)" type="Channel" savedIndex="32"/>
+			<sourceChannel name="Eaves Chase C9 [L1.03] (B)" type="Channel" savedIndex="231"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9 (RGB)" type="RGBchannel" savedIndex="33"/>
+			<sourceChannel name="C9 Chase [L4.13-15] (RGB)" type="RGBchannel" savedIndex="232"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9 4 (W)" type="Channel" savedIndex="34"/>
+			<sourceChannel name="Eaves Chase C9 [L1.04] (W)" type="Channel" savedIndex="233"/>
+		</channels>
+		<channels>
+			<masterChannel name="Eaves Chase C9" type="ChannelGroup" savedIndex="35"/>
+			<sourceChannel name="Eaves Chase C9 [L1.01-04] (RGBW)" type="ChannelGroup" savedIndex="234"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 1 {S} Rainbow 1 (ROGBV)" type="Channel" savedIndex="36"/>
+			<sourceChannel name="Bushes {S} Rainbow [L2.08] (ROGBV)" type="Channel" savedIndex="235"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 2.1 {L} (M)" type="Channel" savedIndex="37"/>
+			<sourceChannel name="Bushes {L} [L3.07] (Multi)" type="Channel" savedIndex="236"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 2.2 {L} (W)" type="Channel" savedIndex="38"/>
+			<sourceChannel name="Bushes {L} [L3.08] (W)" type="Channel" savedIndex="237"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 2.3 {L} Low (O)" type="Channel" savedIndex="39"/>
+			<sourceChannel name="Bushes {L} Low [L3.09] (Orn)" type="Channel" savedIndex="238"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 2 {L}" type="ChannelGroup" savedIndex="40"/>
+			<sourceChannel name="Bushes {L} [L3.07-09] (WMO)" type="ChannelGroup" savedIndex="239"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3.1 {C} M5 (R)" type="Channel" savedIndex="41"/>
+			<sourceChannel name="Bushes {C} M5 [L4.01] (R)" type="Channel" savedIndex="240"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3.2 {C} M5 (G)" type="Channel" savedIndex="42"/>
+			<sourceChannel name="Bushes {C} M5 [L4.02] (G)" type="Channel" savedIndex="241"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3.3 {C} M5 (B)" type="Channel" savedIndex="43"/>
+			<sourceChannel name="Bushes {C} M5 [L4.03] (B)" type="Channel" savedIndex="242"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3 {C} M5 (RGB)" type="RGBchannel" savedIndex="44"/>
+			<sourceChannel name="M5 Center Bushes [L1.08-10] (RGB)" type="RGBchannel" savedIndex="243"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3.4 {C} M5 (Ww)" type="Channel" savedIndex="45"/>
+			<sourceChannel name="Bushes {C} M5 [L4.04] (Ww)" type="Channel" savedIndex="244"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 3 {C} M5" type="ChannelGroup" savedIndex="46"/>
+			<sourceChannel name="Bushes {C} M5 [L4.01-04] (RGBW)" type="ChannelGroup" savedIndex="245"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 4.2 {D} (W)" type="Channel" savedIndex="47"/>
+			<sourceChannel name="Bushes {D} [L1.07] (W)" type="Channel" savedIndex="246"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 4.1 {D} (Pink)" type="Channel" savedIndex="48"/>
+			<sourceChannel name="Bushes {D} [L1.06] (Pink)" type="Channel" savedIndex="247"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 4 {D} C6" type="ChannelGroup" savedIndex="49"/>
+			<sourceChannel name="Bushes {D} [L1-06-07]" type="ChannelGroup" savedIndex="248"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.1 {R} (R)" type="Channel" savedIndex="50"/>
+			<sourceChannel name="Bushes {R} [L5.01] (R) (R)" type="Channel" savedIndex="249"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.2 {R} (G)" type="Channel" savedIndex="51"/>
+			<sourceChannel name="Bushes {R} [L5.01] (R) (G)" type="Channel" savedIndex="250"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.3 {R} (B)" type="Channel" savedIndex="52"/>
+			<sourceChannel name="Bushes {R} [L5.01] (R) (B)" type="Channel" savedIndex="251"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5 {R} C9 (RGB)" type="RGBchannel" savedIndex="53"/>
+			<sourceChannel name="Bushes {R} [L5.01] (R)" type="RGBchannel" savedIndex="252"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.4 {R} C9 (W)" type="Channel" savedIndex="54"/>
+			<sourceChannel name="Bushes {R} [L5.05] (Vio)" type="Channel" savedIndex="253"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.5 {R} C9 (V)" type="Channel" savedIndex="55"/>
+			<sourceChannel name="Bushes {R} [L5.04] (W)" type="Channel" savedIndex="254"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5.6 {R} C9 (M)" type="Channel" savedIndex="56"/>
+			<sourceChannel name="Bushes {R} [L5.06] (Multi)" type="Channel" savedIndex="255"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes 5 {R} C9" type="ChannelGroup" savedIndex="57"/>
+			<sourceChannel name="Bushes {R} [L5.01-06] (RGBWVM)" type="ChannelGroup" savedIndex="256"/>
+		</channels>
+		<channels>
+			<masterChannel name="Bushes - All" type="ChannelGroup" savedIndex="58"/>
+			<sourceChannel name="Bushes - All" type="ChannelGroup" savedIndex="257"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A1.1 (L} (R)" type="Channel" savedIndex="59"/>
+			<sourceChannel name="Tomato Tree A1 (L} [U1.01] (R)" type="Channel" savedIndex="258"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A2.1 (R)" type="Channel" savedIndex="60"/>
+			<sourceChannel name="Tomato Tree A2 [U1.05] (R)" type="Channel" savedIndex="259"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A3.1 (R)" type="Channel" savedIndex="61"/>
+			<sourceChannel name="Tomato Tree A3 [U1.09] (R)" type="Channel" savedIndex="260"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A4.1 {CL} (R)" type="Channel" savedIndex="62"/>
+			<sourceChannel name="Tomato Tree A4 {CL} [U1.13] (R)" type="Channel" savedIndex="261"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A5.1 {CR} (R)" type="Channel" savedIndex="63"/>
+			<sourceChannel name="Tomato Tree A5 {CR} [U1.17] (R)" type="Channel" savedIndex="262"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A6.1 (R)" type="Channel" savedIndex="64"/>
+			<sourceChannel name="Tomato Tree A6 [U1.21] (R)" type="Channel" savedIndex="263"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A7.1 (R)" type="Channel" savedIndex="65"/>
+			<sourceChannel name="Tomato Tree A7 [U1.25] (R)" type="Channel" savedIndex="264"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A8.1 {R} (R)" type="Channel" savedIndex="66"/>
+			<sourceChannel name="Tomato Tree A8 {R} [U1.29] (R)" type="Channel" savedIndex="265"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A Red (R)" type="ChannelGroup" savedIndex="67"/>
+			<sourceChannel name="Tomato Trees A Red [U1.01-29]" type="ChannelGroup" savedIndex="266"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A1.2 (L} (G)" type="Channel" savedIndex="68"/>
+			<sourceChannel name="Tomato Tree A1 (L} [U1.02] (G)" type="Channel" savedIndex="267"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A2.2 (G)" type="Channel" savedIndex="69"/>
+			<sourceChannel name="Tomato Tree A2 [U1.06] (G)" type="Channel" savedIndex="268"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A3.2 (G)" type="Channel" savedIndex="70"/>
+			<sourceChannel name="Tomato Tree A3 [U1.10] (G)" type="Channel" savedIndex="269"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A4.2 {CL} (G)" type="Channel" savedIndex="71"/>
+			<sourceChannel name="Tomato Tree A4 {CL} [U1.14] (G)" type="Channel" savedIndex="270"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A5.2 {CR} (G)" type="Channel" savedIndex="72"/>
+			<sourceChannel name="Tomato Tree A5 {CR} [U1.18] (G)" type="Channel" savedIndex="271"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A6.2 (G)" type="Channel" savedIndex="73"/>
+			<sourceChannel name="Tomato Tree A6 [U1.22] (G)" type="Channel" savedIndex="272"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A7.2 (G)" type="Channel" savedIndex="74"/>
+			<sourceChannel name="Tomato Tree A7 [U1.26] (G)" type="Channel" savedIndex="273"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A8.2 {R} (G)" type="Channel" savedIndex="75"/>
+			<sourceChannel name="Tomato Tree A8 {R} [U1.30] (G)" type="Channel" savedIndex="274"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A Green (G)" type="ChannelGroup" savedIndex="76"/>
+			<sourceChannel name="Tomato Trees A Green [U1.02-30]" type="ChannelGroup" savedIndex="275"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A1.3 (L} (B)" type="Channel" savedIndex="77"/>
+			<sourceChannel name="Tomato Tree A1 (L} [U1.03] (B)" type="Channel" savedIndex="276"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A2.3 (B)" type="Channel" savedIndex="78"/>
+			<sourceChannel name="Tomato Tree A2 [U1.07] (B)" type="Channel" savedIndex="277"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A3.3 (B)" type="Channel" savedIndex="79"/>
+			<sourceChannel name="Tomato Tree A3 [U1.11] (B)" type="Channel" savedIndex="278"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A4.3 {CL} (B)" type="Channel" savedIndex="80"/>
+			<sourceChannel name="Tomato Tree A4 {CL} [U1.15] (B)" type="Channel" savedIndex="279"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A5.3 {CR} (B)" type="Channel" savedIndex="81"/>
+			<sourceChannel name="Tomato Tree A5 {CR} [U1.19] (B)" type="Channel" savedIndex="280"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A6.3 (B)" type="Channel" savedIndex="82"/>
+			<sourceChannel name="Tomato Tree A6 [U1.23] (B)" type="Channel" savedIndex="281"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A7.3 (B)" type="Channel" savedIndex="83"/>
+			<sourceChannel name="Tomato Tree A7 [U1.27] (B)" type="Channel" savedIndex="282"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A8.3 {R} (B)" type="Channel" savedIndex="84"/>
+			<sourceChannel name="Tomato Tree A8 {R} [U1.31] (B)" type="Channel" savedIndex="283"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A Blue (B)" type="ChannelGroup" savedIndex="85"/>
+			<sourceChannel name="Tomato Trees A Blue [U1.03-31]" type="ChannelGroup" savedIndex="284"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A1.4 {L} (W)" type="Channel" savedIndex="86"/>
+			<sourceChannel name="Tomato Tree A1 {L} [U1.04] (W)" type="Channel" savedIndex="285"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A2.4 (W)" type="Channel" savedIndex="87"/>
+			<sourceChannel name="Tomato Tree A2 [U1.08] (W)" type="Channel" savedIndex="286"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A3.4 (W)" type="Channel" savedIndex="88"/>
+			<sourceChannel name="Tomato Tree A3 [U1.12] (W)" type="Channel" savedIndex="287"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A4.4 {CL} (W)" type="Channel" savedIndex="89"/>
+			<sourceChannel name="Tomato Tree A4 {CL} [U1.16] (W)" type="Channel" savedIndex="288"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A5.4 {CR} (W)" type="Channel" savedIndex="90"/>
+			<sourceChannel name="Tomato Tree A5 {CR} [U1.20] (W)" type="Channel" savedIndex="289"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A6.4 (W)" type="Channel" savedIndex="91"/>
+			<sourceChannel name="Tomato Tree A6 [U1.24] (W)" type="Channel" savedIndex="290"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A7.4 (W)" type="Channel" savedIndex="92"/>
+			<sourceChannel name="Tomato Tree A7 [U1.28] (W)" type="Channel" savedIndex="291"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A8.4 {R} (W)" type="Channel" savedIndex="93"/>
+			<sourceChannel name="Tomato Tree A8 {R} [U1.32] (W)" type="Channel" savedIndex="292"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A White (W)" type="ChannelGroup" savedIndex="94"/>
+			<sourceChannel name="Tomato Trees A White [U1.04-32] (W)" type="ChannelGroup" savedIndex="293"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B1.2 {L} (W)" type="Channel" savedIndex="95"/>
+			<sourceChannel name="Tomato Tree B1 {L} [L6.02] (W)" type="Channel" savedIndex="294"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B2.2 (W)" type="Channel" savedIndex="96"/>
+			<sourceChannel name="Tomato Tree B2 [L6.04] (W)" type="Channel" savedIndex="295"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B3.2 (W)" type="Channel" savedIndex="97"/>
+			<sourceChannel name="Tomato Tree B3 [L6.06] (W)" type="Channel" savedIndex="296"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B4.2 {CL} (W)" type="Channel" savedIndex="98"/>
+			<sourceChannel name="Tomato Tree B4 {CL} [L6.08] (W)" type="Channel" savedIndex="297"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B5.2 {CR} (W)" type="Channel" savedIndex="99"/>
+			<sourceChannel name="Tomato Tree B5 {CR} [L6.10] (W)" type="Channel" savedIndex="298"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B6.2 (W)" type="Channel" savedIndex="100"/>
+			<sourceChannel name="Tomato Tree B6 [L6.12] (W)" type="Channel" savedIndex="299"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B7.2 (W)" type="Channel" savedIndex="101"/>
+			<sourceChannel name="Tomato Tree B7 [L6.14] (W)" type="Channel" savedIndex="300"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B8.2 {R} (W)" type="Channel" savedIndex="102"/>
+			<sourceChannel name="Tomato Tree B8 {R} [L6.16] (W)" type="Channel" savedIndex="301"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato B White (W)" type="ChannelGroup" savedIndex="103"/>
+			<sourceChannel name="Tomato Trees B White [L5.02-16]" type="ChannelGroup" savedIndex="302"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A &amp; B White (W)" type="ChannelGroup" savedIndex="104"/>
+			<sourceChannel name="Tomato Trees A &amp; B White [L5.02-16, U1.04-32]" type="ChannelGroup" savedIndex="303"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B1.1 {L} (V)" type="Channel" savedIndex="105"/>
+			<sourceChannel name="Tomato Tree B1 {L} [L6.01] (V)" type="Channel" savedIndex="304"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B2.1 (V)" type="Channel" savedIndex="106"/>
+			<sourceChannel name="Tomato Tree B2 [L6.03] (V)" type="Channel" savedIndex="305"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B3.1 (V)" type="Channel" savedIndex="107"/>
+			<sourceChannel name="Tomato Tree B3 [L6.05] (V)" type="Channel" savedIndex="306"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B4.1 {CL} (V)" type="Channel" savedIndex="108"/>
+			<sourceChannel name="Tomato Tree B4 {CL} [L6.07] (V)" type="Channel" savedIndex="307"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B5.1 {CR} (V)" type="Channel" savedIndex="109"/>
+			<sourceChannel name="Tomato Tree B5 {CR} [L6.09] (V)" type="Channel" savedIndex="308"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B6.1 (V)" type="Channel" savedIndex="110"/>
+			<sourceChannel name="Tomato Tree B6 [L6.11] (V)" type="Channel" savedIndex="309"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B7.1 (V)" type="Channel" savedIndex="111"/>
+			<sourceChannel name="Tomato Tree B7 [L6.13] (V)" type="Channel" savedIndex="310"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato B8.1 {R} (V)" type="Channel" savedIndex="112"/>
+			<sourceChannel name="Tomato Tree B8 {R} [L6.15] (V)" type="Channel" savedIndex="311"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato B Purple (V)" type="ChannelGroup" savedIndex="113"/>
+			<sourceChannel name="Tomato Trees B Purple [L5.01-15]" type="ChannelGroup" savedIndex="312"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato A &amp; B By Color" type="ChannelGroup" savedIndex="114"/>
+			<sourceChannel name="Tomato Trees A &amp; B By Color" type="ChannelGroup" savedIndex="313"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A1 (L} (RGB)" type="RGBchannel" savedIndex="115"/>
+			<sourceChannel name="Tomato Tree A1 (Far Left} [U1.01]" type="RGBchannel" savedIndex="314"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A2 (RGB)" type="RGBchannel" savedIndex="116"/>
+			<sourceChannel name="Tomato Tree A2 [U1.05]" type="RGBchannel" savedIndex="315"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A3 (RGB)" type="RGBchannel" savedIndex="117"/>
+			<sourceChannel name="Tomato Tree A3 [U1.09]" type="RGBchannel" savedIndex="316"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A4 {CL} (RGB)" type="RGBchannel" savedIndex="118"/>
+			<sourceChannel name="Tomato Tree A4 {Center Left} [U1.13]" type="RGBchannel" savedIndex="317"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A5 {CR} (RGB)" type="RGBchannel" savedIndex="119"/>
+			<sourceChannel name="Tomato Tree A5 {Center Right} [U1.17]" type="RGBchannel" savedIndex="318"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A6 (RGB)" type="RGBchannel" savedIndex="120"/>
+			<sourceChannel name="Tomato Tree A6 [U1.21]" type="RGBchannel" savedIndex="319"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A7 (RGB)" type="RGBchannel" savedIndex="121"/>
+			<sourceChannel name="Tomato Tree A7 [U1.25]" type="RGBchannel" savedIndex="320"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tomato A8 {R} (RGB)" type="RGBchannel" savedIndex="122"/>
+			<sourceChannel name="Tomato Tree A8 {Far Right} [U1.29]" type="RGBchannel" savedIndex="321"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato Row A By Tree- As (RGBW)" type="ChannelGroup" savedIndex="123"/>
+			<sourceChannel name="Tomato Trees Row A By Tree As RGBW [U1.01-31]" type="ChannelGroup" savedIndex="322"/>
+		</channels>
+		<channels>
+			<masterChannel name="Trees- Tomato B By Tree- as (VW)" type="ChannelGroup" savedIndex="124"/>
+			<sourceChannel name="Tomato Trees B By Tree as VW [L5.01-15]" type="ChannelGroup" savedIndex="323"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Spiral 1 {L} (W)" type="Channel" savedIndex="126"/>
+			<sourceChannel name="Tree Spiral 4 {B} [L3.04] (G)" type="Channel" savedIndex="325"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Spiral 2 {F} (W)" type="Channel" savedIndex="127"/>
+			<sourceChannel name="Tree Spiral 3 {R} [L3.03] (W)" type="Channel" savedIndex="326"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Spiral 3 {R} (W)" type="Channel" savedIndex="128"/>
+			<sourceChannel name="Tree Spiral 2 {F} [L3.02] (W)" type="Channel" savedIndex="327"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Spiral 4 {B} (G)" type="Channel" savedIndex="129"/>
+			<sourceChannel name="Tree Spiral 1 {L} [L3.01] (W)" type="Channel" savedIndex="328"/>
+		</channels>
+		<channels>
+			<masterChannel name="Spiral Trees" type="ChannelGroup" savedIndex="130"/>
+			<sourceChannel name="Spiral Trees [L3.01-04]" type="ChannelGroup" savedIndex="329"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Big 1 (M)" type="Channel" savedIndex="131"/>
+			<sourceChannel name="Tree Big 1 (Multi) [L2.09]" type="Channel" savedIndex="331"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Big 2 (M)" type="Channel" savedIndex="132"/>
+			<sourceChannel name="Tree Big 2 (Multi) [L2.10]" type="Channel" savedIndex="332"/>
+		</channels>
+		<channels>
+			<masterChannel name="Presents (M)" type="Channel" savedIndex="133"/>
+			<sourceChannel name="Presents [L2.12]" type="Channel" savedIndex="408"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tinsel 1 {L} (R)" type="Channel" savedIndex="134"/>
+			<sourceChannel name="Tree Tinsel 1 {L} [L3.05] (R)" type="Channel" savedIndex="333"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Tinsel 2 {R} (R)" type="Channel" savedIndex="135"/>
+			<sourceChannel name="Tree Tinsel 2 {R} [L3.06] (R)" type="Channel" savedIndex="334"/>
+		</channels>
+		<channels>
+			<masterChannel name="Tree- Small {L} (B)" type="Channel" savedIndex="136"/>
+			<sourceChannel name="Tree Small {L} [L2.11] (B)" type="Channel" savedIndex="330"/>
+		</channels>
+		<channels>
+			<masterChannel name="Candy Canes 1 (R)" type="Channel" savedIndex="139"/>
+			<sourceChannel name="Candy Canes 1 [L2.01] (R)" type="Channel" savedIndex="337"/>
+		</channels>
+		<channels>
+			<masterChannel name="Candy Canes 2 (G)" type="Channel" savedIndex="140"/>
+			<sourceChannel name="Candy Canes 2 [L2.02] (G)" type="Channel" savedIndex="338"/>
+		</channels>
+		<channels>
+			<masterChannel name="Candy Canes 3 (R)" type="Channel" savedIndex="141"/>
+			<sourceChannel name="Candy Canes 3 [L2.03] (R)" type="Channel" savedIndex="339"/>
+		</channels>
+		<channels>
+			<masterChannel name="Candy Canes 4 (G)" type="Channel" savedIndex="142"/>
+			<sourceChannel name="Candy Canes 4 [L2.04] (G)" type="Channel" savedIndex="340"/>
+		</channels>
+		<channels>
+			<masterChannel name="Candy Canes" type="ChannelGroup" savedIndex="143"/>
+			<sourceChannel name="Candy Canes [L2.01-04] (RGRG)" type="ChannelGroup" savedIndex="341"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 1 (R)" type="Channel" savedIndex="144"/>
+			<sourceChannel name="Rainbow Rope Arch 1 [L4.05] (R)" type="Channel" savedIndex="342"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 2 (O)" type="Channel" savedIndex="145"/>
+			<sourceChannel name="Rainbow Rope Arch 2 [L4.06] (O)" type="Channel" savedIndex="343"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 3 (Y)" type="Channel" savedIndex="146"/>
+			<sourceChannel name="Rainbow Rope Arch 3 [L4.07] (Y)" type="Channel" savedIndex="344"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 4 (G)" type="Channel" savedIndex="147"/>
+			<sourceChannel name="Rainbow Rope Arch 4 [L4.08] (G)" type="Channel" savedIndex="345"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 5 (B)" type="Channel" savedIndex="148"/>
+			<sourceChannel name="Rainbow Rope Arch 5 [L4.09] (B)" type="Channel" savedIndex="346"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arch 6 (V)" type="Channel" savedIndex="149"/>
+			<sourceChannel name="Rainbow Rope Arch 6 [L4.10] (V)" type="Channel" savedIndex="347"/>
+		</channels>
+		<channels>
+			<masterChannel name="Rainbow Rope Arches" type="ChannelGroup" savedIndex="150"/>
+			<sourceChannel name="Rainbow Rope Arches [L4.05-10] (ROYGBV)" type="ChannelGroup" savedIndex="348"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Pine (GO)" type="Channel" savedIndex="151"/>
+			<sourceChannel name="Swirlies Pine [L5.13] (G+Orn)" type="Channel" savedIndex="349"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Oak (RGB)" type="Channel" savedIndex="152"/>
+			<sourceChannel name="Swirlies Oak [L5.14] (RGB)" type="Channel" savedIndex="350"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Driveway (RGB)" type="Channel" savedIndex="153"/>
+			<sourceChannel name="Swirlies Drway [L5.12] (RGB)" type="Channel" savedIndex="351"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Manger Stars (RWB)" type="Channel" savedIndex="154"/>
+			<sourceChannel name="Swirlies Manger Stars [L5.15] (RWB)" type="Channel" savedIndex="352"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Candy Canes (RG)" type="Channel" savedIndex="155"/>
+			<sourceChannel name="Swirlies Candy Canes [L4.12] (RG)" type="Channel" savedIndex="353"/>
+		</channels>
+		<channels>
+			<masterChannel name="Swirlies- Snowflakes (WB)" type="Channel" savedIndex="156"/>
+			<sourceChannel name="Snowflakes Projectors [L4.11] (WB)" type="Channel" savedIndex="354"/>
+		</channels>
+		<channels>
+			<masterChannel name="Laser- Driveway (RG)" type="Channel" savedIndex="158"/>
+			<sourceChannel name="Laser Driveway [L5.08] (RG)" type="Channel" savedIndex="359"/>
+		</channels>
+		<channels>
+			<masterChannel name="Laser- Street (RG)" type="Channel" savedIndex="159"/>
+			<sourceChannel name="Laser Street [L5.07] (RG)" type="Channel" savedIndex="360"/>
+		</channels>
+		<channels>
+			<masterChannel name="UFOs 1 {L} (RGB)" type="Channel" savedIndex="161"/>
+			<sourceChannel name="UFOs {L} [L3.10] (RGB)" type="Channel" savedIndex="362"/>
+		</channels>
+		<channels>
+			<masterChannel name="UFOs 3 {R} (RGB)" type="Channel" savedIndex="163"/>
+			<sourceChannel name="UFOs {R} [L1.10] (RGB)" type="Channel" savedIndex="363"/>
+		</channels>
+		<channels>
+			<masterChannel name="Disco Balls (M)" type="Channel" savedIndex="165"/>
+			<sourceChannel name="Disco Balls [L1.14]" type="Channel" savedIndex="365"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Snow Globe (Ww)" type="Channel" savedIndex="167"/>
+			<sourceChannel name="Singer: Snow Globe (Ww) [L2.13]" type="Channel" savedIndex="367"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Snowman (New) (W)" type="Channel" savedIndex="168"/>
+			<sourceChannel name="Singer: Snowman (New) [L2.15]" type="Channel" savedIndex="368"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Penguins" type="Channel" savedIndex="169"/>
+			<sourceChannel name="Singers: Penguins [L2.14]" type="Channel" savedIndex="369"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Carolers Flood (R)" type="Channel" savedIndex="170"/>
+			<sourceChannel name="Carolers Flood [U1.42 C.10] (R)" type="Channel" savedIndex="370"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Carolers Flood (G)" type="Channel" savedIndex="171"/>
+			<sourceChannel name="Carolers Flood [U1.43 C.11] (G)" type="Channel" savedIndex="371"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Carolers Flood (B)" type="Channel" savedIndex="172"/>
+			<sourceChannel name="Carolers Flood [U1.44 C.12] (B)" type="Channel" savedIndex="372"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers- Carolers Flood (RGB)" type="RGBchannel" savedIndex="173"/>
+			<sourceChannel name="Carolers Flood [U1.42-44 C.10-12] (RGB)" type="RGBchannel" savedIndex="373"/>
+		</channels>
+		<channels>
+			<masterChannel name="Singers" type="ChannelGroup" savedIndex="174"/>
+			<sourceChannel name="Vocalists" type="ChannelGroup" savedIndex="374"/>
+		</channels>
+		<channels>
+			<masterChannel name="Snowfall Spots (W)" type="Channel" savedIndex="175"/>
+			<sourceChannel name="Snowfall Spots [L1.16]" type="Channel" savedIndex="375"/>
+		</channels>
+		<channels>
+			<masterChannel name="Snow Lake (W)" type="Channel" savedIndex="176"/>
+			<sourceChannel name="Snow Lake (W) [L1.11]" type="Channel" savedIndex="376"/>
+		</channels>
+		<channels>
+			<masterChannel name="Yellow Snow (Y)" type="Channel" savedIndex="177"/>
+			<sourceChannel name="Yellow Snow (Yel) [L3.12]" type="Channel" savedIndex="377"/>
+		</channels>
+		<channels>
+			<masterChannel name="Snow" type="ChannelGroup" savedIndex="178"/>
+			<sourceChannel name="Snow" type="ChannelGroup" savedIndex="378"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {L} (R)" type="Channel" savedIndex="179"/>
+			<sourceChannel name="Roof Ridgeline {L} [U1.45 C.13] (R)" type="Channel" savedIndex="379"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {L} (G)" type="Channel" savedIndex="180"/>
+			<sourceChannel name="Roof Ridgeline {L} [U1.46 C.14] (G)" type="Channel" savedIndex="380"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {L} (B)" type="Channel" savedIndex="181"/>
+			<sourceChannel name="Roof Ridgeline {L} [U1.47 C.15] (B)" type="Channel" savedIndex="381"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {L} (RGB)" type="RGBchannel" savedIndex="182"/>
+			<sourceChannel name="Roof Ridgeline {L} [U1.45-47 C.13-15] (RGB)" type="RGBchannel" savedIndex="382"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {R} (R)" type="Channel" savedIndex="183"/>
+			<sourceChannel name="Roof Ridgeline {R} [U1.48 C.16] (R)" type="Channel" savedIndex="383"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {R} (G)" type="Channel" savedIndex="184"/>
+			<sourceChannel name="Roof Ridgeline {R} [U1.49 C.17] (G)" type="Channel" savedIndex="384"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {R} (B)" type="Channel" savedIndex="185"/>
+			<sourceChannel name="Roof Ridgeline {R} [U1.50 C.18] (B)" type="Channel" savedIndex="385"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline {R} (RGB)" type="RGBchannel" savedIndex="186"/>
+			<sourceChannel name="Roof Ridgeline {R} [U1.48-50 C.16-18] (RGB)" type="RGBchannel" savedIndex="386"/>
+		</channels>
+		<channels>
+			<masterChannel name="Roof Ridgeline (RGB)" type="ChannelGroup" savedIndex="187"/>
+			<sourceChannel name="Roof Ridgeline Gumsticks [U1.45-5 C.13-18]" type="ChannelGroup" savedIndex="387"/>
+		</channels>
+		<channels>
+			<masterChannel name="Star of Bethlehem (W)" type="Channel" savedIndex="189"/>
+			<sourceChannel name="Star of Bethlehem (W) [L5.10]" type="Channel" savedIndex="396"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {R} (R)" type="Channel" savedIndex="190"/>
+			<sourceChannel name="Manger Flood {R} [U1.39 C.07] (R)" type="Channel" savedIndex="392"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {R} (G)" type="Channel" savedIndex="191"/>
+			<sourceChannel name="Manger Flood {R} [U1.40 C.08] (G)" type="Channel" savedIndex="393"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {R} (B)" type="Channel" savedIndex="192"/>
+			<sourceChannel name="Manger Flood {R} [U1.41 C.09] (B)" type="Channel" savedIndex="394"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {R} (RGB)" type="RGBchannel" savedIndex="193"/>
+			<sourceChannel name="Manger Flood {R} [U1.39-41 C.07-09] (RGB)" type="RGBchannel" savedIndex="395"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {L} (R)" type="Channel" savedIndex="194"/>
+			<sourceChannel name="Manger Flood {L} [U1.36 C.04] (R)" type="Channel" savedIndex="388"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {L} (G)" type="Channel" savedIndex="195"/>
+			<sourceChannel name="Manger Flood {L} [U1.37 C.05] (G)" type="Channel" savedIndex="389"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {L} (B)" type="Channel" savedIndex="196"/>
+			<sourceChannel name="Manger Flood {L} [U1.38 C.06] (B)" type="Channel" savedIndex="390"/>
+		</channels>
+		<channels>
+			<masterChannel name="Manger Flood {L} (RGB)" type="RGBchannel" savedIndex="197"/>
+			<sourceChannel name="Manger Flood {L} [U1.36-38 C.04-06] (RGB)" type="RGBchannel" savedIndex="391"/>
+		</channels>
+		<channels>
+			<masterChannel name="Menorah (B)" type="Channel" savedIndex="198"/>
+			<sourceChannel name="Menorah [L2.07]" type="Channel" savedIndex="397"/>
+		</channels>
+		<channels>
+			<masterChannel name="Yule Log (O)" type="Channel" savedIndex="199"/>
+			<sourceChannel name="Yule Log [L2.05]" type="Channel" savedIndex="398"/>
+		</channels>
+		<channels>
+			<masterChannel name="Festivus Pole Flood (R)" type="Channel" savedIndex="200"/>
+			<sourceChannel name="Festivus Pole Flood [U1.33 C.01] (R)" type="Channel" savedIndex="399"/>
+		</channels>
+		<channels>
+			<masterChannel name="Festivus Pole Flood (G)" type="Channel" savedIndex="201"/>
+			<sourceChannel name="Festivus Pole Flood [U1.34 C.02] (G)" type="Channel" savedIndex="400"/>
+		</channels>
+		<channels>
+			<masterChannel name="Festivus Pole Flood (B)" type="Channel" savedIndex="202"/>
+			<sourceChannel name="Festivus Pole Flood [U1.35 C.03] (B)" type="Channel" savedIndex="401"/>
+		</channels>
+		<channels>
+			<masterChannel name="Festivus Pole Flood (RGB)" type="RGBchannel" savedIndex="203"/>
+			<sourceChannel name="Festivus Pole Flood [U1.33-35 C.01-03] (RGB)" type="RGBchannel" savedIndex="402"/>
+		</channels>
+		<channels>
+			<masterChannel name="Peace Sign (RGB), Coexist, Work Together" type="Channel" savedIndex="204"/>
+			<sourceChannel name="Peace Sign [L2.06]" type="Channel" savedIndex="403"/>
+		</channels>
+		<channels>
+			<masterChannel name="Wreath Leaves(G)" type="Channel" savedIndex="206"/>
+			<sourceChannel name="Wreath Leaves [L1.08]" type="Channel" savedIndex="404"/>
+		</channels>
+		<channels>
+			<masterChannel name="Wreath Berries(R)" type="Channel" savedIndex="207"/>
+			<sourceChannel name="Wreath Berries [L1.09]" type="Channel" savedIndex="405"/>
+		</channels>
+		<channels>
+			<masterChannel name="Lamp Posts (Y)" type="Channel" savedIndex="209"/>
+			<sourceChannel name="Lamp Posts [L4.16]" type="Channel" savedIndex="407"/>
+		</channels>
+		<channels>
+			<masterChannel name="Countdown Timer (B)" type="Channel" savedIndex="211"/>
+			<sourceChannel name="Countdown Timer [L4.13] (B)" type="Channel" savedIndex="409"/>
+		</channels>
+		<channels>
+			<masterChannel name="Mailboxes (O)" type="Channel" savedIndex="212"/>
+			<sourceChannel name="Mailboxes [L4.15]" type="Channel" savedIndex="410"/>
+		</channels>
+	</mappings>
+</channelMap>

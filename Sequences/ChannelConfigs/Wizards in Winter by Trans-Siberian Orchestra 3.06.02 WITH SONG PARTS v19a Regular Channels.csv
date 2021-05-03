@@ -1,0 +1,180 @@
+Type,SavedIndex,Name,Centiseconds,Device,Unit,Network,Circuit,Universe,Channel,LOR Color,Web Color,Color Name
+Channel,163,_Spare (Swirlies?) [L5.11],28279,LOR,5,AuxA,11,,,8421504,#808080,Gray
+Channel,99,_Spare [L1.13],28279,LOR,1,Regular,13,,,8454016,#80FF80,LightGray
+Channel,157,_Spare [L2.16],28279,LOR,2,AuxA,16,,,8421504,#808080,Gray
+Channel,158,_Spare [L3.14],28279,LOR,3,AuxA,14,,,12632256,#C0C0C0,Silver
+Channel,161,_Spare [L3.15],28279,LOR,3,AuxA,15,,,8421504,#808080,Gray
+Channel,162,_Spare [L3.16],28279,LOR,3,AuxA,16,,,8421504,#808080,Gray
+Channel,379,_Spare [L4.14],28279,LOR,4,AuxA,14,,,8421504,#808080,Gray
+Channel,164,_Spare [L5.09],28279,LOR,5,AuxA,9,,,8421504,#808080,Gray
+Channel,13,Bushes {L} [L3.07] (Multi),28279,LOR,3,AuxA,7,,,16512,#804000,SaddleBrown
+Channel,14,Bushes {L} [L3.08] (W),28279,LOR,3,AuxA,8,,,16777215,#FFFFFF,White
+Channel,15,Bushes {L} Low [L3.09] (Orn),28279,LOR,3,AuxA,9,,,33023,#FF8000,DarkOrange
+Channel,165,Bushes {R} [L5.01] (R),28279,LOR,5,AuxA,1,,,255,#FF0000,Red
+Channel,166,Bushes {R} [L5.02] (G),28279,LOR,5,AuxA,2,,,65280,#00FF00,Green
+Channel,16,Bushes {R} [L5.03] (B),28279,LOR,5,AuxA,3,,,16711680,#0000FF,Blue
+Channel,18,Bushes {R} [L5.04] (W),28279,LOR,5,AuxA,4,,,16777215,#FFFFFF,White
+Channel,17,Bushes {R} [L5.05] (Vio),28279,LOR,5,AuxA,5,,,16711808,#8000FF,DarkViolet
+Channel,19,Bushes {R} [L5.06] (Multi),28279,LOR,5,AuxA,6,,,65535,#FFFF00,Yellow
+Channel,9,Bushes Center M5 [L4.01] (R),28279,LOR,4,AuxA,1,,,255,#FF0000,Red
+Channel,10,Bushes Center M5 [L4.02] (G),28279,LOR,4,AuxA,2,,,65280,#00FF00,Green
+Channel,11,Bushes Center M5 [L4.03] (B),28279,LOR,4,AuxA,3,,,16711680,#0000FF,Blue
+Channel,12,Bushes Center M5 [L4.04] (Ww),28279,LOR,4,AuxA,4,,,14148607,#FFE3D7,MistyRose
+Channel,20,Bushes Driveway [L1.06] (Pink),28279,LOR,1,Regular,6,,,16744703,#FF80FF,Violet
+Channel,151,Bushes Driveway [L1.07] (W),28279,LOR,1,Regular,7,,,16777215,#FFFFFF,White
+Channel,21,Bushes Side Rainbow [L2.08],28279,LOR,2,AuxA,8,,,32896,#808000,Olive
+Channel,79,Candy Canes 1 [L2.01] (R),28279,LOR,2,AuxA,1,,,255,#FF0000,Red
+Channel,80,Candy Canes 2 [L2.02] (G),28279,LOR,2,AuxA,2,,,65280,#00FF00,Green
+Channel,81,Candy Canes 3 [L2.03] (R),28279,LOR,2,AuxA,3,,,255,#FF0000,Red
+Channel,82,Candy Canes 4 [L2.04] (G),28279,LOR,2,AuxA,4,,,65280,#00FF00,Green
+Channel,130,Carolers Flood [U1.42 C.10] (R),28279,DMX,,,,1,42,255,#FF0000,Red
+Channel,131,Carolers Flood [U1.43 C.11] (G),28279,DMX,,,,1,43,65280,#00FF00,Green
+Channel,132,Carolers Flood [U1.44 C.12] (B),28279,DMX,,,,1,44,16711680,#0000FF,Blue
+Channel,150,Countdown Timer (B) [L4.13],28279,LOR,4,AuxA,13,,,16711680,#0000FF,Blue
+Channel,106,Disco Balls [L1.14],28279,LOR,1,Regular,14,,,8388863,#FF0080,DeepPink
+Channel,5,Eaves Chase C9 [L1.01] (R),28279,LOR,1,Regular,1,,,255,#FF0000,Red
+Channel,6,Eaves Chase C9 [L1.02] (G),28279,LOR,1,Regular,2,,,65280,#00FF00,Green
+Channel,7,Eaves Chase C9 [L1.03] (B),28279,LOR,1,Regular,3,,,16711680,#0000FF,Blue
+Channel,8,Eaves Chase C9 [L1.04] (W),28279,LOR,1,Regular,4,,,16777215,#FFFFFF,White
+Channel,121,Festivus Pole Flood [U1.33 C.01] (R),28279,DMX,,,,1,33,255,#FF0000,Red
+Channel,122,Festivus Pole Flood [U1.34 C.02] (G),28279,DMX,,,,1,34,65280,#00FF00,Green
+Channel,123,Festivus Pole Flood [U1.35 C.03] (B),28279,DMX,,,,1,35,16711680,#0000FF,Blue
+Channel,139,Garage Window 1 Dasher {Left} [L7.01],28279,LOR,7,AuxA,1,,,16777215,#FFFFFF,White
+Channel,140,Garage Window 2 Dancer [L7.02],28279,LOR,7,AuxA,2,,,16777215,#FFFFFF,White
+Channel,141,Garage Window 3 Prancer [L7.03],28279,LOR,7,AuxA,3,,,12615744,#4080C0,SteelBlue
+Channel,142,Garage Window 4 Vixen [L7.04],28279,LOR,7,AuxA,4,,,16777215,#FFFFFF,White
+Channel,143,Garage Window 5 Comet [L7.05],28279,LOR,7,AuxA,5,,,16777215,#FFFFFF,White
+Channel,144,Garage Window 6 Cupid [L7.06],28279,LOR,7,AuxA,6,,,16777215,#FFFFFF,White
+Channel,145,Garage Window 7 Donner [L7.07],28279,LOR,7,AuxA,7,,,16777215,#FFFFFF,White
+Channel,146,Garage Window 8 Blitzen {Right} [L7.08],28279,LOR,7,AuxA,8,,,16777215,#FFFFFF,White
+Channel,114,Knight Star [U1.59  C.27],28279,DMX,,,,1,59,8404992,#004080,Navy
+Channel,147,Lamp Posts [L4.16],28279,LOR,4,AuxA,16,,,65535,#FFFF00,Yellow
+Channel,102,Laser Driveway [L5.08] (RG),28279,LOR,5,AuxA,8,,,65280,#00FF00,Green
+Channel,103,Laser Street [L5.07] (RG),28279,LOR,5,AuxA,7,,,255,#FF0000,Red
+Channel,149,Mailboxes [L4.15],28279,LOR,4,AuxA,15,,,33023,#FF8000,DarkOrange
+Channel,124,Manger Flood {L} [U1.36 C.04] (R),28279,DMX,,,,1,36,255,#FF0000,Red
+Channel,125,Manger Flood {L} [U1.37 C.05] (G),28279,DMX,,,,1,37,65280,#00FF00,Green
+Channel,126,Manger Flood {L} [U1.38 C.06] (B),28279,DMX,,,,1,38,16711680,#0000FF,Blue
+Channel,127,Manger Flood {R} [U1.39 C.07] (R),28279,DMX,,,,1,39,255,#FF0000,Red
+Channel,128,Manger Flood {R} [U1.40 C.08] (G),28279,DMX,,,,1,40,65280,#00FF00,Green
+Channel,129,Manger Flood {R} [U1.41 C.09] (B),28279,DMX,,,,1,41,16711680,#0000FF,Blue
+Channel,1,Master Power High [L1.12],28279,LOR,1,Regular,12,,,0,#000000,Black-Off
+Channel,0,Master Power Low [L1.05],28279,LOR,1,Regular,5,,,0,#000000,Black-Off
+Channel,154,Menorah [L2.07],28279,LOR,2,AuxA,7,,,16711680,#0000FF,Blue
+Channel,83,Meteors 1 (W) [L7.10],28279,LOR,7,AuxA,10,,,16777215,#FFFFFF,White
+Channel,84,Meteors 2 (W) [L7.11],28279,LOR,7,AuxA,11,,,16777215,#FFFFFF,White
+Channel,85,Meteors 3 (B) [L7.12],28279,LOR,7,AuxA,12,,,16711680,#0000FF,Blue
+Channel,86,Meteors 4 (Multi) [L7.13],28279,LOR,7,AuxA,13,,,8388863,#FF0080,DeepPink
+Channel,156,Peace Sign [L2.06],28279,LOR,2,AuxA,6,,,128,#800000,Maroon
+Channel,148,Presents [L2.12],28279,LOR,2,AuxA,12,,,12615744,#4080C0,SteelBlue
+Channel,87,Rainbow Rope Arch 1 [L4.05] (R),28279,LOR,4,AuxA,5,,,255,#FF0000,Red
+Channel,88,Rainbow Rope Arch 2 [L4.06] (O),28279,LOR,4,AuxA,6,,,33023,#FF8000,DarkOrange
+Channel,89,Rainbow Rope Arch 3 [L4.07] (Y),28279,LOR,4,AuxA,7,,,65535,#FFFF00,Yellow
+Channel,90,Rainbow Rope Arch 4 [L4.08] (G),28279,LOR,4,AuxA,8,,,65280,#00FF00,Green
+Channel,91,Rainbow Rope Arch 5 [L4.09] (B),28279,LOR,4,AuxA,9,,,16711680,#0000FF,Blue
+Channel,92,Rainbow Rope Arch 6 [L4.10] (V),28279,LOR,4,AuxA,10,,,16711808,#8000FF,DarkViolet
+Channel,133,Roof Ridgeline {L} [U1.45 C.13] (R),28279,DMX,,,,1,45,255,#FF0000,Red
+Channel,134,Roof Ridgeline {L} [U1.46 C.14] (G),28279,DMX,,,,1,46,65280,#00FF00,Green
+Channel,135,Roof Ridgeline {L} [U1.47 C.15] (B),28279,DMX,,,,1,47,16711680,#0000FF,Blue
+Channel,136,Roof Ridgeline {R} [U1.48 C.16] (R),28279,DMX,,,,1,48,255,#FF0000,Red
+Channel,137,Roof Ridgeline {R} [U1.49 C.17] (G),28279,DMX,,,,1,49,65280,#00FF00,Green
+Channel,138,Roof Ridgeline {R} [U1.50 C.18] (B),28279,DMX,,,,1,50,16711680,#0000FF,Blue
+Channel,4,Security Lights [L1.15],28279,LOR,1,Regular,15,,,16777215,#FFFFFF,White
+Channel,115,Singer: Snow Globe (Ww) [L2.13],28279,LOR,2,AuxA,13,,,13166335,#FFE6C8,Bisque
+Channel,153,Singer: Snowman (New) [L2.15],28279,LOR,2,AuxA,15,,,16777215,#FFFFFF,White
+Channel,116,Singers: Penguins [L2.14],28279,LOR,2,AuxA,14,,,4227200,#808040,Gray
+Channel,119,Snow Lake (W) [L1.11],28279,LOR,1,Regular,11,,,16777215,#FFFFFF,White
+Channel,3,Snowfall Motor [L7.22],28279,LOR,7,AuxA,22,,,8355711,#7F7F7F,Gray
+Channel,118,Snowfall Spots [L1.16],28279,LOR,1,Regular,16,,,16777215,#FFFFFF,White
+Channel,98,Snowflakes Projectors [L4.11] (WB),28279,LOR,4,AuxA,11,,,16777088,#80FFFF,Aquamarine
+Channel,160,Spare [L3.13],28279,LOR,3,AuxA,13,,,8421504,#808080,Gray
+Channel,174,Spare Chinese 19 [U1.51  C.19],28279,DMX,,,,1,51,12615744,#4080C0,SteelBlue
+Channel,175,Spare Chinese 20 [U1.52  C.20],28279,DMX,,,,1,52,12615744,#4080C0,SteelBlue
+Channel,176,Spare Chinese 21 [U1.53  C.21],28279,DMX,,,,1,53,12615744,#4080C0,SteelBlue
+Channel,177,Spare Chinese 26 [U1.58  C.26],28279,DMX,,,,1,58,12615744,#4080C0,SteelBlue
+Channel,170,Spare CTB24.09 [L7.09],28279,LOR,7,AuxA,9,,,8421504,#808080,Gray
+Channel,171,Spare CTB24.14 [L7.14],28279,LOR,7,AuxA,14,,,8421504,#808080,Gray
+Channel,172,Spare CTB24.15 [L7.15],28279,LOR,7,AuxA,15,,,8421504,#808080,Gray
+Channel,169,Spare CTB24.16 [L7.16],28279,LOR,7,AuxA,16,,,8421504,#808080,Gray
+Channel,100,Spare CTB24.17 [L7.17],28279,LOR,7,AuxA,17,,,8421504,#808080,Gray
+Channel,101,Spare CTB24.18 [L7.18],28279,LOR,7,AuxA,18,,,8421504,#808080,Gray
+Channel,111,Spare CTB24.19 [L7.19],28279,LOR,7,AuxA,19,,,8421504,#808080,Gray
+Channel,112,Spare CTB24.20 [L7.20],28279,LOR,7,AuxA,20,,,8421504,#808080,Gray
+Channel,168,Spare CTB24.21 [L7.21],28279,LOR,7,AuxA,21,,,8421504,#808080,Gray
+Channel,173,Spare CTB24.24 [L7.24],28279,LOR,7,AuxA,24,,,12615744,#4080C0,SteelBlue
+Channel,113,Star of Bethlehem (W) [L5.10],28279,LOR,5,AuxA,10,,,16777215,#FFFFFF,White
+Channel,2,Streetlight Laser [L7.23],28279,LOR,7,AuxA,23,,,255,#FF0000,Red
+Channel,97,Swirlies Candy Canes [L4.12] (RG),28279,LOR,4,AuxA,12,,,16512,#804000,SaddleBrown
+Channel,95,Swirlies Drway [L5.12] (RGB),28279,LOR,5,AuxA,12,,,16711808,#8000FF,DarkViolet
+Channel,96,Swirlies Manger Stars [L5.15] (RWB),28279,LOR,5,AuxA,15,,,12615680,#0080C0,DarkCyan
+Channel,94,Swirlies Oak [L5.14] (RGB),28279,LOR,5,AuxA,14,,,4194432,#800040,Maroon
+Channel,93,Swirlies Pine [L5.13] (G+Orn),28279,LOR,5,AuxA,13,,,16384,#004000,DarkGreen
+Channel,167,Swirlies Street [L5.16] (Multi),28279,LOR,5,AuxA,16,,,11778119,#47B8B3,MediumTurquoise
+Channel,22,Tomato Tree A1 (L} [U1.01] (R),28279,DMX,,,,1,1,255,#FF0000,Red
+Channel,23,Tomato Tree A1 (L} [U1.02] (G),28279,DMX,,,,1,2,65280,#00FF00,Green
+Channel,24,Tomato Tree A1 (L} [U1.03] (B),28279,DMX,,,,1,3,16711680,#0000FF,Blue
+Channel,25,Tomato Tree A1 {L} [U1.04] (W),28279,DMX,,,,1,4,16777215,#FFFFFF,White
+Channel,26,Tomato Tree A2 [U1.05] (R),28279,DMX,,,,1,5,255,#FF0000,Red
+Channel,27,Tomato Tree A2 [U1.06] (G),28279,DMX,,,,1,6,65280,#00FF00,Green
+Channel,28,Tomato Tree A2 [U1.07] (B),28279,DMX,,,,1,7,16711680,#0000FF,Blue
+Channel,29,Tomato Tree A2 [U1.08] (W),28279,DMX,,,,1,8,16777215,#FFFFFF,White
+Channel,30,Tomato Tree A3 [U1.09] (R),28279,DMX,,,,1,9,255,#FF0000,Red
+Channel,31,Tomato Tree A3 [U1.10] (G),28279,DMX,,,,1,10,65280,#00FF00,Green
+Channel,32,Tomato Tree A3 [U1.11] (B),28279,DMX,,,,1,11,16711680,#0000FF,Blue
+Channel,33,Tomato Tree A3 [U1.12] (W),28279,DMX,,,,1,12,16777215,#FFFFFF,White
+Channel,34,Tomato Tree A4 {CL} [U1.13] (R),28279,DMX,,,,1,13,255,#FF0000,Red
+Channel,35,Tomato Tree A4 {CL} [U1.14] (G),28279,DMX,,,,1,14,65280,#00FF00,Green
+Channel,36,Tomato Tree A4 {CL} [U1.15] (B),28279,DMX,,,,1,15,16711680,#0000FF,Blue
+Channel,37,Tomato Tree A4 {CL} [U1.16] (W),28279,DMX,,,,1,16,16777215,#FFFFFF,White
+Channel,38,Tomato Tree A5 {CR} [U1.17] (R),28279,DMX,,,,1,17,255,#FF0000,Red
+Channel,39,Tomato Tree A5 {CR} [U1.18] (G),28279,DMX,,,,1,18,65280,#00FF00,Green
+Channel,40,Tomato Tree A5 {CR} [U1.19] (B),28279,DMX,,,,1,19,16711680,#0000FF,Blue
+Channel,41,Tomato Tree A5 {CR} [U1.20] (W),28279,DMX,,,,1,20,16777215,#FFFFFF,White
+Channel,42,Tomato Tree A6 [U1.21] (R),28279,DMX,,,,1,21,255,#FF0000,Red
+Channel,43,Tomato Tree A6 [U1.22] (G),28279,DMX,,,,1,22,65280,#00FF00,Green
+Channel,44,Tomato Tree A6 [U1.23] (B),28279,DMX,,,,1,23,16711680,#0000FF,Blue
+Channel,45,Tomato Tree A6 [U1.24] (W),28279,DMX,,,,1,24,16777215,#FFFFFF,White
+Channel,46,Tomato Tree A7 [U1.25] (R),28279,DMX,,,,1,25,255,#FF0000,Red
+Channel,47,Tomato Tree A7 [U1.26] (G),28279,DMX,,,,1,26,65280,#00FF00,Green
+Channel,48,Tomato Tree A7 [U1.27] (B),28279,DMX,,,,1,27,16711680,#0000FF,Blue
+Channel,49,Tomato Tree A7 [U1.28] (W),28279,DMX,,,,1,28,16777215,#FFFFFF,White
+Channel,50,Tomato Tree A8 {R} [U1.29] (R),28279,DMX,,,,1,29,255,#FF0000,Red
+Channel,51,Tomato Tree A8 {R} [U1.30] (G),28279,DMX,,,,1,30,65280,#00FF00,Green
+Channel,52,Tomato Tree A8 {R} [U1.31] (B),28279,DMX,,,,1,31,16711680,#0000FF,Blue
+Channel,53,Tomato Tree A8 {R} [U1.32] (W),28279,DMX,,,,1,32,16777215,#FFFFFF,White
+Channel,62,Tomato Tree B1 {L} [L6.01] (V),28279,LOR,6,AuxA,1,,,16711808,#8000FF,DarkViolet
+Channel,54,Tomato Tree B1 {L} [L6.02] (W),28279,LOR,6,AuxA,2,,,16777215,#FFFFFF,White
+Channel,63,Tomato Tree B2 [L6.03] (V),28279,LOR,6,AuxA,3,,,16711808,#8000FF,DarkViolet
+Channel,55,Tomato Tree B2 [L6.04] (W),28279,LOR,6,AuxA,4,,,16777215,#FFFFFF,White
+Channel,64,Tomato Tree B3 [L6.05] (V),28279,LOR,6,AuxA,5,,,16711808,#8000FF,DarkViolet
+Channel,56,Tomato Tree B3 [L6.06] (W),28279,LOR,6,AuxA,6,,,16777215,#FFFFFF,White
+Channel,65,Tomato Tree B4 {CL} [L6.07] (V),28279,LOR,6,AuxA,7,,,16711808,#8000FF,DarkViolet
+Channel,57,Tomato Tree B4 {CL} [L6.08] (W),28279,LOR,6,AuxA,8,,,16777215,#FFFFFF,White
+Channel,66,Tomato Tree B5 {CR} [L6.09] (V),28279,LOR,6,AuxA,9,,,16711808,#8000FF,DarkViolet
+Channel,58,Tomato Tree B5 {CR} [L6.10] (W),28279,LOR,6,AuxA,10,,,16777215,#FFFFFF,White
+Channel,67,Tomato Tree B6 [L6.11] (V),28279,LOR,6,AuxA,11,,,16711808,#8000FF,DarkViolet
+Channel,59,Tomato Tree B6 [L6.12] (W),28279,LOR,6,AuxA,12,,,16777215,#FFFFFF,White
+Channel,68,Tomato Tree B7 [L6.13] (V),28279,LOR,6,AuxA,13,,,16711808,#8000FF,DarkViolet
+Channel,60,Tomato Tree B7 [L6.14] (W),28279,LOR,6,AuxA,14,,,16777215,#FFFFFF,White
+Channel,69,Tomato Tree B8 {R} [L6.15] (V),28279,LOR,6,AuxA,15,,,16711808,#8000FF,DarkViolet
+Channel,61,Tomato Tree B8 {R} [L6.16] (W),28279,LOR,6,AuxA,16,,,16777215,#FFFFFF,White
+Channel,77,Tree Big 1 (Multi) [L2.09],28279,LOR,2,AuxA,9,,,8453888,#00FF80,SpringGreen
+Channel,78,Tree Big 2 (Multi) [L2.10],28279,LOR,2,AuxA,10,,,16384,#004000,DarkGreen
+Channel,74,Tree Small {L} [L2.11] (B),28279,LOR,2,AuxA,11,,,16711680,#0000FF,Blue
+Channel,73,Tree Spiral 1 {L} [L3.01] (W),28279,LOR,3,AuxA,1,,,16777215,#FFFFFF,White
+Channel,72,Tree Spiral 2 {F} [L3.02] (W),28279,LOR,3,AuxA,2,,,16777215,#FFFFFF,White
+Channel,71,Tree Spiral 3 {R} [L3.03] (W),28279,LOR,3,AuxA,3,,,16777215,#FFFFFF,White
+Channel,70,Tree Spiral 4 {B} [L3.04] (G),28279,LOR,3,AuxA,4,,,65280,#00FF00,Green
+Channel,75,Tree Tinsel 1 {L} [L3.05] (R),28279,LOR,3,AuxA,5,,,255,#FF0000,Red
+Channel,76,Tree Tinsel 2 {R} [L3.06] (R),28279,LOR,3,AuxA,6,,,255,#FF0000,Red
+Channel,107,Twinklers 1 [U1.54  C.22],28279,DMX,,,,1,54,16777215,#FFFFFF,White
+Channel,108,Twinklers 2 [U1.55  C.23],28279,DMX,,,,1,55,16777215,#FFFFFF,White
+Channel,109,Twinklers 3 [U1.56  C.24],28279,DMX,,,,1,56,16777215,#FFFFFF,White
+Channel,110,Twinklers 4 [U1.57  C.25],28279,DMX,,,,1,57,16777215,#FFFFFF,White
+Channel,159,UFOs {C}{T} [L3.11] (RGB),28279,LOR,3,AuxA,11,,,4210816,#804040,SaddleBrown
+Channel,104,UFOs {L} [L3.10] (RGB),28279,LOR,3,AuxA,10,,,65535,#FFFF00,Yellow
+Channel,105,UFOs {R} [L1.10] (RGB),28279,LOR,1,Regular,10,,,12615744,#4080C0,SteelBlue
+Channel,152,Wreath Berries [L1.09],28279,LOR,1,Regular,9,,,255,#FF0000,Red
+Channel,117,Wreath Leaves [L1.08],28279,LOR,1,Regular,8,,,65280,#00FF00,Green
+Channel,120,Yellow Snow (Yel) [L3.12],28279,LOR,3,AuxA,12,,,65535,#FFFF00,Yellow
+Channel,155,Yule Log [L2.05],28279,LOR,2,AuxA,5,,,33023,#FF8000,DarkOrange
