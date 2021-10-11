@@ -1,0 +1,28 @@
+# Backup Files
+*.bak
+*.zip
+*.exe
+
+# Compiled Sequences
+*.lcs
+
+# Windows Desktop
+desktop.ini
+Thumbs.db
+
+# Audio
+Audio/*
+./Audio/*
+*.mp3
+*.wav
+*.m3u
+*.pls
+*.m4a
+*.flac
+*.cue
+*.ape
+
+Utils/*
+./Utils/*
+Superstar/*
+./Superstar/*
