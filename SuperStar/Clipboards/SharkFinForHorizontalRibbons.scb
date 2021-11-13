@@ -1,0 +1,643 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12 or more
+
+Appearance:
+  Shark fin travels across horizontal ribbons
+
+Try Changing:
+  The two lower image actions are the shark fin moving left then right.
+  The water is done in two different ways. The water for the first shark fin is done with scenes that fade between two shades of blue. There are two groups of blue, the pixels in the top group are the inverse of the pixels in the bottom group. It is easy to make an inverse pixel group. Make the first pixel group, add that scene, then do Shift-Mouse select on the pixel group and all the selected pixels will become unselected and all the unselected pixels will become selected. Then add that scene.
+  To change the length of the water, select groups and copy paste them to the end of the current water group.
+  To change the length of the shark fin moving, select the shark fin image action and use the Nudge buttons, or just select a different region on the time scale and click on Modify.">
+	<scenes>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="0" endCentisecond="50" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+			<element ribbonIndex="1" pixelIndex="2"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="13"/>
+			<element ribbonIndex="1" pixelIndex="14"/>
+			<element ribbonIndex="1" pixelIndex="19"/>
+			<element ribbonIndex="1" pixelIndex="21"/>
+			<element ribbonIndex="1" pixelIndex="22"/>
+			<element ribbonIndex="1" pixelIndex="23"/>
+			<element ribbonIndex="1" pixelIndex="28"/>
+			<element ribbonIndex="1" pixelIndex="29"/>
+			<element ribbonIndex="1" pixelIndex="30"/>
+			<element ribbonIndex="1" pixelIndex="31"/>
+			<element ribbonIndex="1" pixelIndex="40"/>
+			<element ribbonIndex="1" pixelIndex="41"/>
+			<element ribbonIndex="1" pixelIndex="42"/>
+			<element ribbonIndex="1" pixelIndex="43"/>
+			<element ribbonIndex="1" pixelIndex="44"/>
+			<element ribbonIndex="1" pixelIndex="47"/>
+			<element ribbonIndex="1" pixelIndex="48"/>
+		</scene>
+		<scene name="Scene 3" layer="2" type="intensity" startCentisecond="0" endCentisecond="40" red1="0" green1="0" blue1="40" red2="0" green2="0" blue2="60" savedIndex="1">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="Scene 4" layer="2" type="intensity" startCentisecond="40" endCentisecond="80" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="2">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="50" endCentisecond="100" red1="0" green1="0" blue1="40" red2="0" green2="0" blue2="70" savedIndex="3">
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+			<element ribbonIndex="1" pixelIndex="2"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="13"/>
+			<element ribbonIndex="1" pixelIndex="14"/>
+			<element ribbonIndex="1" pixelIndex="19"/>
+			<element ribbonIndex="1" pixelIndex="21"/>
+			<element ribbonIndex="1" pixelIndex="22"/>
+			<element ribbonIndex="1" pixelIndex="23"/>
+			<element ribbonIndex="1" pixelIndex="28"/>
+			<element ribbonIndex="1" pixelIndex="29"/>
+			<element ribbonIndex="1" pixelIndex="30"/>
+			<element ribbonIndex="1" pixelIndex="31"/>
+			<element ribbonIndex="1" pixelIndex="40"/>
+			<element ribbonIndex="1" pixelIndex="41"/>
+			<element ribbonIndex="1" pixelIndex="42"/>
+			<element ribbonIndex="1" pixelIndex="43"/>
+			<element ribbonIndex="1" pixelIndex="44"/>
+			<element ribbonIndex="1" pixelIndex="47"/>
+			<element ribbonIndex="1" pixelIndex="48"/>
+		</scene>
+		<scene name="Scene 3" layer="2" type="intensity" startCentisecond="80" endCentisecond="115" red1="0" green1="0" blue1="40" red2="0" green2="0" blue2="60" savedIndex="4">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="100" endCentisecond="150" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="5">
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+			<element ribbonIndex="1" pixelIndex="2"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="13"/>
+			<element ribbonIndex="1" pixelIndex="14"/>
+			<element ribbonIndex="1" pixelIndex="19"/>
+			<element ribbonIndex="1" pixelIndex="21"/>
+			<element ribbonIndex="1" pixelIndex="22"/>
+			<element ribbonIndex="1" pixelIndex="23"/>
+			<element ribbonIndex="1" pixelIndex="28"/>
+			<element ribbonIndex="1" pixelIndex="29"/>
+			<element ribbonIndex="1" pixelIndex="30"/>
+			<element ribbonIndex="1" pixelIndex="31"/>
+			<element ribbonIndex="1" pixelIndex="40"/>
+			<element ribbonIndex="1" pixelIndex="41"/>
+			<element ribbonIndex="1" pixelIndex="42"/>
+			<element ribbonIndex="1" pixelIndex="43"/>
+			<element ribbonIndex="1" pixelIndex="44"/>
+			<element ribbonIndex="1" pixelIndex="47"/>
+			<element ribbonIndex="1" pixelIndex="48"/>
+		</scene>
+		<scene name="Scene 4" layer="2" type="intensity" startCentisecond="115" endCentisecond="145" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="6">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="Scene 3" layer="2" type="intensity" startCentisecond="145" endCentisecond="185" red1="0" green1="0" blue1="40" red2="0" green2="0" blue2="60" savedIndex="7">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="150" endCentisecond="190" red1="0" green1="0" blue1="40" red2="0" green2="0" blue2="70" savedIndex="8">
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+			<element ribbonIndex="1" pixelIndex="2"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="13"/>
+			<element ribbonIndex="1" pixelIndex="14"/>
+			<element ribbonIndex="1" pixelIndex="19"/>
+			<element ribbonIndex="1" pixelIndex="21"/>
+			<element ribbonIndex="1" pixelIndex="22"/>
+			<element ribbonIndex="1" pixelIndex="23"/>
+			<element ribbonIndex="1" pixelIndex="28"/>
+			<element ribbonIndex="1" pixelIndex="29"/>
+			<element ribbonIndex="1" pixelIndex="30"/>
+			<element ribbonIndex="1" pixelIndex="31"/>
+			<element ribbonIndex="1" pixelIndex="40"/>
+			<element ribbonIndex="1" pixelIndex="41"/>
+			<element ribbonIndex="1" pixelIndex="42"/>
+			<element ribbonIndex="1" pixelIndex="43"/>
+			<element ribbonIndex="1" pixelIndex="44"/>
+			<element ribbonIndex="1" pixelIndex="47"/>
+			<element ribbonIndex="1" pixelIndex="48"/>
+		</scene>
+		<scene name="Scene 4" layer="2" type="intensity" startCentisecond="185" endCentisecond="225" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="9">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+			<element ribbonIndex="1" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="4"/>
+			<element ribbonIndex="1" pixelIndex="5"/>
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+			<element ribbonIndex="1" pixelIndex="12"/>
+			<element ribbonIndex="1" pixelIndex="15"/>
+			<element ribbonIndex="1" pixelIndex="16"/>
+			<element ribbonIndex="1" pixelIndex="17"/>
+			<element ribbonIndex="1" pixelIndex="18"/>
+			<element ribbonIndex="1" pixelIndex="20"/>
+			<element ribbonIndex="1" pixelIndex="24"/>
+			<element ribbonIndex="1" pixelIndex="25"/>
+			<element ribbonIndex="1" pixelIndex="26"/>
+			<element ribbonIndex="1" pixelIndex="27"/>
+			<element ribbonIndex="1" pixelIndex="32"/>
+			<element ribbonIndex="1" pixelIndex="33"/>
+			<element ribbonIndex="1" pixelIndex="34"/>
+			<element ribbonIndex="1" pixelIndex="35"/>
+			<element ribbonIndex="1" pixelIndex="36"/>
+			<element ribbonIndex="1" pixelIndex="37"/>
+			<element ribbonIndex="1" pixelIndex="38"/>
+			<element ribbonIndex="1" pixelIndex="39"/>
+			<element ribbonIndex="1" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="46"/>
+			<element ribbonIndex="1" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="190" endCentisecond="225" red1="0" green1="0" blue1="70" red2="0" green2="0" blue2="40" savedIndex="10">
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+			<element ribbonIndex="1" pixelIndex="2"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="13"/>
+			<element ribbonIndex="1" pixelIndex="14"/>
+			<element ribbonIndex="1" pixelIndex="19"/>
+			<element ribbonIndex="1" pixelIndex="21"/>
+			<element ribbonIndex="1" pixelIndex="22"/>
+			<element ribbonIndex="1" pixelIndex="23"/>
+			<element ribbonIndex="1" pixelIndex="28"/>
+			<element ribbonIndex="1" pixelIndex="29"/>
+			<element ribbonIndex="1" pixelIndex="30"/>
+			<element ribbonIndex="1" pixelIndex="31"/>
+			<element ribbonIndex="1" pixelIndex="40"/>
+			<element ribbonIndex="1" pixelIndex="41"/>
+			<element ribbonIndex="1" pixelIndex="42"/>
+			<element ribbonIndex="1" pixelIndex="43"/>
+			<element ribbonIndex="1" pixelIndex="44"/>
+			<element ribbonIndex="1" pixelIndex="47"/>
+			<element ribbonIndex="1" pixelIndex="48"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+		<image name="Shaded Fin Left" xOffset="0" yOffset="0" width="10" height="9" savedIndex="0">
+			<pixels="1973790,1973790,1315860,657930,0,0,0,0,0,0,3289650,3289650,2631720,1973790,1315860,0,0,0,0,0,3947580,3947580,3947580,3289650,2631720,1973790,0,0,0,0,3947580,3947580,3947580,3947580,3947580,2631720,1973790,0,0,0,3947580,3947580,3947580,3947580,3947580,3947580,3289650,1973790,0,0,2631720,2631720,2634280,3289650,3947580,3947580,3947580,2634280,1973790,0,1973790,1973790,1973790,2631720,2631720,2631720,3289650,3947580,2634280,1315860,0,0,0,657930,1315860,1315860,1973790,2631720,2634280,1315860,0,0,0,0,0,0,657930,657930,1315860,1315860"/>
+		</image>
+		<image name="water1" xOffset="0" yOffset="0" width="2" height="50" savedIndex="1">
+			<pixels="70,60,70,50,30,50,30,50,60,70,60,70,60,30,40,70,40,70,40,70,60,60,30,30,70,60,70,60,40,60,40,60,50,40,50,40,50,60,60,70,40,40,40,40,40,50,40,50,40,60,40,60,70,60,30,40,30,40,50,40,50,70,50,70,50,70,40,30,40,50,40,60,40,60,40,60,40,60,50,30,50,70,30,70,50,70,50,30,40,60,70,60,70,60,30,50,60,70,60,70"/>
+		</image>
+		<image name="water2" xOffset="0" yOffset="0" width="2" height="50" savedIndex="2">
+			<pixels="50,60,50,50,70,60,30,60,60,50,60,50,60,30,40,40,40,40,40,70,70,60,70,30,70,60,70,60,40,60,40,50,50,50,50,40,50,60,60,70,40,70,70,70,70,70,70,50,40,70,40,70,70,60,40,40,40,40,40,60,70,60,70,60,50,70,40,30,40,50,40,60,40,50,40,40,40,60,50,30,70,70,70,70,70,70,70,30,40,60,60,60,60,60,30,70,60,40,60,40"/>
+		</image>
+		<image name="Shaded Fin Right" xOffset="0" yOffset="0" width="10" height="9" savedIndex="3">
+			<pixels="0,0,0,0,0,0,0,657930,1315860,1315860,0,0,0,657930,657930,1315860,1973790,1973790,1973790,1315860,1973790,1973790,1973790,1973790,1973790,2631720,2631720,2631720,1973790,1315860,3289650,3289650,3289650,3289650,3289650,3289650,2631720,1973790,1315860,0,3947580,3947580,3947580,3947580,3289650,2631720,1973790,1315860,0,0,3947580,3947580,3289650,2631720,1973790,1973790,1315860,0,0,0,2631720,2631720,1973790,1973790,1315860,657930,0,0,0,0,1973790,1973790,1315860,657930,0,0,0,0,0,0,657930,657930,0,0,0,0,0,0,0,0"/>
+		</image>
+		<image name="water3" xOffset="0" yOffset="0" width="2" height="50" savedIndex="4">
+			<pixels="50,30,50,30,70,60,50,60,50,60,60,50,60,50,40,50,40,40,40,70,70,60,70,30,70,60,70,60,40,60,40,50,50,50,50,40,50,60,60,30,40,30,70,70,70,70,70,50,50,70,40,70,70,60,40,40,40,40,30,50,50,50,70,60,50,70,40,30,40,50,40,60,40,50,30,40,30,60,50,60,50,70,50,30,70,60,70,60,40,60,60,60,60,60,60,70,60,40,60,40"/>
+		</image>
+		<image name="water4" xOffset="0" yOffset="0" width="2" height="50" savedIndex="5">
+			<pixels="50,30,50,30,70,60,40,60,40,60,40,50,60,50,40,50,40,40,40,70,70,60,70,70,70,40,70,40,40,60,40,50,50,50,50,40,50,60,60,30,40,30,30,70,70,70,70,50,40,70,40,40,70,60,70,40,70,40,30,50,50,50,70,60,50,70,40,40,40,40,40,40,40,40,30,70,30,70,50,70,50,70,50,30,70,60,70,60,40,70,40,70,40,70,60,70,60,40,60,30"/>
+		</image>
+	</images>
+	<imageActions>
+		<imageAction name="Fin moving left" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="2" yStart="50" xEnd="2" yEnd="-8" startCentisecond="25" endCentisecond="180" rampTime="0" imageIndex="-1" savedIndex="0">
+		<imageAction name="Water image 1" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="260" endCentisecond="275" rampTime="0" imageIndex="0" savedIndex="1">
+		<imageAction name="Water image 2" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="275" endCentisecond="290" rampTime="0" imageIndex="1" savedIndex="2">
+		<imageAction name="Fin moving right" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="2" yStart="-8" xEnd="2" yEnd="50" startCentisecond="280" endCentisecond="440" rampTime="0" imageIndex="2" savedIndex="3">
+		<imageAction name="water image 3" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="290" endCentisecond="300" rampTime="0" imageIndex="3" savedIndex="4">
+		<imageAction name="water image 4" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="300" endCentisecond="315" rampTime="0" imageIndex="4" savedIndex="5">
+		<imageAction name="Water image 1" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="315" endCentisecond="330" rampTime="0" imageIndex="0" savedIndex="6">
+		<imageAction name="Water image 2" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="330" endCentisecond="345" rampTime="0" imageIndex="1" savedIndex="7">
+		<imageAction name="water image 3" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="345" endCentisecond="355" rampTime="0" imageIndex="3" savedIndex="8">
+		<imageAction name="water image 4" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="355" endCentisecond="370" rampTime="0" imageIndex="4" savedIndex="9">
+		<imageAction name="Water image 1" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="370" endCentisecond="385" rampTime="0" imageIndex="0" savedIndex="10">
+		<imageAction name="Water image 2" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="385" endCentisecond="400" rampTime="0" imageIndex="1" savedIndex="11">
+		<imageAction name="water image 3" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="400" endCentisecond="410" rampTime="0" imageIndex="3" savedIndex="12">
+		<imageAction name="water image 4" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="410" endCentisecond="425" rampTime="0" imageIndex="4" savedIndex="13">
+		<imageAction name="Water image 1" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="425" endCentisecond="440" rampTime="0" imageIndex="0" savedIndex="14">
+		<imageAction name="Water image 2" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="440" endCentisecond="455" rampTime="0" imageIndex="1" savedIndex="15">
+		<imageAction name="water image 3" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="455" endCentisecond="465" rampTime="0" imageIndex="3" savedIndex="16">
+		<imageAction name="water image 4" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="465" endCentisecond="480" rampTime="0" imageIndex="4" savedIndex="17">
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

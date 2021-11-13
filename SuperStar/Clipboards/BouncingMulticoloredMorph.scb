@@ -1,0 +1,44 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 2 or more
+
+Appearance:
+  Morph bounces from one end to the other and changes color.
+
+Try Changing:
+  To change the length, select all of the morphs and click on 'Nudge Length Left' or 'Nudge Legth Right'
+  Take care if you change colors. The current colors of the morphs have been designed so that the Red, Green, and Blue channels never 'collide'. In other words, you should avoid having a morph overlap that uses the same Red, Green, or Blue channel of the overlapping morph.
+
+Note:
+  The changing colors are produced by the overlapping morphs. For example, if Red and Green overlap they produce shades of yellow.">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph Down 1" layer="1" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="1" y2="0" red="0" green="0" blue="100" trailLen="2"/>
+			<state2 time="35" x1="0" y1="49" x2="1" y2="49" red="0" green="0" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="100" red2="100" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph Down 2" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="35" x1="0" y1="0" x2="1" y2="0" red="0" green="100" blue="10" trailLen="2"/>
+			<state2 time="70" x1="0" y1="49" x2="1" y2="49" red="0" green="100" blue="0" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph Up 1" layer="3" acceleration="0" savedIndex="2">
+			<state1 time="80" x1="0" y1="49" x2="1" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="115" x1="0" y1="0" x2="1" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="40" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph Up 2" layer="4" acceleration="0" savedIndex="3">
+			<state1 time="115" x1="0" y1="49" x2="1" y2="49" red="0" green="0" blue="100" trailLen="50"/>
+			<state2 time="150" x1="0" y1="0" x2="1" y2="0" red="0" green="100" blue="0" trailLen="5"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

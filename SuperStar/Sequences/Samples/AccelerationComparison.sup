@@ -1,0 +1,70 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="10" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="16">
+		<configuration network="1" networkNbr="-1" firstUnitID="17" lastUnitID="22">
+		<configuration network="2" networkNbr="-1" firstUnitID="23" lastUnitID="28">
+		<configuration network="3" networkNbr="-1" firstUnitID="24" lastUnitID="29">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="12" ribbonType="CCR" ribbonOrientation="horizontal" ribbonShape="straight" ribbonLength="full" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="2" acceleration="-10" savedIndex="0">
+			<state1 time="100" x1="8" y1="0" x2="8" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="600" x1="8" y1="49" x2="8" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="100" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="-7" savedIndex="1">
+			<state1 time="100" x1="7" y1="0" x2="7" y2="0" red="80" green="0" blue="40" trailLen="1"/>
+			<state2 time="600" x1="7" y1="49" x2="7" y2="49" red="80" green="0" blue="40" trailLen="1"/>
+			<ramp timeExt="100" red1="80" green1="0" blue1="40" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 3" layer="4" acceleration="-5" savedIndex="2">
+			<state1 time="100" x1="6" y1="0" x2="6" y2="0" red="70" green="0" blue="60" trailLen="1"/>
+			<state2 time="600" x1="6" y1="49" x2="6" y2="49" red="70" green="0" blue="60" trailLen="1"/>
+			<ramp timeExt="100" red1="70" green1="0" blue1="60" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 4" layer="5" acceleration="-2" savedIndex="3">
+			<state1 time="100" x1="5" y1="0" x2="5" y2="0" red="60" green="0" blue="80" trailLen="1"/>
+			<state2 time="600" x1="5" y1="49" x2="5" y2="49" red="60" green="0" blue="80" trailLen="1"/>
+			<ramp timeExt="100" red1="60" green1="0" blue1="80" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 5" layer="6" acceleration="0" savedIndex="4">
+			<state1 time="100" x1="4" y1="0" x2="4" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="600" x1="4" y1="49" x2="4" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="100" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 6" layer="7" acceleration="2" savedIndex="5">
+			<state1 time="100" x1="3" y1="0" x2="3" y2="0" red="0" green="60" blue="80" trailLen="1"/>
+			<state2 time="600" x1="3" y1="49" x2="3" y2="49" red="0" green="60" blue="80" trailLen="1"/>
+			<ramp timeExt="100" red1="0" green1="60" blue1="80" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 7" layer="8" acceleration="5" savedIndex="6">
+			<state1 time="100" x1="2" y1="0" x2="2" y2="0" red="0" green="70" blue="60" trailLen="1"/>
+			<state2 time="600" x1="2" y1="49" x2="2" y2="49" red="0" green="70" blue="60" trailLen="1"/>
+			<ramp timeExt="100" red1="0" green1="70" blue1="60" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 8" layer="9" acceleration="7" savedIndex="7">
+			<state1 time="100" x1="1" y1="0" x2="1" y2="0" red="0" green="80" blue="30" trailLen="1"/>
+			<state2 time="600" x1="1" y1="49" x2="1" y2="49" red="0" green="80" blue="30" trailLen="1"/>
+			<ramp timeExt="100" red1="0" green1="80" blue1="30" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 9" layer="10" acceleration="10" savedIndex="8">
+			<state1 time="100" x1="0" y1="0" x2="0" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="600" x1="0" y1="49" x2="0" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="100" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

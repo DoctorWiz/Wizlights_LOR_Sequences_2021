@@ -1,0 +1,35 @@
+<SuperStarClipboardFile saveFileVersion="1" description="3 scenes
+half of circle is twinkes
+time staggered
+can give an inchworm effect">
+	<scenes>
+		<scene name="Scene 1" layer="1" type="intensity" startCentisecond="0" endCentisecond="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+		</scene>
+		<scene name="Scene 10" layer="2" type="intensity" startCentisecond="5" endCentisecond="55" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="1">
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+		</scene>
+		<scene name="Scene 11" layer="3" type="intensity" startCentisecond="10" endCentisecond="60" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0" savedIndex="2">
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

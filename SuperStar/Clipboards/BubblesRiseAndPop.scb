@@ -1,0 +1,35 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12
+
+Appearance:
+  Five bubble rise up and pop as they hit the top.
+
+Try Changing:
+  To change the length, select all of the image actions and click on 'Nudge Length Left' or 'Nudge Length Right'.
+
+Note:
+  When a ramp is added to the end of an image action, the colors of the image go full intensity and then fade to black. This is automatically done for any ramp added to an image action. In this case it gives the effect of the bubble popping.
+">
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+		<image name="Bubble, shaded, red" xOffset="0" yOffset="0" width="10" height="11" savedIndex="0">
+			<pixels="0,0,655360,2621440,3276800,3276800,2621440,1310720,0,0,0,1966080,2621440,3276800,3932160,3932160,3932160,3276800,1966080,0,655360,2621440,2621440,3276800,3932160,3932160,3289650,3932160,3276800,1310720,1966080,2621440,2621440,3276800,3932160,3932160,3932160,3289650,3932160,3276800,1966080,2621440,2621440,3276800,3276800,3932160,3932160,3289650,3932160,3276800,1966080,1966080,2621440,2621440,3276800,3276800,3932160,3932160,3932160,3276800,1966080,1966080,2621440,2621440,2621440,3276800,3276800,3276800,3276800,2621440,1310720,1966080,1966080,2621440,2621440,2621440,2621440,2621440,2621440,2621440,655360,1310720,1966080,1966080,2621440,2621440,2621440,2621440,2621440,1966080,0,1310720,1310720,1966080,1966080,1966080,1966080,1966080,1966080,0,0,0,655360,1310720,1310720,1310720,1310720,1310720,0,0"/>
+		</image>
+		<image name="Bubble, shaded, green" xOffset="0" yOffset="0" width="10" height="11" savedIndex="1">
+			<pixels="0,0,2560,5120,10240,10240,10240,5120,0,0,0,5120,7680,10240,12800,15360,15360,10240,7680,0,2560,5120,7680,10240,12800,15360,3289650,15360,10240,5120,5120,7680,7680,10240,12800,12800,15360,3289650,15360,10240,5120,7680,7680,10240,10240,12800,15360,3289650,15360,10240,5120,7680,7680,7680,10240,10240,12800,15360,12800,10240,5120,5120,7680,7680,7680,10240,10240,12800,10240,10240,5120,5120,7680,7680,7680,7680,10240,10240,10240,7680,2560,5120,5120,7680,7680,7680,7680,7680,7680,5120,0,5120,5120,5120,5120,7680,7680,7680,5120,0,0,0,2560,5120,5120,5120,5120,5120,0,0"/>
+		</image>
+	</images>
+	<imageActions>
+		<imageAction name="Red Rising Bubble 1" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="1" xStart="-12" yStart="20" xEnd="2" yEnd="20" startCentisecond="0" endCentisecond="115" rampTime="10" imageIndex="-1" savedIndex="0">
+		<imageAction name="Green Rising Bubble 2" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="-12" yStart="33" xEnd="2" yEnd="33" startCentisecond="25" endCentisecond="140" rampTime="10" imageIndex="0" savedIndex="1">
+		<imageAction name="Green Rising Bubble 3" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="3" xStart="-12" yStart="7" xEnd="2" yEnd="7" startCentisecond="50" endCentisecond="165" rampTime="10" imageIndex="0" savedIndex="2">
+		<imageAction name="Red Rising Bubble 4" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="4" xStart="-12" yStart="38" xEnd="2" yEnd="38" startCentisecond="80" endCentisecond="195" rampTime="10" imageIndex="-1" savedIndex="3">
+		<imageAction name="Red Rising Bubble 5" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="5" xStart="-12" yStart="1" xEnd="2" yEnd="1" startCentisecond="110" endCentisecond="225" rampTime="10" imageIndex="-1" savedIndex="4">
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

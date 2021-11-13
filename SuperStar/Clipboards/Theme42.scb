@@ -1,0 +1,18 @@
+<SuperStarClipboardFile saveFileVersion="2" description="2 Points">
+	<scenes>
+		<scene name="Scene 2798" layer="5" type="intensity" startCentisecond="0" endCentisecond="50" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="0" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

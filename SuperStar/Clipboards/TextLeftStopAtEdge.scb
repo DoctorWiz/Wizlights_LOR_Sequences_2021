@@ -1,0 +1,19 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12 or more
+Appearance: If ribbons are vertical text goes left and stops at bottom edge. If ribbons are horizontal text comes down and stops at edge Text gets brighter as it hits the edge and then fades to black.
+Try Changing: After changing text or the font, click on the 'Left' button again, and then click on 'Modify'
+The Ramp Time Length controls the length of time that the text stays at the bottom edge.
+Note that when a ramp is added to the end of a text action, it always will start at full intensity and then fade to black.">
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Left Stop at Edge" text="Rock" colorType="chooseColor" maskType="normal" rotation="90" direction="4" stopAtEdge="1" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="12" yStart="14" xEnd="0" yEnd="14" startCentisecond="0" endCentisecond="40" rampTime="50" firstColorIndex="0" red="0" green="50" blue="0" savedIndex="0">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

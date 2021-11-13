@@ -1,0 +1,36 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12
+
+Appearance:
+  Text foreground pants left, then text background paints right
+
+Try Changing:
+  To change the time length, select the text mask and the foreground morph and then click on the 'Nudge Length Left' or the 'Nudge Length Right' buttons on the toolbar. 
+  To change the color of the text, change the color of the morph contained by the text mask. If you double click on the start color, it changes the start color, end color, and the starting ramp color of th morph.
+  For example, currently the text is cyan (sky blue). To change this to red, select the morph double click on 100% Red, doulble click on 0% Green, and double click on 0% Blue. Then click on Modify. This will make the start color, end color, and starting ramp color of the morph be red and this will in turn make the color applied to the text mask be red.
+  To change the text, select the text mask, type in new text, click on the 'Centr' button, then click on Modify. Likewise, if you change the font, click on 'Centr' then click on Modify.
+">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Foreground Right" layer="6" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="11" y2="0" red="0" green="100" blue="100" trailLen="2"/>
+			<state2 time="50" x1="0" y1="49" x2="11" y2="49" red="0" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Background Left" layer="4" acceleration="0" savedIndex="1">
+			<state1 time="95" x1="0" y1="49" x2="11" y2="49" red="0" green="100" blue="100" trailLen="51"/>
+			<state2 time="140" x1="0" y1="0" x2="11" y2="0" red="0" green="100" blue="100" trailLen="1"/>
+			<ramp timeExt="135" red1="0" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Mask 1" text="Frosty" colorType="chooseColor" maskType="negativeMask" rotation="90" direction="0" stopAtEdge="0" fontName="Bold" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="5" xStart="0" yStart="1" xEnd="0" yEnd="1" startCentisecond="0" endCentisecond="95" rampTime="0" firstColorIndex="0" red="100" green="100" blue="100" savedIndex="0">
+		<textAction name="Text Mask 2" text="Air" colorType="chooseColor" maskType="negativeMask" rotation="90" direction="0" stopAtEdge="0" fontName="Bold" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="5" xStart="-1" yStart="15" xEnd="-1" yEnd="15" startCentisecond="95" endCentisecond="275" rampTime="0" firstColorIndex="0" red="100" green="100" blue="100" savedIndex="1">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

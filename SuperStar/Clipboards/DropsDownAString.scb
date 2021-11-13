@@ -1,0 +1,41 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 2 or more
+
+Appearance:
+  Multicolord Drops of water go down a string
+
+Try Changing:
+  To change the length, select all 4 morphs and click on 'Nudge Length Left' or 'Nudge Length Right'.
+  To extend the effect, select all 4 morphs, click on copy and paste them where you want to duplicate the effect. Note that you can overlap them because each morph is just a 'drop'">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Red-Green Drop" layer="1" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="160" x1="0" y1="39" x2="0" y2="39" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Green-Red Drop" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="20" x1="1" y1="2" x2="1" y2="2" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="180" x1="1" y1="39" x2="1" y2="39" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Green-Blue Drop" layer="3" acceleration="0" savedIndex="2">
+			<state1 time="40" x1="1" y1="0" x2="1" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="200" x1="1" y1="39" x2="1" y2="39" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Blue-Red Drop" layer="4" acceleration="0" savedIndex="3">
+			<state1 time="80" x1="0" y1="2" x2="0" y2="2" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="240" x1="0" y1="39" x2="0" y2="39" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

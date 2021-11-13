@@ -21,8 +21,14 @@ Audio/*
 *.flac
 *.cue
 *.ape
+*.wma
 
 Utils/*
 ./Utils/*
 Superstar/*
 ./Superstar/*
+
+2020/*
+./2020/*
+Earlier Versions/*
+.Earlier Versions/*

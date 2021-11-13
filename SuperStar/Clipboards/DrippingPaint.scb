@@ -1,0 +1,64 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 1 or more
+
+Appearance:
+  Dripping multicolor paint
+
+Try Changing:
+  To change the length, select all 8 morphs and click on 'Nudge Length Left' or 'Nudge Length Right'. You may need to select each group of 4 and rearrange them as necessary.
+  To change the color select each morph individually.
+
+Note:
+  The dripping effect is created by selecting 'Accelerate' and by having the State 2 Trail Length be longer than the State 1 trail length.">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Red Down" layer="1" acceleration="5" savedIndex="0">
+			<state1 time="0" x1="0" y1="3" x2="0" y2="3" red="100" green="0" blue="0" trailLen="3"/>
+			<state2 time="60" x1="0" y1="49" x2="0" y2="49" red="100" green="0" blue="0" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Green Down" layer="2" acceleration="5" savedIndex="1">
+			<state1 time="20" x1="0" y1="1" x2="0" y2="1" red="10" green="100" blue="0" trailLen="3"/>
+			<state2 time="80" x1="0" y1="49" x2="0" y2="49" red="0" green="100" blue="0" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Blue Down" layer="3" acceleration="5" savedIndex="2">
+			<state1 time="40" x1="0" y1="3" x2="0" y2="3" red="0" green="0" blue="100" trailLen="3"/>
+			<state2 time="100" x1="0" y1="49" x2="0" y2="49" red="0" green="0" blue="100" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Yellow Down" layer="4" acceleration="5" savedIndex="3">
+			<state1 time="60" x1="0" y1="0" x2="0" y2="0" red="100" green="100" blue="0" trailLen="3"/>
+			<state2 time="120" x1="0" y1="49" x2="0" y2="49" red="100" green="100" blue="10" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Red Down" layer="1" acceleration="5" savedIndex="4">
+			<state1 time="80" x1="0" y1="3" x2="0" y2="3" red="100" green="0" blue="0" trailLen="3"/>
+			<state2 time="140" x1="0" y1="49" x2="0" y2="49" red="100" green="0" blue="0" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Green Down" layer="2" acceleration="5" savedIndex="5">
+			<state1 time="100" x1="0" y1="1" x2="0" y2="1" red="10" green="100" blue="0" trailLen="3"/>
+			<state2 time="160" x1="0" y1="49" x2="0" y2="49" red="0" green="100" blue="0" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Blue Down" layer="3" acceleration="5" savedIndex="6">
+			<state1 time="120" x1="0" y1="3" x2="0" y2="3" red="0" green="0" blue="100" trailLen="3"/>
+			<state2 time="180" x1="0" y1="49" x2="0" y2="49" red="0" green="0" blue="100" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Yellow Down" layer="4" acceleration="5" savedIndex="7">
+			<state1 time="140" x1="0" y1="0" x2="0" y2="0" red="100" green="100" blue="0" trailLen="3"/>
+			<state2 time="200" x1="0" y1="49" x2="0" y2="49" red="100" green="100" blue="10" trailLen="6"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

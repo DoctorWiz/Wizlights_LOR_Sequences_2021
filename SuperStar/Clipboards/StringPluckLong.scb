@@ -1,0 +1,29 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 1 or more
+Appearance: Looks like a guitar string being plucked
+Made From: two morphs each starting from the center and going outward.
+Try Changing: Can change State1 color and State2 color but they should be changed to the same color and they should be bright.
+Trailing ramp: Can change trailing Ramp color, but it should be dim.
+">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="String Pluck Up" layer="1" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="24" x2="0" y2="24" red="0" green="100" blue="100" trailLen="2"/>
+			<state2 time="30" x1="0" y1="0" x2="0" y2="0" red="0" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="100" red1="0" green1="30" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="String Pluck Down" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="0" x1="0" y1="25" x2="0" y2="25" red="0" green="100" blue="100" trailLen="2"/>
+			<state2 time="30" x1="0" y1="49" x2="0" y2="49" red="0" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="100" red1="0" green1="30" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

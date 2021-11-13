@@ -1,0 +1,1272 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="Audio\I Saw Three Ship.wav">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="1" firstRibbonUnitID="11">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="16">
+		<configuration network="1" networkNbr="1" firstUnitID="17" lastUnitID="22">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout visualizationMode="true" visualizationFilePath="Visualizations\Editor\Samples\LightStrings.lee" visualizationTrack="3" nbrOfRibbons="3" ribbonType="CCR" ribbonOrientation="horizontal" ribbonShape="straight" ribbonLength="full" controllerLocation="top"/>
+	</layouts>
+	<scenes>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="55" endCentisecond="80" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="80" endCentisecond="130" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="1">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="135" endCentisecond="160" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="2">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="170" endCentisecond="230" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="3">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="225" endCentisecond="250" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="4">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="255" endCentisecond="315" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="5">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="315" endCentisecond="340" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="6">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="345" endCentisecond="405" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="7">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="405" endCentisecond="430" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="8">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="435" endCentisecond="495" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="9">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="495" endCentisecond="520" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="10">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="525" endCentisecond="585" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="11">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="585" endCentisecond="610" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="12">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="615" endCentisecond="675" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="13">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="680" endCentisecond="705" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="14">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="710" endCentisecond="770" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="15">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="760" endCentisecond="785" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="16">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="800" endCentisecond="850" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="17">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="870" endCentisecond="895" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="18">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="905" endCentisecond="965" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="19">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="965" endCentisecond="990" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="20">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1000" endCentisecond="1060" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="21">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1055" endCentisecond="1080" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="22">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1085" endCentisecond="1145" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="23">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1145" endCentisecond="1170" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="24">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1175" endCentisecond="1235" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="25">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1235" endCentisecond="1260" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="26">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="1265" endCentisecond="1295" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="27">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="2" type="intensity" startCentisecond="1295" endCentisecond="1320" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="28">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="3" type="intensity" startCentisecond="1325" endCentisecond="1360" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="29">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="1360" endCentisecond="1425" red1="0" green1="100" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="30">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="1455" endCentisecond="1650" red1="100" green1="100" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="31">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1695" endCentisecond="1720" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="32">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1720" endCentisecond="1770" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="33">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1775" endCentisecond="1800" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="34">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1810" endCentisecond="1870" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="35">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1865" endCentisecond="1890" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="36">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1895" endCentisecond="1955" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="37">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="1955" endCentisecond="1980" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="38">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="1985" endCentisecond="2045" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="39">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2045" endCentisecond="2070" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="40">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2075" endCentisecond="2135" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="41">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2135" endCentisecond="2160" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="42">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2165" endCentisecond="2225" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="43">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2225" endCentisecond="2250" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="44">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2255" endCentisecond="2315" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="45">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2320" endCentisecond="2345" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="46">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2350" endCentisecond="2410" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="47">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2400" endCentisecond="2425" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="48">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2440" endCentisecond="2490" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="49">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2510" endCentisecond="2535" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="50">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2545" endCentisecond="2605" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="51">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2605" endCentisecond="2630" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="52">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2640" endCentisecond="2700" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="53">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2695" endCentisecond="2720" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="54">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2725" endCentisecond="2785" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="55">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2785" endCentisecond="2810" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="56">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="2" type="intensity" startCentisecond="2815" endCentisecond="2875" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="57">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="2875" endCentisecond="2900" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="58">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="2905" endCentisecond="2935" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="59">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="scene  1" layer="2" type="intensity" startCentisecond="2935" endCentisecond="2960" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="60">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="3" type="intensity" startCentisecond="2965" endCentisecond="3000" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0" savedIndex="61">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="0"/>
+			<element ribbonIndex="1" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="3095" endCentisecond="3290" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="0" savedIndex="62">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+		</scene>
+		<scene name="Scene 2" layer="1" type="intensity" startCentisecond="5700" endCentisecond="5800" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0" savedIndex="63">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+		<scene name="Scene 65" layer="1" type="intensity" startCentisecond="5800" endCentisecond="5905" red1="100" green1="0" blue1="0" white1="0" red2="100" green2="100" blue2="0" white2="0" savedIndex="64">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+		<scene name="Scene 66" layer="1" type="intensity" startCentisecond="5905" endCentisecond="6000" red1="100" green1="100" blue1="0" white1="0" red2="100" green2="100" blue2="100" white2="0" savedIndex="65">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+		<scene name="Scene 67" layer="1" type="intensity" startCentisecond="6000" endCentisecond="6100" red1="100" green1="100" blue1="100" white1="0" red2="100" green2="100" blue2="100" white2="0" savedIndex="66">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+		<scene name="Scene 68" layer="1" type="intensity" startCentisecond="6100" endCentisecond="6200" red1="100" green1="100" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="100" savedIndex="67">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+		<scene name="Scene 69" layer="1" type="intensity" startCentisecond="6200" endCentisecond="6300" red1="0" green1="10" blue1="0" white1="100" red2="0" green2="0" blue2="0" white2="0" savedIndex="68">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+		</scene>
+	</scenes>
+	<morphs>
+		<morph name="Morph 2" layer="3" acceleration="0" savedIndex="0">
+			<state1 time="1455" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="1500" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="1">
+			<state1 time="1500" x1="2" y1="3" x2="2" y2="3" red="80" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="1545" x1="2" y1="10" x2="2" y2="10" red="80" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="25" red1="80" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="0" savedIndex="2">
+			<state1 time="1545" x1="2" y1="3" x2="2" y2="3" red="60" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="1590" x1="2" y1="10" x2="2" y2="10" red="60" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="25" red1="60" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="3">
+			<state1 time="1590" x1="2" y1="3" x2="2" y2="3" red="40" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="1635" x1="2" y1="10" x2="2" y2="10" red="40" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="25" red1="40" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="5" acceleration="0" savedIndex="4">
+			<state1 time="1635" x1="2" y1="3" x2="2" y2="3" red="20" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="1680" x1="2" y1="10" x2="2" y2="10" red="20" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="25" red1="20" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="5">
+			<state1 time="1725" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="1745" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="6">
+			<state1 time="1900" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="1920" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="0" savedIndex="7">
+			<state1 time="2000" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<state2 time="2020" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="8">
+			<state1 time="2085" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="2105" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="5" acceleration="0" savedIndex="9">
+			<state1 time="2175" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="2195" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="0" savedIndex="10">
+			<state1 time="2265" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<state2 time="2285" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="0" savedIndex="11">
+			<state1 time="2355" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<state2 time="2375" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="12">
+			<state1 time="2445" x1="2" y1="0" x2="2" y2="0" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="2465" x1="2" y1="11" x2="2" y2="11" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="13">
+			<state1 time="2620" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="2640" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="0" savedIndex="14">
+			<state1 time="2720" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<state2 time="2740" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="15">
+			<state1 time="2805" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<state2 time="2825" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="100" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="5" acceleration="0" savedIndex="16">
+			<state1 time="2895" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<state2 time="2915" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="100" green1="0" blue1="0" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="0" savedIndex="17">
+			<state1 time="2985" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<state2 time="3005" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="100" white="0" trailLen="1"/>
+			<ramp timeExt="20" red1="0" green1="0" blue1="100" white1="0" red2="0" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="0" savedIndex="18">
+			<state1 time="3095" x1="2" y1="0" x2="2" y2="0" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<state2 time="3140" x1="2" y1="11" x2="2" y2="11" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="100"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="19">
+			<state1 time="3140" x1="2" y1="0" x2="2" y2="0" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<state2 time="3185" x1="2" y1="11" x2="2" y2="11" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="100"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="0" savedIndex="20">
+			<state1 time="3185" x1="2" y1="0" x2="2" y2="0" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<state2 time="3230" x1="2" y1="11" x2="2" y2="11" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="100"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="0" savedIndex="21">
+			<state1 time="3230" x1="2" y1="0" x2="2" y2="0" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<state2 time="3275" x1="2" y1="11" x2="2" y2="11" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="100"/>
+		</morph>
+		<morph name="Morph 2" layer="5" acceleration="0" savedIndex="22">
+			<state1 time="3275" x1="2" y1="0" x2="2" y2="0" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<state2 time="3320" x1="2" y1="11" x2="2" y2="11" red="100" green="100" blue="100" white="100" trailLen="1"/>
+			<ramp timeExt="25" red1="100" green1="100" blue1="100" white1="100" red2="0" green2="0" blue2="0" white2="100"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="23">
+			<state1 time="3370" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="3400" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="100" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="24">
+			<state1 time="3550" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="3580" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="25">
+			<state1 time="3645" x1="2" y1="3" x2="2" y2="3" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="3675" x1="2" y1="10" x2="2" y2="10" red="100" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="26">
+			<state1 time="3740" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<state2 time="3770" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="100" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="27">
+			<state1 time="3920" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<state2 time="3950" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="28">
+			<state1 time="4015" x1="2" y1="3" x2="2" y2="3" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<state2 time="4045" x1="2" y1="10" x2="2" y2="10" red="0" green="100" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="29">
+			<state1 time="4100" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<state2 time="4130" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<ramp timeExt="100" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="30">
+			<state1 time="4280" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<state2 time="4310" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="31">
+			<state1 time="4375" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<state2 time="4405" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="100" trailLen="2"/>
+			<ramp timeExt="40" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="6" acceleration="0" savedIndex="32">
+			<state1 time="4470" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="4500" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="120" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="5" acceleration="0" savedIndex="33">
+			<state1 time="4650" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="4680" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="0" white1="0" red2="100" green2="0" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 34" layer="5" acceleration="0" savedIndex="34">
+			<state1 time="4740" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="4765" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="60" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+		<morph name="Morph 34" layer="5" acceleration="0" savedIndex="35">
+			<state1 time="4835" x1="2" y1="3" x2="2" y2="3" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<state2 time="4860" x1="2" y1="10" x2="2" y2="10" red="0" green="0" blue="0" white="0" trailLen="2"/>
+			<ramp timeExt="75" red1="0" green1="0" blue1="0" white1="0" red2="0" green2="100" blue2="0" white2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+	<timingGrids>
+		<timingGrid saveID="0" name="" type="freeform">
+			<timing centisecond="34">
+			<timing centisecond="78">
+			<timing centisecond="122">
+			<timing centisecond="166">
+			<timing centisecond="210">
+			<timing centisecond="255">
+			<timing centisecond="303">
+			<timing centisecond="350">
+			<timing centisecond="399">
+			<timing centisecond="445">
+			<timing centisecond="494">
+			<timing centisecond="540">
+			<timing centisecond="589">
+			<timing centisecond="635">
+			<timing centisecond="679">
+			<timing centisecond="724">
+			<timing centisecond="768">
+			<timing centisecond="814">
+			<timing centisecond="858">
+			<timing centisecond="902">
+			<timing centisecond="947">
+			<timing centisecond="991">
+			<timing centisecond="1037">
+			<timing centisecond="1084">
+			<timing centisecond="1130">
+			<timing centisecond="1176">
+			<timing centisecond="1223">
+			<timing centisecond="1269">
+			<timing centisecond="1316">
+			<timing centisecond="1362">
+			<timing centisecond="1406">
+			<timing centisecond="1453">
+			<timing centisecond="1497">
+			<timing centisecond="1543">
+			<timing centisecond="1590">
+			<timing centisecond="1634">
+			<timing centisecond="1680">
+			<timing centisecond="1724">
+			<timing centisecond="1771">
+			<timing centisecond="1815">
+			<timing centisecond="1861">
+			<timing centisecond="1906">
+			<timing centisecond="1952">
+			<timing centisecond="1996">
+			<timing centisecond="2043">
+			<timing centisecond="2087">
+			<timing centisecond="2133">
+			<timing centisecond="2179">
+			<timing centisecond="2226">
+			<timing centisecond="2275">
+			<timing centisecond="2321">
+			<timing centisecond="2368">
+			<timing centisecond="2414">
+			<timing centisecond="2460">
+			<timing centisecond="2507">
+			<timing centisecond="2551">
+			<timing centisecond="2597">
+			<timing centisecond="2642">
+			<timing centisecond="2688">
+			<timing centisecond="2732">
+			<timing centisecond="2779">
+			<timing centisecond="2823">
+			<timing centisecond="2869">
+			<timing centisecond="2916">
+			<timing centisecond="2962">
+			<timing centisecond="3008">
+			<timing centisecond="3055">
+			<timing centisecond="3101">
+			<timing centisecond="3148">
+			<timing centisecond="3192">
+			<timing centisecond="3238">
+			<timing centisecond="3285">
+			<timing centisecond="3331">
+			<timing centisecond="3378">
+			<timing centisecond="3424">
+			<timing centisecond="3471">
+			<timing centisecond="3517">
+			<timing centisecond="3561">
+			<timing centisecond="3608">
+			<timing centisecond="3652">
+			<timing centisecond="3696">
+			<timing centisecond="3742">
+			<timing centisecond="3786">
+			<timing centisecond="3833">
+			<timing centisecond="3877">
+			<timing centisecond="3921">
+			<timing centisecond="3967">
+			<timing centisecond="4014">
+			<timing centisecond="4060">
+			<timing centisecond="4109">
+			<timing centisecond="4156">
+			<timing centisecond="4202">
+			<timing centisecond="4248">
+			<timing centisecond="4295">
+			<timing centisecond="4341">
+			<timing centisecond="4388">
+			<timing centisecond="4432">
+			<timing centisecond="4478">
+			<timing centisecond="4525">
+			<timing centisecond="4571">
+			<timing centisecond="4618">
+			<timing centisecond="4662">
+			<timing centisecond="4708">
+			<timing centisecond="4752">
+			<timing centisecond="4799">
+			<timing centisecond="4843">
+			<timing centisecond="4889">
+			<timing centisecond="4933">
+			<timing centisecond="4980">
+			<timing centisecond="5024">
+			<timing centisecond="5070">
+			<timing centisecond="5115">
+			<timing centisecond="5159">
+			<timing centisecond="5205">
+			<timing centisecond="5249">
+			<timing centisecond="5296">
+			<timing centisecond="5340">
+			<timing centisecond="5384">
+			<timing centisecond="5433">
+			<timing centisecond="5481">
+			<timing centisecond="5530">
+			<timing centisecond="5581">
+			<timing centisecond="5630">
+			<timing centisecond="5679">
+			<timing centisecond="5728">
+			<timing centisecond="5776">
+			<timing centisecond="5820">
+			<timing centisecond="5865">
+			<timing centisecond="5909">
+			<timing centisecond="5950">
+			<timing centisecond="5995">
+			<timing centisecond="6039">
+			<timing centisecond="6083">
+			<timing centisecond="6127">
+			<timing centisecond="6169">
+			<timing centisecond="6215">
+			<timing centisecond="6262">
+			<timing centisecond="6308">
+			<timing centisecond="6354">
+			<timing centisecond="6401">
+			<timing centisecond="6447">
+			<timing centisecond="6494">
+			<timing centisecond="6540">
+			<timing centisecond="6587">
+			<timing centisecond="6631">
+			<timing centisecond="6677">
+			<timing centisecond="6721">
+			<timing centisecond="6768">
+			<timing centisecond="6812">
+			<timing centisecond="6858">
+			<timing centisecond="6902">
+			<timing centisecond="6949">
+			<timing centisecond="6993">
+			<timing centisecond="7039">
+			<timing centisecond="7084">
+			<timing centisecond="7130">
+			<timing centisecond="7174">
+			<timing centisecond="7221">
+			<timing centisecond="7265">
+			<timing centisecond="7311">
+			<timing centisecond="7358">
+			<timing centisecond="7404">
+			<timing centisecond="7450">
+			<timing centisecond="7497">
+			<timing centisecond="7543">
+			<timing centisecond="7590">
+			<timing centisecond="7636">
+			<timing centisecond="7680">
+			<timing centisecond="7727">
+			<timing centisecond="7773">
+			<timing centisecond="7820">
+			<timing centisecond="7866">
+			<timing centisecond="7913">
+			<timing centisecond="7959">
+			<timing centisecond="8003">
+			<timing centisecond="8050">
+			<timing centisecond="8096">
+			<timing centisecond="8142">
+			<timing centisecond="8189">
+			<timing centisecond="8235">
+			<timing centisecond="8282">
+			<timing centisecond="8328">
+			<timing centisecond="8377">
+			<timing centisecond="8428">
+			<timing centisecond="8479">
+			<timing centisecond="8530">
+			<timing centisecond="8581">
+			<timing centisecond="8632">
+			<timing centisecond="8683">
+			<timing centisecond="8725">
+			<timing centisecond="8767">
+			<timing centisecond="8809">
+			<timing centisecond="8851">
+			<timing centisecond="8895">
+			<timing centisecond="8937">
+		</timingGrid>
+	</timingGrids>
+	<timingChannels>
+		<timingChannel saveID="0" name="">
+			<timing startCentisecond="64" endCentisecond="313">
+			<timing startCentisecond="334" endCentisecond="515">
+			<timing startCentisecond="533" endCentisecond="605">
+			<timing startCentisecond="617" endCentisecond="691">
+			<timing startCentisecond="707" endCentisecond="798">
+			<timing startCentisecond="812" endCentisecond="895">
+			<timing startCentisecond="907" endCentisecond="986">
+			<timing startCentisecond="991" endCentisecond="1037">
+			<timing startCentisecond="1044" endCentisecond="1049">
+			<timing startCentisecond="1060" endCentisecond="1258">
+			<timing startCentisecond="1265" endCentisecond="1313">
+			<timing startCentisecond="1351" endCentisecond="1397">
+			<timing startCentisecond="1404" endCentisecond="1643">
+			<timing startCentisecond="1722" endCentisecond="1899">
+			<timing startCentisecond="1901" endCentisecond="1961">
+			<timing startCentisecond="1994" endCentisecond="2059">
+			<timing startCentisecond="2084" endCentisecond="2168">
+			<timing startCentisecond="2175" endCentisecond="2228">
+			<timing startCentisecond="2261" endCentisecond="2444">
+			<timing startCentisecond="2456" endCentisecond="2607">
+			<timing startCentisecond="2635" endCentisecond="2793">
+			<timing startCentisecond="2804" endCentisecond="2906">
+			<timing startCentisecond="2913" endCentisecond="2971">
+			<timing startCentisecond="3004" endCentisecond="3299">
+			<timing startCentisecond="3354" endCentisecond="3526">
+			<timing startCentisecond="3531" endCentisecond="3728">
+			<timing startCentisecond="3742" endCentisecond="4070">
+			<timing startCentisecond="4081" endCentisecond="4286">
+			<timing startCentisecond="4290" endCentisecond="4376">
+			<timing startCentisecond="4381" endCentisecond="4648">
+			<timing startCentisecond="4655" endCentisecond="4961">
+			<timing startCentisecond="4964" endCentisecond="5414">
+			<timing startCentisecond="5435" endCentisecond="5600">
+			<timing startCentisecond="5611" endCentisecond="5730">
+			<timing startCentisecond="5741" endCentisecond="5892">
+			<timing startCentisecond="5909" endCentisecond="5927">
+			<timing startCentisecond="6002" endCentisecond="6013">
+			<timing startCentisecond="6025" endCentisecond="6087">
+			<timing startCentisecond="6094" endCentisecond="6152">
+			<timing startCentisecond="6157" endCentisecond="6213">
+			<timing startCentisecond="6222" endCentisecond="6266">
+			<timing startCentisecond="6287" endCentisecond="6484">
+			<timing startCentisecond="6640" endCentisecond="6763">
+			<timing startCentisecond="6768" endCentisecond="6926">
+			<timing startCentisecond="6942" endCentisecond="7118">
+			<timing startCentisecond="7128" endCentisecond="7200">
+			<timing startCentisecond="7216" endCentisecond="7297">
+			<timing startCentisecond="7311" endCentisecond="7629">
+			<timing startCentisecond="7652" endCentisecond="7736">
+			<timing startCentisecond="7748" endCentisecond="7824">
+			<timing startCentisecond="7836" endCentisecond="7938">
+			<timing startCentisecond="7947" endCentisecond="8033">
+			<timing startCentisecond="8043" endCentisecond="8261">
+			<timing startCentisecond="8277" endCentisecond="8305">
+		</timingChannel>
+		<timingChannel saveID="1" name="">
+			<timing startCentisecond="66" endCentisecond="255">
+			<timing startCentisecond="257" endCentisecond="313">
+			<timing startCentisecond="334" endCentisecond="394">
+			<timing startCentisecond="443" endCentisecond="508">
+			<timing startCentisecond="533" endCentisecond="605">
+			<timing startCentisecond="617" endCentisecond="661">
+			<timing startCentisecond="666" endCentisecond="691">
+			<timing startCentisecond="721" endCentisecond="796">
+			<timing startCentisecond="812" endCentisecond="895">
+			<timing startCentisecond="907" endCentisecond="977">
+			<timing startCentisecond="991" endCentisecond="1037">
+			<timing startCentisecond="1044" endCentisecond="1049">
+			<timing startCentisecond="1060" endCentisecond="1123">
+			<timing startCentisecond="1130" endCentisecond="1258">
+			<timing startCentisecond="1265" endCentisecond="1313">
+			<timing startCentisecond="1355" endCentisecond="1397">
+			<timing startCentisecond="1423" endCentisecond="1632">
+			<timing startCentisecond="1638" endCentisecond="1643">
+			<timing startCentisecond="1722" endCentisecond="1785">
+			<timing startCentisecond="1824" endCentisecond="1896">
+			<timing startCentisecond="1901" endCentisecond="1959">
+			<timing startCentisecond="1994" endCentisecond="2059">
+			<timing startCentisecond="2087" endCentisecond="2166">
+			<timing startCentisecond="2175" endCentisecond="2228">
+			<timing startCentisecond="2268" endCentisecond="2344">
+			<timing startCentisecond="2370" endCentisecond="2435">
+			<timing startCentisecond="2456" endCentisecond="2514">
+			<timing startCentisecond="2567" endCentisecond="2600">
+			<timing startCentisecond="2637" endCentisecond="2793">
+			<timing startCentisecond="2820" endCentisecond="2906">
+			<timing startCentisecond="2913" endCentisecond="2971">
+			<timing startCentisecond="3006" endCentisecond="3050">
+			<timing startCentisecond="3097" endCentisecond="3280">
+			<timing startCentisecond="3354" endCentisecond="3503">
+			<timing startCentisecond="3531" endCentisecond="3640">
+			<timing startCentisecond="3647" endCentisecond="3721">
+			<timing startCentisecond="3745" endCentisecond="3879">
+			<timing startCentisecond="3893" endCentisecond="3902">
+			<timing startCentisecond="3919" endCentisecond="4053">
+			<timing startCentisecond="4081" endCentisecond="4193">
+			<timing startCentisecond="4207" endCentisecond="4246">
+			<timing startCentisecond="4293" endCentisecond="4367">
+			<timing startCentisecond="4381" endCentisecond="4460">
+			<timing startCentisecond="4474" endCentisecond="4590">
+			<timing startCentisecond="4599" endCentisecond="4620">
+			<timing startCentisecond="4632" endCentisecond="4648">
+			<timing startCentisecond="4655" endCentisecond="4903">
+			<timing startCentisecond="4912" endCentisecond="4959">
+			<timing startCentisecond="4964" endCentisecond="4973">
+			<timing startCentisecond="4978" endCentisecond="5101">
+			<timing startCentisecond="5103" endCentisecond="5319">
+			<timing startCentisecond="5328" endCentisecond="5412">
+			<timing startCentisecond="5435" endCentisecond="5530">
+			<timing startCentisecond="5558" endCentisecond="5595">
+			<timing startCentisecond="5611" endCentisecond="5730">
+			<timing startCentisecond="5741" endCentisecond="5890">
+			<timing startCentisecond="5909" endCentisecond="5927">
+			<timing startCentisecond="6002" endCentisecond="6013">
+			<timing startCentisecond="6043" endCentisecond="6087">
+			<timing startCentisecond="6097" endCentisecond="6152">
+			<timing startCentisecond="6159" endCentisecond="6206">
+			<timing startCentisecond="6222" endCentisecond="6266">
+			<timing startCentisecond="6287" endCentisecond="6378">
+			<timing startCentisecond="6394" endCentisecond="6484">
+			<timing startCentisecond="6642" endCentisecond="6763">
+			<timing startCentisecond="6768" endCentisecond="6926">
+			<timing startCentisecond="6947" endCentisecond="7035">
+			<timing startCentisecond="7039" endCentisecond="7118">
+			<timing startCentisecond="7128" endCentisecond="7200">
+			<timing startCentisecond="7218" endCentisecond="7295">
+			<timing startCentisecond="7311" endCentisecond="7397">
+			<timing startCentisecond="7402" endCentisecond="7629">
+			<timing startCentisecond="7652" endCentisecond="7736">
+			<timing startCentisecond="7748" endCentisecond="7824">
+			<timing startCentisecond="7836" endCentisecond="7938">
+			<timing startCentisecond="7947" endCentisecond="8033">
+			<timing startCentisecond="8047" endCentisecond="8261">
+		</timingChannel>
+		<timingChannel saveID="2" name="">
+			<timing startCentisecond="64" endCentisecond="71">
+			<timing startCentisecond="76" endCentisecond="250">
+			<timing startCentisecond="257" endCentisecond="299">
+			<timing startCentisecond="347" endCentisecond="491">
+			<timing startCentisecond="533" endCentisecond="573">
+			<timing startCentisecond="624" endCentisecond="691">
+			<timing startCentisecond="707" endCentisecond="754">
+			<timing startCentisecond="770" endCentisecond="798">
+			<timing startCentisecond="814" endCentisecond="865">
+			<timing startCentisecond="877" endCentisecond="893">
+			<timing startCentisecond="991" endCentisecond="1035">
+			<timing startCentisecond="1070" endCentisecond="1165">
+			<timing startCentisecond="1172" endCentisecond="1255">
+			<timing startCentisecond="1265" endCentisecond="1311">
+			<timing startCentisecond="1351" endCentisecond="1390">
+			<timing startCentisecond="1404" endCentisecond="1643">
+			<timing startCentisecond="1724" endCentisecond="1813">
+			<timing startCentisecond="1822" endCentisecond="1866">
+			<timing startCentisecond="1906" endCentisecond="1961">
+			<timing startCentisecond="1994" endCentisecond="2056">
+			<timing startCentisecond="2084" endCentisecond="2114">
+			<timing startCentisecond="2126" endCentisecond="2147">
+			<timing startCentisecond="2177" endCentisecond="2228">
+			<timing startCentisecond="2261" endCentisecond="2358">
+			<timing startCentisecond="2363" endCentisecond="2444">
+			<timing startCentisecond="2456" endCentisecond="2544">
+			<timing startCentisecond="2551" endCentisecond="2607">
+			<timing startCentisecond="2635" endCentisecond="2667">
+			<timing startCentisecond="2674" endCentisecond="2714">
+			<timing startCentisecond="2727" endCentisecond="2769">
+			<timing startCentisecond="2804" endCentisecond="2902">
+			<timing startCentisecond="2918" endCentisecond="2943">
+			<timing startCentisecond="3004" endCentisecond="3289">
+			<timing startCentisecond="3364" endCentisecond="3431">
+			<timing startCentisecond="3471" endCentisecond="3515">
+			<timing startCentisecond="3531" endCentisecond="3614">
+			<timing startCentisecond="3621" endCentisecond="3628">
+			<timing startCentisecond="3647" endCentisecond="3696">
+			<timing startCentisecond="3742" endCentisecond="3779">
+			<timing startCentisecond="3803" endCentisecond="3877">
+			<timing startCentisecond="3891" endCentisecond="3907">
+			<timing startCentisecond="3919" endCentisecond="3974">
+			<timing startCentisecond="4012" endCentisecond="4056">
+			<timing startCentisecond="4102" endCentisecond="4156">
+			<timing startCentisecond="4176" endCentisecond="4255">
+			<timing startCentisecond="4290" endCentisecond="4332">
+			<timing startCentisecond="4341" endCentisecond="4376">
+			<timing startCentisecond="4385" endCentisecond="4441">
+			<timing startCentisecond="4469" endCentisecond="4562">
+			<timing startCentisecond="4597" endCentisecond="4645">
+			<timing startCentisecond="4655" endCentisecond="4722">
+			<timing startCentisecond="4727" endCentisecond="4729">
+			<timing startCentisecond="4748" endCentisecond="4815">
+			<timing startCentisecond="4838" endCentisecond="4961">
+			<timing startCentisecond="4978" endCentisecond="5019">
+			<timing startCentisecond="5031" endCentisecond="5054">
+			<timing startCentisecond="5056" endCentisecond="5073">
+			<timing startCentisecond="5089" endCentisecond="5154">
+			<timing startCentisecond="5175" endCentisecond="5184">
+			<timing startCentisecond="5210" endCentisecond="5251">
+			<timing startCentisecond="5296" endCentisecond="5344">
+			<timing startCentisecond="5354" endCentisecond="5407">
+			<timing startCentisecond="5479" endCentisecond="5528">
+			<timing startCentisecond="5660" endCentisecond="5700">
+			<timing startCentisecond="5723" endCentisecond="5730">
+			<timing startCentisecond="5741" endCentisecond="5844">
+			<timing startCentisecond="5855" endCentisecond="5892">
+			<timing startCentisecond="5909" endCentisecond="5925">
+			<timing startCentisecond="6025" endCentisecond="6087">
+			<timing startCentisecond="6094" endCentisecond="6106">
+			<timing startCentisecond="6157" endCentisecond="6180">
+			<timing startCentisecond="6394" endCentisecond="6452">
+			<timing startCentisecond="6640" endCentisecond="6703">
+			<timing startCentisecond="6721" endCentisecond="6763">
+			<timing startCentisecond="6768" endCentisecond="6817">
+			<timing startCentisecond="6830" endCentisecond="6909">
+			<timing startCentisecond="6942" endCentisecond="7007">
+			<timing startCentisecond="7042" endCentisecond="7114">
+			<timing startCentisecond="7128" endCentisecond="7186">
+			<timing startCentisecond="7216" endCentisecond="7297">
+			<timing startCentisecond="7311" endCentisecond="7365">
+			<timing startCentisecond="7399" endCentisecond="7629">
+			<timing startCentisecond="7652" endCentisecond="7734">
+			<timing startCentisecond="7771" endCentisecond="7824">
+			<timing startCentisecond="7836" endCentisecond="7903">
+			<timing startCentisecond="7913" endCentisecond="7931">
+			<timing startCentisecond="7947" endCentisecond="7987">
+			<timing startCentisecond="8043" endCentisecond="8135">
+			<timing startCentisecond="8145" endCentisecond="8245">
+			<timing startCentisecond="8277" endCentisecond="8300">
+		</timingChannel>
+	</timingChannels>
+</SuperStarMetaFile>

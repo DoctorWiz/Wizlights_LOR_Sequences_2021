@@ -1,0 +1,161 @@
+<SuperStarMetaFile saveFileVersion="2" audioCentisecondLength="0" sequenceCentisecondLength="30000" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="enabled" exportRawColorValues="disabled" ribbonDisplayMode="1" starInUse="no" starUnitID="1" firstRibbonUnitID="17">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="16"/>
+		<configuration network="1" networkNbr="1" firstUnitID="17" lastUnitID="22"/>
+		<configuration network="2" networkNbr="2" firstUnitID="23" lastUnitID="28"/>
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25"/>
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout visualizationMode="true" visualizationFilePath="Visualizations\Editor\Samples\24x25Tree_8RowGlobe.lee" visualizationTrackScrunchFlag="0" visualizationTrackSortType="2" visualizationOrientation="1" visualizationMaxLength="50" visualizationWrapAround="1" visualizationTrackMaxDetectionRows="4" nbrOfRibbons="50" ribbonType="CCR" ribbonOrientation="vertical" ribbonShape="straight" ribbonLength="full" controllerLocation="top"/>
+	</layouts>
+	<scenes>
+		<scene name="Scene 1" layer="1" type="intensity" startCentisecond="25" endCentisecond="900" red1="10" green1="10" blue1="10" white1="0" red2="10" green2="10" blue2="10" white2="0" savedIndex="0">
+			<element ribbonIndex="12" pixelIndex="4"/>
+			<element ribbonIndex="12" pixelIndex="5"/>
+			<element ribbonIndex="12" pixelIndex="6"/>
+			<element ribbonIndex="12" pixelIndex="7"/>
+			<element ribbonIndex="12" pixelIndex="8"/>
+			<element ribbonIndex="12" pixelIndex="9"/>
+			<element ribbonIndex="12" pixelIndex="10"/>
+			<element ribbonIndex="12" pixelIndex="11"/>
+			<element ribbonIndex="12" pixelIndex="12"/>
+			<element ribbonIndex="12" pixelIndex="13"/>
+			<element ribbonIndex="13" pixelIndex="4"/>
+			<element ribbonIndex="13" pixelIndex="5"/>
+			<element ribbonIndex="13" pixelIndex="6"/>
+			<element ribbonIndex="13" pixelIndex="7"/>
+			<element ribbonIndex="13" pixelIndex="8"/>
+			<element ribbonIndex="13" pixelIndex="9"/>
+			<element ribbonIndex="13" pixelIndex="10"/>
+			<element ribbonIndex="13" pixelIndex="11"/>
+			<element ribbonIndex="13" pixelIndex="12"/>
+			<element ribbonIndex="13" pixelIndex="13"/>
+			<element ribbonIndex="14" pixelIndex="4"/>
+			<element ribbonIndex="14" pixelIndex="5"/>
+			<element ribbonIndex="14" pixelIndex="6"/>
+			<element ribbonIndex="14" pixelIndex="7"/>
+			<element ribbonIndex="14" pixelIndex="8"/>
+			<element ribbonIndex="14" pixelIndex="9"/>
+			<element ribbonIndex="14" pixelIndex="10"/>
+			<element ribbonIndex="14" pixelIndex="11"/>
+			<element ribbonIndex="14" pixelIndex="12"/>
+			<element ribbonIndex="14" pixelIndex="13"/>
+			<element ribbonIndex="15" pixelIndex="4"/>
+			<element ribbonIndex="15" pixelIndex="5"/>
+			<element ribbonIndex="15" pixelIndex="6"/>
+			<element ribbonIndex="15" pixelIndex="7"/>
+			<element ribbonIndex="15" pixelIndex="8"/>
+			<element ribbonIndex="15" pixelIndex="9"/>
+			<element ribbonIndex="15" pixelIndex="10"/>
+			<element ribbonIndex="15" pixelIndex="11"/>
+			<element ribbonIndex="15" pixelIndex="12"/>
+			<element ribbonIndex="15" pixelIndex="13"/>
+			<element ribbonIndex="16" pixelIndex="4"/>
+			<element ribbonIndex="16" pixelIndex="5"/>
+			<element ribbonIndex="16" pixelIndex="6"/>
+			<element ribbonIndex="16" pixelIndex="7"/>
+			<element ribbonIndex="16" pixelIndex="8"/>
+			<element ribbonIndex="16" pixelIndex="9"/>
+			<element ribbonIndex="16" pixelIndex="10"/>
+			<element ribbonIndex="16" pixelIndex="11"/>
+			<element ribbonIndex="16" pixelIndex="12"/>
+			<element ribbonIndex="16" pixelIndex="13"/>
+			<element ribbonIndex="17" pixelIndex="4"/>
+			<element ribbonIndex="17" pixelIndex="5"/>
+			<element ribbonIndex="17" pixelIndex="6"/>
+			<element ribbonIndex="17" pixelIndex="7"/>
+			<element ribbonIndex="17" pixelIndex="8"/>
+			<element ribbonIndex="17" pixelIndex="9"/>
+			<element ribbonIndex="17" pixelIndex="10"/>
+			<element ribbonIndex="17" pixelIndex="11"/>
+			<element ribbonIndex="17" pixelIndex="12"/>
+			<element ribbonIndex="17" pixelIndex="13"/>
+			<element ribbonIndex="18" pixelIndex="4"/>
+			<element ribbonIndex="18" pixelIndex="5"/>
+			<element ribbonIndex="18" pixelIndex="6"/>
+			<element ribbonIndex="18" pixelIndex="7"/>
+			<element ribbonIndex="18" pixelIndex="8"/>
+			<element ribbonIndex="18" pixelIndex="9"/>
+			<element ribbonIndex="18" pixelIndex="10"/>
+			<element ribbonIndex="18" pixelIndex="11"/>
+			<element ribbonIndex="18" pixelIndex="12"/>
+			<element ribbonIndex="18" pixelIndex="13"/>
+			<element ribbonIndex="19" pixelIndex="4"/>
+			<element ribbonIndex="19" pixelIndex="5"/>
+			<element ribbonIndex="19" pixelIndex="6"/>
+			<element ribbonIndex="19" pixelIndex="7"/>
+			<element ribbonIndex="19" pixelIndex="8"/>
+			<element ribbonIndex="19" pixelIndex="9"/>
+			<element ribbonIndex="19" pixelIndex="10"/>
+			<element ribbonIndex="19" pixelIndex="11"/>
+			<element ribbonIndex="19" pixelIndex="12"/>
+			<element ribbonIndex="19" pixelIndex="13"/>
+			<element ribbonIndex="20" pixelIndex="4"/>
+			<element ribbonIndex="20" pixelIndex="5"/>
+			<element ribbonIndex="20" pixelIndex="6"/>
+			<element ribbonIndex="20" pixelIndex="7"/>
+			<element ribbonIndex="20" pixelIndex="8"/>
+			<element ribbonIndex="20" pixelIndex="9"/>
+			<element ribbonIndex="20" pixelIndex="10"/>
+			<element ribbonIndex="20" pixelIndex="11"/>
+			<element ribbonIndex="20" pixelIndex="12"/>
+			<element ribbonIndex="20" pixelIndex="13"/>
+			<element ribbonIndex="21" pixelIndex="4"/>
+			<element ribbonIndex="21" pixelIndex="5"/>
+			<element ribbonIndex="21" pixelIndex="6"/>
+			<element ribbonIndex="21" pixelIndex="7"/>
+			<element ribbonIndex="21" pixelIndex="8"/>
+			<element ribbonIndex="21" pixelIndex="9"/>
+			<element ribbonIndex="21" pixelIndex="10"/>
+			<element ribbonIndex="21" pixelIndex="11"/>
+			<element ribbonIndex="21" pixelIndex="12"/>
+			<element ribbonIndex="21" pixelIndex="13"/>
+			<element ribbonIndex="22" pixelIndex="4"/>
+			<element ribbonIndex="22" pixelIndex="5"/>
+			<element ribbonIndex="22" pixelIndex="6"/>
+			<element ribbonIndex="22" pixelIndex="7"/>
+			<element ribbonIndex="22" pixelIndex="8"/>
+			<element ribbonIndex="22" pixelIndex="9"/>
+			<element ribbonIndex="22" pixelIndex="10"/>
+			<element ribbonIndex="22" pixelIndex="11"/>
+			<element ribbonIndex="22" pixelIndex="12"/>
+			<element ribbonIndex="22" pixelIndex="13"/>
+			<element ribbonIndex="23" pixelIndex="4"/>
+			<element ribbonIndex="23" pixelIndex="5"/>
+			<element ribbonIndex="23" pixelIndex="6"/>
+			<element ribbonIndex="23" pixelIndex="7"/>
+			<element ribbonIndex="23" pixelIndex="8"/>
+			<element ribbonIndex="23" pixelIndex="9"/>
+			<element ribbonIndex="23" pixelIndex="10"/>
+			<element ribbonIndex="23" pixelIndex="11"/>
+			<element ribbonIndex="23" pixelIndex="12"/>
+			<element ribbonIndex="23" pixelIndex="13"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<flowys>
+		<flowy flowyType="Shockwave" startTime="2100" endTime="2200" layer="1" acceleration="-5" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="0" endRadius="20" headWidth="3" tailWidth="3" Colors="100,0,0,0 0,0,100,0 50,0,100,0" blendColors="1" savedIndex="0"/>
+		<flowy flowyType="Shockwave" startTime="2200" endTime="2300" layer="1" acceleration="5" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="20" endRadius="0" headWidth="3" tailWidth="3" Colors="50,0,100,0 0,0,100,0 100,0,0,0" blendColors="1" savedIndex="1"/>
+		<flowy flowyType="Shockwave" startTime="2300" endTime="2400" layer="1" acceleration="-7" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="0" endRadius="20" headWidth="3" tailWidth="3" Colors="100,0,0,0 0,0,100,0 50,0,100,0" blendColors="1" savedIndex="2"/>
+		<flowy flowyType="Shockwave" startTime="2400" endTime="2500" layer="1" acceleration="7" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="20" endRadius="0" headWidth="3" tailWidth="3" Colors="50,0,100,0 0,0,100,0 100,0,0,0" blendColors="1" savedIndex="3"/>
+		<flowy flowyType="Shockwave" startTime="2500" endTime="2600" layer="1" acceleration="-5" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="0" endRadius="20" headWidth="3" tailWidth="3" Colors="100,0,0,0 0,0,100,0 50,0,100,0" blendColors="1" savedIndex="4"/>
+		<flowy flowyType="Shockwave" startTime="2600" endTime="2700" layer="1" acceleration="5" centerX="6" centerY="23" startAngle="0" endAngle="360" startRadius="20" endRadius="0" headWidth="3" tailWidth="3" Colors="50,0,100,0 0,0,100,0 100,0,0,0" blendColors="1" savedIndex="5"/>
+		<flowy flowyType="Spiral" startTime="2750" endTime="2945" layer="1" acceleration="0" centerX="6" centerY="25" startAngle="0" endAngle="1440" startRadius="0" endRadius="21" startDotSize="3" endDotSize="8" tailTimeLength="100" Colors="100,0,0,0 100,50,0,0 100,100,0,0 50,100,0,0 0,100,0,0" colorsSize="5" blendColors="0" savedIndex="6"/>
+		<flowy flowyType="Fan" startTime="3075" endTime="3495" layer="1" acceleration="0" centerX="6" centerY="24" startAngle="90" endAngle="357" startRadius="0" endRadius="17" revolutionsPerSecond="-30" blades="3" width="70" elementAngle="45" elementStepAngle="15" startDotSize="3" endDotSize="8" showEntireBladeWidthAtStart="0" Colors="100,0,0,0 100,50,0,0 100,100,0,0 50,100,0,0 0,100,0,0 0,50,50,0 0,0,100,0 50,0,100,0" colorsSize="8" blendColors="1" savedIndex="7"/>
+	</flowys>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Action 1" text="MERRY" colorType="chooseColor" maskType="normal" rotation="0" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="12" yStart="6" xEnd="-30" yEnd="6" startCentisecond="25" endCentisecond="375" rampTime="0" firstColorIndex="0" red="100" green="0" blue="0" white="0" savedIndex="0">
+		<textAction name="Text Action 1" text="CHRISTMAS" colorType="chooseColor" maskType="normal" rotation="0" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="5" xStart="12" yStart="6" xEnd="-60" yEnd="6" startCentisecond="350" endCentisecond="900" rampTime="0" firstColorIndex="0" red="0" green="100" blue="0" white="0" savedIndex="1">
+		<textAction name="Text Action 1" text="Merry" colorType="redGreenBlue" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Bold_Vertical" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="4" xStart="0" yStart="40" xEnd="0" yEnd="-40" startCentisecond="925" endCentisecond="1400" rampTime="0" firstColorIndex="0" red="10" green="10" blue="10" white="0" savedIndex="2">
+		<textAction name="Text Action 1" text="Christmas" colorType="redGreenBlue" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Bold_Vertical" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="5" xStart="0" yStart="40" xEnd="0" yEnd="-70" startCentisecond="1225" endCentisecond="2025" rampTime="0" firstColorIndex="0" red="10" green="10" blue="10" white="0" savedIndex="3">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

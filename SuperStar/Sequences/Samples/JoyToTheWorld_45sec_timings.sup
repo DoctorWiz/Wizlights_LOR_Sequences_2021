@@ -1,0 +1,406 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="C:\SuperStar\Audio\JoyToTheWorld_45sec.wav">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="10" firstRibbonUnitID="11">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="12">
+		<configuration network="1" networkNbr="-1" firstUnitID="17" lastUnitID="22">
+		<configuration network="2" networkNbr="-1" firstUnitID="23" lastUnitID="28">
+		<configuration network="3" networkNbr="-1" firstUnitID="24" lastUnitID="29">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="4" ribbonType="CCR" ribbonOrientation="horizontal" ribbonShape="arch" ribbonLength="full" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+	<timingGrids>
+		<timingGrid saveID="0" name="Beat" type="freeform">
+			<timing centisecond="0">
+			<timing centisecond="84">
+			<timing centisecond="126">
+			<timing centisecond="168">
+			<timing centisecond="204">
+			<timing centisecond="246">
+			<timing centisecond="285">
+			<timing centisecond="325">
+			<timing centisecond="363">
+			<timing centisecond="404">
+			<timing centisecond="445">
+			<timing centisecond="483">
+			<timing centisecond="522">
+			<timing centisecond="562">
+			<timing centisecond="602">
+			<timing centisecond="642">
+			<timing centisecond="682">
+			<timing centisecond="723">
+			<timing centisecond="762">
+			<timing centisecond="802">
+			<timing centisecond="841">
+			<timing centisecond="882">
+			<timing centisecond="921">
+			<timing centisecond="961">
+			<timing centisecond="999">
+			<timing centisecond="1040">
+			<timing centisecond="1079">
+			<timing centisecond="1122">
+			<timing centisecond="1158">
+			<timing centisecond="1199">
+			<timing centisecond="1238">
+			<timing centisecond="1279">
+			<timing centisecond="1318">
+			<timing centisecond="1358">
+			<timing centisecond="1398">
+			<timing centisecond="1437">
+			<timing centisecond="1477">
+			<timing centisecond="1516">
+			<timing centisecond="1557">
+			<timing centisecond="1597">
+			<timing centisecond="1636">
+			<timing centisecond="1677">
+			<timing centisecond="1715">
+			<timing centisecond="1755">
+			<timing centisecond="1795">
+			<timing centisecond="1836">
+			<timing centisecond="1874">
+			<timing centisecond="1914">
+			<timing centisecond="1953">
+			<timing centisecond="1993">
+			<timing centisecond="2033">
+			<timing centisecond="2074">
+			<timing centisecond="2112">
+			<timing centisecond="2152">
+			<timing centisecond="2192">
+			<timing centisecond="2231">
+			<timing centisecond="2271">
+			<timing centisecond="2313">
+			<timing centisecond="2351">
+			<timing centisecond="2391">
+			<timing centisecond="2430">
+			<timing centisecond="2470">
+			<timing centisecond="2511">
+			<timing centisecond="2550">
+			<timing centisecond="2589">
+			<timing centisecond="2629">
+			<timing centisecond="2669">
+			<timing centisecond="2709">
+			<timing centisecond="2748">
+			<timing centisecond="2788">
+			<timing centisecond="2827">
+			<timing centisecond="2868">
+			<timing centisecond="2907">
+			<timing centisecond="2948">
+			<timing centisecond="2986">
+			<timing centisecond="3026">
+			<timing centisecond="3066">
+			<timing centisecond="3106">
+			<timing centisecond="3146">
+			<timing centisecond="3186">
+			<timing centisecond="3226">
+			<timing centisecond="3266">
+			<timing centisecond="3304">
+			<timing centisecond="3345">
+			<timing centisecond="3384">
+			<timing centisecond="3424">
+			<timing centisecond="3463">
+			<timing centisecond="3504">
+			<timing centisecond="3543">
+			<timing centisecond="3585">
+			<timing centisecond="3622">
+			<timing centisecond="3662">
+			<timing centisecond="3702">
+			<timing centisecond="3742">
+			<timing centisecond="3782">
+			<timing centisecond="3821">
+			<timing centisecond="3861">
+			<timing centisecond="3901">
+			<timing centisecond="3940">
+			<timing centisecond="3980">
+			<timing centisecond="4020">
+			<timing centisecond="4060">
+			<timing centisecond="4101">
+			<timing centisecond="4139">
+			<timing centisecond="4180">
+			<timing centisecond="4219">
+			<timing centisecond="4258">
+			<timing centisecond="4299">
+			<timing centisecond="4329">
+			<timing centisecond="4360">
+			<timing centisecond="4395">
+			<timing centisecond="4430">
+		</timingGrid>
+	</timingGrids>
+	<timingChannels>
+		<timingChannel saveID="0" name="Total">
+			<timing startCentisecond="663" endCentisecond="669">
+			<timing startCentisecond="723" endCentisecond="736">
+			<timing startCentisecond="763" endCentisecond="769">
+			<timing startCentisecond="804" endCentisecond="805">
+			<timing startCentisecond="843" endCentisecond="852">
+			<timing startCentisecond="863" endCentisecond="871">
+			<timing startCentisecond="882" endCentisecond="896">
+			<timing startCentisecond="922" endCentisecond="928">
+			<timing startCentisecond="999" endCentisecond="1011">
+			<timing startCentisecond="1022" endCentisecond="1025">
+			<timing startCentisecond="1041" endCentisecond="1052">
+			<timing startCentisecond="1081" endCentisecond="1085">
+			<timing startCentisecond="1100" endCentisecond="1110">
+			<timing startCentisecond="1122" endCentisecond="1125">
+			<timing startCentisecond="1239" endCentisecond="1249">
+			<timing startCentisecond="1261" endCentisecond="1262">
+			<timing startCentisecond="1280" endCentisecond="1287">
+			<timing startCentisecond="1301" endCentisecond="1310">
+			<timing startCentisecond="1319" endCentisecond="1330">
+			<timing startCentisecond="1359" endCentisecond="1412">
+			<timing startCentisecond="1438" endCentisecond="1443">
+			<timing startCentisecond="1519" endCentisecond="1523">
+			<timing startCentisecond="1578" endCentisecond="1580">
+			<timing startCentisecond="1597" endCentisecond="1603">
+			<timing startCentisecond="1657" endCentisecond="1663">
+			<timing startCentisecond="1716" endCentisecond="1721">
+			<timing startCentisecond="1776" endCentisecond="1781">
+			<timing startCentisecond="1798" endCentisecond="1800">
+			<timing startCentisecond="1816" endCentisecond="1825">
+			<timing startCentisecond="1837" endCentisecond="1887">
+			<timing startCentisecond="1894" endCentisecond="1895">
+			<timing startCentisecond="1896" endCentisecond="1901">
+			<timing startCentisecond="1935" endCentisecond="1964">
+			<timing startCentisecond="1994" endCentisecond="2009">
+			<timing startCentisecond="2012" endCentisecond="2027">
+			<timing startCentisecond="2034" endCentisecond="2038">
+			<timing startCentisecond="2054" endCentisecond="2059">
+			<timing startCentisecond="2075" endCentisecond="2079">
+			<timing startCentisecond="2157" endCentisecond="2161">
+			<timing startCentisecond="2193" endCentisecond="2201">
+			<timing startCentisecond="2294" endCentisecond="2299">
+			<timing startCentisecond="2332" endCentisecond="2339">
+			<timing startCentisecond="2392" endCentisecond="2400">
+			<timing startCentisecond="2473" endCentisecond="2480">
+			<timing startCentisecond="2490" endCentisecond="2495">
+			<timing startCentisecond="2496" endCentisecond="2497">
+			<timing startCentisecond="2511" endCentisecond="2518">
+			<timing startCentisecond="2571" endCentisecond="2605">
+			<timing startCentisecond="2631" endCentisecond="2663">
+			<timing startCentisecond="2669" endCentisecond="2680">
+			<timing startCentisecond="2689" endCentisecond="2697">
+			<timing startCentisecond="2710" endCentisecond="2716">
+			<timing startCentisecond="2869" endCentisecond="2873">
+			<timing startCentisecond="3088" endCentisecond="3095">
+			<timing startCentisecond="3146" endCentisecond="3155">
+			<timing startCentisecond="3267" endCentisecond="3280">
+			<timing startCentisecond="3289" endCentisecond="3296">
+			<timing startCentisecond="3304" endCentisecond="3314">
+			<timing startCentisecond="3325" endCentisecond="3331">
+			<timing startCentisecond="3346" endCentisecond="3351">
+			<timing startCentisecond="3386" endCentisecond="3390">
+			<timing startCentisecond="3463" endCentisecond="3476">
+			<timing startCentisecond="3545" endCentisecond="3551">
+			<timing startCentisecond="3565" endCentisecond="3574">
+			<timing startCentisecond="3585" endCentisecond="3595">
+			<timing startCentisecond="3603" endCentisecond="3608">
+			<timing startCentisecond="3623" endCentisecond="3629">
+			<timing startCentisecond="3663" endCentisecond="3671">
+			<timing startCentisecond="3743" endCentisecond="3760">
+			<timing startCentisecond="3761" endCentisecond="3768">
+			<timing startCentisecond="3783" endCentisecond="3790">
+			<timing startCentisecond="3803" endCentisecond="3806">
+			<timing startCentisecond="3822" endCentisecond="3828">
+			<timing startCentisecond="3842" endCentisecond="3853">
+			<timing startCentisecond="3902" endCentisecond="3917">
+			<timing startCentisecond="3921" endCentisecond="3925">
+			<timing startCentisecond="3940" endCentisecond="3953">
+			<timing startCentisecond="3962" endCentisecond="3963">
+			<timing startCentisecond="3981" endCentisecond="3989">
+			<timing startCentisecond="4062" endCentisecond="4073">
+			<timing startCentisecond="4101" endCentisecond="4102">
+			<timing startCentisecond="4121" endCentisecond="4123">
+			<timing startCentisecond="4140" endCentisecond="4148">
+			<timing startCentisecond="4181" endCentisecond="4190">
+			<timing startCentisecond="4201" endCentisecond="4211">
+			<timing startCentisecond="4220" endCentisecond="4268">
+		</timingChannel>
+		<timingChannel saveID="1" name="Left">
+			<timing startCentisecond="623" endCentisecond="630">
+			<timing startCentisecond="663" endCentisecond="670">
+			<timing startCentisecond="723" endCentisecond="735">
+			<timing startCentisecond="763" endCentisecond="769">
+			<timing startCentisecond="844" endCentisecond="851">
+			<timing startCentisecond="863" endCentisecond="870">
+			<timing startCentisecond="882" endCentisecond="896">
+			<timing startCentisecond="922" endCentisecond="927">
+			<timing startCentisecond="1000" endCentisecond="1011">
+			<timing startCentisecond="1041" endCentisecond="1053">
+			<timing startCentisecond="1081" endCentisecond="1085">
+			<timing startCentisecond="1100" endCentisecond="1110">
+			<timing startCentisecond="1122" endCentisecond="1126">
+			<timing startCentisecond="1239" endCentisecond="1248">
+			<timing startCentisecond="1280" endCentisecond="1287">
+			<timing startCentisecond="1301" endCentisecond="1310">
+			<timing startCentisecond="1319" endCentisecond="1330">
+			<timing startCentisecond="1359" endCentisecond="1393">
+			<timing startCentisecond="1398" endCentisecond="1406">
+			<timing startCentisecond="1438" endCentisecond="1442">
+			<timing startCentisecond="1578" endCentisecond="1581">
+			<timing startCentisecond="1598" endCentisecond="1601">
+			<timing startCentisecond="1657" endCentisecond="1663">
+			<timing startCentisecond="1816" endCentisecond="1825">
+			<timing startCentisecond="1837" endCentisecond="1887">
+			<timing startCentisecond="1894" endCentisecond="1903">
+			<timing startCentisecond="1935" endCentisecond="1963">
+			<timing startCentisecond="1994" endCentisecond="2007">
+			<timing startCentisecond="2014" endCentisecond="2025">
+			<timing startCentisecond="2055" endCentisecond="2056">
+			<timing startCentisecond="2074" endCentisecond="2079">
+			<timing startCentisecond="2115" endCentisecond="2119">
+			<timing startCentisecond="2157" endCentisecond="2163">
+			<timing startCentisecond="2193" endCentisecond="2200">
+			<timing startCentisecond="2296" endCentisecond="2299">
+			<timing startCentisecond="2331" endCentisecond="2343">
+			<timing startCentisecond="2352" endCentisecond="2355">
+			<timing startCentisecond="2392" endCentisecond="2398">
+			<timing startCentisecond="2472" endCentisecond="2481">
+			<timing startCentisecond="2551" endCentisecond="2557">
+			<timing startCentisecond="2570" endCentisecond="2612">
+			<timing startCentisecond="2631" endCentisecond="2661">
+			<timing startCentisecond="2669" endCentisecond="2679">
+			<timing startCentisecond="2690" endCentisecond="2695">
+			<timing startCentisecond="2710" endCentisecond="2712">
+			<timing startCentisecond="3089" endCentisecond="3094">
+			<timing startCentisecond="3146" endCentisecond="3156">
+			<timing startCentisecond="3167" endCentisecond="3172">
+			<timing startCentisecond="3267" endCentisecond="3280">
+			<timing startCentisecond="3290" endCentisecond="3291">
+			<timing startCentisecond="3293" endCentisecond="3295">
+			<timing startCentisecond="3305" endCentisecond="3311">
+			<timing startCentisecond="3325" endCentisecond="3331">
+			<timing startCentisecond="3386" endCentisecond="3392">
+			<timing startCentisecond="3463" endCentisecond="3473">
+			<timing startCentisecond="3565" endCentisecond="3570">
+			<timing startCentisecond="3585" endCentisecond="3594">
+			<timing startCentisecond="3603" endCentisecond="3608">
+			<timing startCentisecond="3663" endCentisecond="3669">
+			<timing startCentisecond="3743" endCentisecond="3758">
+			<timing startCentisecond="3803" endCentisecond="3806">
+			<timing startCentisecond="3822" endCentisecond="3830">
+			<timing startCentisecond="3843" endCentisecond="3853">
+			<timing startCentisecond="3902" endCentisecond="3918">
+			<timing startCentisecond="3921" endCentisecond="3926">
+			<timing startCentisecond="3941" endCentisecond="3951">
+			<timing startCentisecond="3981" endCentisecond="3985">
+			<timing startCentisecond="4062" endCentisecond="4065">
+			<timing startCentisecond="4121" endCentisecond="4122">
+			<timing startCentisecond="4140" endCentisecond="4147">
+			<timing startCentisecond="4182" endCentisecond="4189">
+			<timing startCentisecond="4201" endCentisecond="4207">
+			<timing startCentisecond="4220" endCentisecond="4246">
+			<timing startCentisecond="4247" endCentisecond="4255">
+			<timing startCentisecond="4259" endCentisecond="4266">
+		</timingChannel>
+		<timingChannel saveID="2" name="Right">
+			<timing startCentisecond="563" endCentisecond="576">
+			<timing startCentisecond="582" endCentisecond="589">
+			<timing startCentisecond="664" endCentisecond="668">
+			<timing startCentisecond="723" endCentisecond="737">
+			<timing startCentisecond="762" endCentisecond="769">
+			<timing startCentisecond="803" endCentisecond="807">
+			<timing startCentisecond="843" endCentisecond="853">
+			<timing startCentisecond="862" endCentisecond="871">
+			<timing startCentisecond="882" endCentisecond="897">
+			<timing startCentisecond="922" endCentisecond="929">
+			<timing startCentisecond="999" endCentisecond="1012">
+			<timing startCentisecond="1022" endCentisecond="1027">
+			<timing startCentisecond="1041" endCentisecond="1052">
+			<timing startCentisecond="1082" endCentisecond="1085">
+			<timing startCentisecond="1100" endCentisecond="1111">
+			<timing startCentisecond="1122" endCentisecond="1123">
+			<timing startCentisecond="1161" endCentisecond="1164">
+			<timing startCentisecond="1201" endCentisecond="1208">
+			<timing startCentisecond="1219" endCentisecond="1227">
+			<timing startCentisecond="1238" endCentisecond="1249">
+			<timing startCentisecond="1260" endCentisecond="1263">
+			<timing startCentisecond="1280" endCentisecond="1286">
+			<timing startCentisecond="1301" endCentisecond="1309">
+			<timing startCentisecond="1319" endCentisecond="1329">
+			<timing startCentisecond="1359" endCentisecond="1423">
+			<timing startCentisecond="1438" endCentisecond="1444">
+			<timing startCentisecond="1478" endCentisecond="1485">
+			<timing startCentisecond="1518" endCentisecond="1528">
+			<timing startCentisecond="1579" endCentisecond="1580">
+			<timing startCentisecond="1597" endCentisecond="1604">
+			<timing startCentisecond="1657" endCentisecond="1663">
+			<timing startCentisecond="1715" endCentisecond="1724">
+			<timing startCentisecond="1757" endCentisecond="1758">
+			<timing startCentisecond="1759" endCentisecond="1760">
+			<timing startCentisecond="1774" endCentisecond="1786">
+			<timing startCentisecond="1795" endCentisecond="1805">
+			<timing startCentisecond="1816" endCentisecond="1825">
+			<timing startCentisecond="1837" endCentisecond="1849">
+			<timing startCentisecond="1855" endCentisecond="1887">
+			<timing startCentisecond="1934" endCentisecond="1965">
+			<timing startCentisecond="1994" endCentisecond="2030">
+			<timing startCentisecond="2033" endCentisecond="2040">
+			<timing startCentisecond="2054" endCentisecond="2061">
+			<timing startCentisecond="2075" endCentisecond="2080">
+			<timing startCentisecond="2193" endCentisecond="2201">
+			<timing startCentisecond="2294" endCentisecond="2300">
+			<timing startCentisecond="2391" endCentisecond="2403">
+			<timing startCentisecond="2432" endCentisecond="2435">
+			<timing startCentisecond="2489" endCentisecond="2503">
+			<timing startCentisecond="2510" endCentisecond="2523">
+			<timing startCentisecond="2571" endCentisecond="2603">
+			<timing startCentisecond="2631" endCentisecond="2665">
+			<timing startCentisecond="2669" endCentisecond="2681">
+			<timing startCentisecond="2689" endCentisecond="2701">
+			<timing startCentisecond="2709" endCentisecond="2720">
+			<timing startCentisecond="2749" endCentisecond="2753">
+			<timing startCentisecond="2790" endCentisecond="2794">
+			<timing startCentisecond="2869" endCentisecond="2876">
+			<timing startCentisecond="3047" endCentisecond="3054">
+			<timing startCentisecond="3067" endCentisecond="3074">
+			<timing startCentisecond="3088" endCentisecond="3097">
+			<timing startCentisecond="3146" endCentisecond="3154">
+			<timing startCentisecond="3267" endCentisecond="3281">
+			<timing startCentisecond="3283" endCentisecond="3297">
+			<timing startCentisecond="3304" endCentisecond="3317">
+			<timing startCentisecond="3324" endCentisecond="3332">
+			<timing startCentisecond="3345" endCentisecond="3363">
+			<timing startCentisecond="3387" endCentisecond="3389">
+			<timing startCentisecond="3463" endCentisecond="3487">
+			<timing startCentisecond="3544" endCentisecond="3554">
+			<timing startCentisecond="3565" endCentisecond="3577">
+			<timing startCentisecond="3585" endCentisecond="3596">
+			<timing startCentisecond="3604" endCentisecond="3610">
+			<timing startCentisecond="3611" endCentisecond="3612">
+			<timing startCentisecond="3622" endCentisecond="3633">
+			<timing startCentisecond="3663" endCentisecond="3672">
+			<timing startCentisecond="3743" endCentisecond="3775">
+			<timing startCentisecond="3781" endCentisecond="3794">
+			<timing startCentisecond="3803" endCentisecond="3807">
+			<timing startCentisecond="3841" endCentisecond="3853">
+			<timing startCentisecond="3902" endCentisecond="3915">
+			<timing startCentisecond="3921" endCentisecond="3923">
+			<timing startCentisecond="3940" endCentisecond="3956">
+			<timing startCentisecond="3961" endCentisecond="3966">
+			<timing startCentisecond="3981" endCentisecond="3994">
+			<timing startCentisecond="3996" endCentisecond="3998">
+			<timing startCentisecond="4021" endCentisecond="4027">
+			<timing startCentisecond="4061" endCentisecond="4075">
+			<timing startCentisecond="4088" endCentisecond="4092">
+			<timing startCentisecond="4101" endCentisecond="4105">
+			<timing startCentisecond="4121" endCentisecond="4124">
+			<timing startCentisecond="4140" endCentisecond="4149">
+			<timing startCentisecond="4180" endCentisecond="4193">
+			<timing startCentisecond="4200" endCentisecond="4213">
+			<timing startCentisecond="4220" endCentisecond="4272">
+			<timing startCentisecond="4319" endCentisecond="4326">
+		</timingChannel>
+	</timingChannels>
+</SuperStarMetaFile>

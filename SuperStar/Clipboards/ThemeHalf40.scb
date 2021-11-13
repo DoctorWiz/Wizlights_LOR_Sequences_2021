@@ -1,0 +1,41 @@
+<SuperStarClipboardFile saveFileVersion="1" description="5 morphs for a star - medium state1 head - short state 2 head
+same start times - no trailing ramp
+for half ribbons">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="1" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="5"/>
+			<state2 time="50" x1="0" y1="4" x2="0" y2="4" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="0" x1="0" y1="5" x2="0" y2="5" red="0" green="100" blue="0" trailLen="5"/>
+			<state2 time="50" x1="0" y1="9" x2="0" y2="9" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 3" layer="3" acceleration="0" savedIndex="2">
+			<state1 time="0" x1="0" y1="10" x2="0" y2="10" red="100" green="100" blue="0" trailLen="5"/>
+			<state2 time="50" x1="0" y1="14" x2="0" y2="14" red="100" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 4" layer="4" acceleration="0" savedIndex="3">
+			<state1 time="0" x1="0" y1="15" x2="0" y2="15" red="100" green="50" blue="0" trailLen="5"/>
+			<state2 time="50" x1="0" y1="19" x2="0" y2="19" red="100" green="50" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="50" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 5" layer="5" acceleration="0" savedIndex="4">
+			<state1 time="0" x1="0" y1="20" x2="0" y2="20" red="50" green="0" blue="100" trailLen="5"/>
+			<state2 time="50" x1="0" y1="24" x2="0" y2="24" red="50" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="50" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

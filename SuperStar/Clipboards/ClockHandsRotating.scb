@@ -1,0 +1,58 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12
+
+Appearance:
+   Clock with hands that rotate.
+
+Try Changing:
+  To make the arms rotate longer, select the last small block on the top layer and change it's Ramp Time Length to 0. Next, select all of the small blocks on the top layer, click on copy, then click on the time scale right after the last small block and click on paste. The long block in the lower layer is the outside circle of the clock, select it and make it the same length as the small blocks..
+   After the clock rotation is the length you want, select the last small block and change it's Ramp Time Length to something like .20">
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+		<image name="Clock" xOffset="0" yOffset="0" width="11" height="11" savedIndex="0">
+			<pixels="0,0,0,6579300,6579300,6579300,6579300,6579300,0,0,0,0,0,6579300,0,0,0,0,0,6579300,0,0,0,6579300,0,0,0,0,0,0,0,6579300,0,6579300,0,0,0,0,0,0,0,0,0,6579300,6579300,0,0,0,0,0,0,0,0,0,6579300,6579300,0,0,0,0,6579200,0,0,0,0,6579300,6579300,0,0,0,0,0,0,0,0,0,6579300,6579300,0,0,0,0,0,0,0,0,0,6579300,0,6579300,0,0,0,0,0,0,0,6579300,0,0,0,6579300,0,0,0,0,0,6579300,0,0,0,0,0,6579300,6579300,6579300,6579300,6579300,0,0,0"/>
+		</image>
+		<image name="12 oclock" xOffset="6" yOffset="5" width="4" height="1" savedIndex="1">
+			<pixels="25700,25700,25700,25700"/>
+		</image>
+		<image name="1:30 oclock" xOffset="6" yOffset="5" width="4" height="3" savedIndex="2">
+			<pixels="25700,25700,25700,25700,25700,0,0,0,0,25700,0,0"/>
+		</image>
+		<image name="3 oclock" xOffset="5" yOffset="5" width="5" height="4" savedIndex="3">
+			<pixels="0,25700,25700,25700,25700,25700,0,0,0,0,25700,0,0,0,0,25700,0,0,0,0"/>
+		</image>
+		<image name="4:30 oclock" xOffset="3" yOffset="5" width="7" height="3" savedIndex="4">
+			<pixels="0,0,0,25700,25700,25700,25700,0,25700,0,0,0,0,0,25700,0,0,0,0,0,0"/>
+		</image>
+		<image name="6 oclock" xOffset="2" yOffset="5" width="8" height="1" savedIndex="5">
+			<pixels="25700,25700,25700,0,25700,25700,25700,25700"/>
+		</image>
+		<image name="7:30 oclock" xOffset="3" yOffset="3" width="7" height="3" savedIndex="6">
+			<pixels="25700,0,0,0,0,0,0,0,25700,0,0,0,0,0,0,0,0,25700,25700,25700,25700"/>
+		</image>
+		<image name="9:00 oclock" xOffset="5" yOffset="2" width="5" height="4" savedIndex="7">
+			<pixels="25700,0,0,0,0,25700,0,0,0,0,25700,0,0,0,0,0,25700,25700,25700,25700"/>
+		</image>
+		<image name="10:30 oclock" xOffset="6" yOffset="3" width="4" height="3" savedIndex="8">
+			<pixels="0,25700,0,0,25700,0,0,0,25700,25700,25700,25700"/>
+		</image>
+	</images>
+	<imageActions>
+		<imageAction name="Clock Circle" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="0" endCentisecond="90" rampTime="20" imageIndex="-1" savedIndex="0">
+		<imageAction name="12:00" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="0" endCentisecond="10" rampTime="0" imageIndex="0" savedIndex="1">
+		<imageAction name="1:30" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="10" endCentisecond="20" rampTime="0" imageIndex="1" savedIndex="2">
+		<imageAction name="3:00" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="20" endCentisecond="30" rampTime="0" imageIndex="2" savedIndex="3">
+		<imageAction name="4:30" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="30" endCentisecond="40" rampTime="0" imageIndex="3" savedIndex="4">
+		<imageAction name="6:00" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="40" endCentisecond="50" rampTime="0" imageIndex="4" savedIndex="5">
+		<imageAction name="7:30" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="50" endCentisecond="60" rampTime="0" imageIndex="5" savedIndex="6">
+		<imageAction name="9:00" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="60" endCentisecond="70" rampTime="0" imageIndex="6" savedIndex="7">
+		<imageAction name="10:30" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="70" endCentisecond="80" rampTime="0" imageIndex="7" savedIndex="8">
+		<imageAction name="12:00 " colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="-842150451" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="80" endCentisecond="90" rampTime="20" imageIndex="0" savedIndex="9">
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

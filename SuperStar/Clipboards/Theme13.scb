@@ -1,0 +1,21 @@
+<SuperStarClipboardFile saveFileVersion="1" description="1 morph - 1/2 length on the left, going left
+Decellerating
+">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="3" acceleration="-10" savedIndex="0">
+			<state1 time="0" x1="0" y1="24" x2="0" y2="24" red="100" green="100" blue="100" trailLen="3"/>
+			<state2 time="30" x1="0" y1="0" x2="0" y2="0" red="100" green="100" blue="100" trailLen="1"/>
+			<ramp timeExt="15" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

@@ -1,0 +1,260 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="1" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="13">
+		<configuration network="1" networkNbr="-1" firstUnitID="8" lastUnitID="13">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="12" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+		<scene name="right white" layer="1" type="intensity" startCentisecond="130" endCentisecond="150" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="0">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="left white" layer="1" type="intensity" startCentisecond="190" endCentisecond="210" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="1">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+		<scene name="right white" layer="1" type="intensity" startCentisecond="330" endCentisecond="350" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="2">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="left white" layer="1" type="intensity" startCentisecond="390" endCentisecond="415" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="3">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+		<image name="Ding Red 40%" xOffset="1" yOffset="0" width="10" height="29" savedIndex="0">
+			<pixels="0,0,2621440,0,0,0,2621440,2621440,0,0,0,2621440,0,0,0,0,2621440,0,2621440,0,2621440,0,0,0,0,0,2621440,0,0,2621440,2621440,0,0,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,0,0,2621440,0,2621440,0,0,0,0,0,0,2621440,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,0,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,0,0,0,2621440,0,0,0,0,0,0,2621440,0,2621440,0,0,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,0,0,2621440,2621440,0,0,0,0,0,0,0,0,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440,2621440"/>
+		</image>
+		<image name="Ding Green" xOffset="1" yOffset="0" width="10" height="29" savedIndex="1">
+			<pixels="0,0,25600,0,0,0,25600,25600,0,0,0,25600,0,0,0,0,25600,0,25600,0,25600,0,0,0,0,0,25600,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,0,25600,0,0,0,0,0,0,25600,0,0,0,25600,25600,25600,25600,25600,25600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25600,25600,25600,25600,25600,25600,25600,25600,25600,25600,0,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,0,25600,25600,25600,25600,25600,25600,25600,25600,25600,25600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25600,25600,25600,25600,25600,25600,25600,25600,25600,25600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25600,25600,25600,25600,25600,25600,0,0,0,25600,0,0,0,0,0,0,25600,0,25600,0,0,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,25600,25600,25600,25600,25600,25600,25600,25600,25600,25600"/>
+		</image>
+		<image name="Ding Red" xOffset="1" yOffset="0" width="10" height="29" savedIndex="2">
+			<pixels="0,0,6553600,0,0,0,6553600,6553600,0,0,0,6553600,0,0,0,0,6553600,0,6553600,0,6553600,0,0,0,0,0,6553600,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,0,6553600,0,0,0,0,0,0,6553600,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,6553600,0,0,0,0,0,0,6553600,0,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600"/>
+		</image>
+		<image name="Ding Green 40%" xOffset="1" yOffset="0" width="10" height="29" savedIndex="3">
+			<pixels="0,0,10240,0,0,0,10240,10240,0,0,0,10240,0,0,0,0,10240,0,10240,0,10240,0,0,0,0,0,10240,0,0,10240,10240,0,0,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,0,0,10240,0,10240,0,0,0,0,0,0,10240,0,0,0,10240,10240,10240,10240,10240,10240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10240,10240,10240,10240,10240,10240,10240,10240,10240,10240,0,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,0,10240,10240,10240,10240,10240,10240,10240,10240,10240,10240,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12800,12800,12800,12800,12800,12800,12800,12800,12800,12800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10240,10240,10240,10240,10240,10240,0,0,0,10240,0,0,0,0,0,0,10240,0,10240,0,0,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,0,0,10240,10240,0,0,0,0,0,0,0,0,10240,10240,10240,10240,10240,10240,10240,10240,10240,10240,10240"/>
+		</image>
+		<image name="Ding Red 20%" xOffset="1" yOffset="0" width="10" height="29" savedIndex="4">
+			<pixels="0,0,1310720,0,0,0,1310720,1310720,0,0,0,1310720,0,0,0,0,1310720,0,1310720,0,1310720,0,0,0,0,0,1310720,0,0,1310720,1310720,0,0,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,0,0,1310720,0,1310720,0,0,0,0,0,0,1310720,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,0,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,0,0,0,1310720,0,0,0,0,0,0,1310720,0,1310720,0,0,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,0,0,1310720,1310720,0,0,0,0,0,0,0,0,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720,1310720"/>
+		</image>
+		<image name="Ding Green 20%" xOffset="1" yOffset="0" width="10" height="29" savedIndex="5">
+			<pixels="0,0,5120,0,0,0,5120,5120,0,0,0,5120,0,0,0,0,5120,0,5120,0,5120,0,0,0,0,0,5120,0,0,5120,5120,0,0,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,0,0,5120,0,5120,0,0,0,0,0,0,5120,0,0,0,5120,5120,5120,5120,5120,5120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5120,5120,5120,5120,5120,5120,5120,5120,5120,5120,0,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,0,5120,5120,5120,5120,5120,5120,5120,5120,5120,5120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5120,5120,5120,5120,5120,5120,5120,5120,5120,5120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5120,5120,5120,5120,5120,5120,0,0,0,5120,0,0,0,0,0,0,5120,0,5120,0,0,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,0,0,5120,5120,0,0,0,0,0,0,0,0,5120,5120,5120,5120,5120,5120,5120,5120,5120,5120,5120"/>
+		</image>
+		<image name="RGB" xOffset="1" yOffset="0" width="10" height="27" savedIndex="6">
+			<pixels="0,0,100,0,0,0,100,100,0,0,0,100,0,100,0,100,0,0,100,0,100,0,0,0,100,0,0,0,0,100,100,0,0,0,100,0,0,0,0,100,100,0,0,0,100,0,0,0,0,100,100,0,0,0,100,0,0,0,0,100,100,100,100,100,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25600,0,0,0,25600,25600,0,0,0,25600,0,0,0,0,25600,0,25600,0,25600,0,0,0,0,0,25600,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,25600,0,0,0,0,0,0,0,0,25600,0,25600,0,0,0,0,0,0,25600,0,0,0,25600,25600,25600,25600,25600,25600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,0,0,0,0,0,6553600,6553600,0,0,0,6553600,0,0,0,6553600,0,6553600,0,0,0,6553600,0,0,6553600,0,0,6553600,0,0,0,6553600,0,6553600,0,0,0,6553600,0,0,0,6553600,6553600,0,0,0,0,6553600,0,0,0,6553600,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600"/>
+		</image>
+	</images>
+	<imageActions>
+		<imageAction name="Ding Red" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="-12" yStart="10" xEnd="0" yEnd="10" startCentisecond="100" endCentisecond="130" rampTime="160" imageIndex="2" savedIndex="0">
+		<imageAction name="Ding Green" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="12" yStart="10" xEnd="0" yEnd="10" startCentisecond="160" endCentisecond="190" rampTime="100" imageIndex="1" savedIndex="1">
+		<imageAction name="Ding Red Ramp" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="-12" yStart="10" xEnd="0" yEnd="10" startCentisecond="300" endCentisecond="330" rampTime="60" imageIndex="4" savedIndex="2">
+		<imageAction name="Ding Green Ram" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="12" yStart="10" xEnd="0" yEnd="10" startCentisecond="360" endCentisecond="390" rampTime="60" imageIndex="5" savedIndex="3">
+		<imageAction name="RGB" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="12" yStart="10" xEnd="0" yEnd="10" startCentisecond="500" endCentisecond="550" rampTime="60" imageIndex="6" savedIndex="4">
+		<imageAction name="RGB" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="-25" xEnd="0" yEnd="20" startCentisecond="650" endCentisecond="700" rampTime="60" imageIndex="6" savedIndex="5">
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

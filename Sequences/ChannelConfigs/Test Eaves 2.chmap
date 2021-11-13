@@ -1,0 +1,13 @@
+Util-O-Rama Channel Map  created 11/07/2021 03:10:11 PM
+Destination Type, Name, SavedIndex, Source Name, SavedIndex
+[Mapped Channels]
+Channel,Eaves Chase 1 (R),5,Eaves Chase C9 1 (R),31
+Channel,Eaves Chase 2 (G),6,Eaves Chase C9 2 (G),32
+Channel,Eaves Chase 3 (B),7,Eaves Chase C9 3 (B),33
+Channel,Eaves Chase 4 (W),9,Eaves Chase C9 4 (W),35
+[Mapped RGBChannels]
+RGBChannel,C9 Chase (RGB),8,Eaves Chase C9 (RGB),34
+[Mapped ChannelGroups]
+ChannelGroup,Eaves Chase (RGBW),10,Eaves Chase C9,36
+[Mapped CosmicDevices]
+[Mapped Tracks]

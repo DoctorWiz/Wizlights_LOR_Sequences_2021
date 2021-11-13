@@ -1,0 +1,41 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 2 or more
+
+Appearance:
+  Morphs go round in circles on two ribbons
+
+Try Changing:
+  To change the length, select all 4 morphs and click on 'Nudge Length Left' or 'Nudge Length Right'.
+  To change the color select all 4 morphs, change the color and click on Group Modify.">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Down Left Ribbon" layer="1" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="0" y2="0" red="100" green="100" blue="100" trailLen="2"/>
+			<state2 time="40" x1="0" y1="49" x2="0" y2="49" red="100" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Up Right Ribbon" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="40" x1="1" y1="49" x2="1" y2="49" red="100" green="100" blue="100" trailLen="2"/>
+			<state2 time="80" x1="1" y1="0" x2="1" y2="0" red="100" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Down Left Ribbon" layer="1" acceleration="0" savedIndex="2">
+			<state1 time="80" x1="0" y1="0" x2="0" y2="0" red="100" green="100" blue="100" trailLen="2"/>
+			<state2 time="120" x1="0" y1="49" x2="0" y2="49" red="100" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Up Right Ribbon" layer="2" acceleration="0" savedIndex="3">
+			<state1 time="120" x1="1" y1="49" x2="1" y2="49" red="100" green="100" blue="100" trailLen="2"/>
+			<state2 time="160" x1="1" y1="0" x2="1" y2="0" red="100" green="100" blue="100" trailLen="2"/>
+			<ramp timeExt="40" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

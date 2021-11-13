@@ -1,0 +1,29 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12
+
+Appearance:
+  Text Paints from the bottom to the top
+
+Try Changing:
+  To change the time length, select the text mask and the foreground morph and then click on the 'Nudge Length Left' or the 'Nudge Length Right' buttons on the toolbar. 
+  To change the color of the text, change the color of the foreground morph. If you double click on the start color, it changes the start color, end color, and the starting ramp color.
+  For example, currently the text is orange. To change this to purple you woul double click on 50% Red, doulble click on 0% Green, and double click on 100% Blue, then click on Modify. This will make the start color, end color, and starting ramp color of the morph be purple and this will in turn make the foreground color of the text purple.
+  To change the text, type in new text, click on the 'Centr' button, then click on Modify. Likewise, if you change the font, click on 'Centr' then click on Modify.">
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph Up" layer="6" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="0" x2="0" y2="49" red="100" green="50" blue="0" trailLen="1"/>
+			<state2 time="45" x1="11" y1="0" x2="11" y2="49" red="100" green="50" blue="0" trailLen="1"/>
+			<ramp timeExt="55" red1="100" green1="50" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Action 2" text="Merry" colorType="chooseColor" maskType="negativeMask" rotation="90" direction="5" stopAtEdge="0" fontName="Bold" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="5" xStart="0" yStart="5" xEnd="0" yEnd="5" startCentisecond="0" endCentisecond="100" rampTime="0" firstColorIndex="0" red="100" green="100" blue="100" savedIndex="0">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

@@ -1,0 +1,78 @@
+<SuperStarClipboardFile saveFileVersion="7" description="Single Pixel Images for four singing faces">
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+		<image name="Mouth-1 Closed" xOffset="0" yOffset="3" width="1" height="5" savedIndex="0">
+			<pixels="6579300,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-1 1/2 Open" xOffset="0" yOffset="2" width="1" height="6" savedIndex="1">
+			<pixels="6579300,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-1 Full Open" xOffset="0" yOffset="1" width="1" height="7" savedIndex="2">
+			<pixels="6579300,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-1 O" xOffset="0" yOffset="0" width="1" height="8" savedIndex="3">
+			<pixels="6579300,0,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-2 Closed" xOffset="1" yOffset="3" width="1" height="5" savedIndex="4">
+			<pixels="6579300,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-2 1/2 Open" xOffset="1" yOffset="2" width="1" height="6" savedIndex="5">
+			<pixels="6579300,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-2 Full Open" xOffset="1" yOffset="1" width="1" height="7" savedIndex="6">
+			<pixels="6579300,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-2 O" xOffset="1" yOffset="0" width="1" height="8" savedIndex="7">
+			<pixels="6579300,0,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-3 Closed" xOffset="2" yOffset="3" width="1" height="5" savedIndex="8">
+			<pixels="6579300,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-3 1/2 Open" xOffset="2" yOffset="2" width="1" height="6" savedIndex="9">
+			<pixels="6579300,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-3 Full Open" xOffset="2" yOffset="1" width="1" height="7" savedIndex="10">
+			<pixels="6579300,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-3 O" xOffset="2" yOffset="0" width="1" height="8" savedIndex="11">
+			<pixels="6579300,0,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-4 Closed" xOffset="3" yOffset="3" width="1" height="5" savedIndex="12">
+			<pixels="6579300,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-4 1/2 Open" xOffset="3" yOffset="2" width="1" height="6" savedIndex="13">
+			<pixels="6579300,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-4 Full Open" xOffset="3" yOffset="1" width="1" height="7" savedIndex="14">
+			<pixels="6579300,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+		<image name="Mouth-4 O" xOffset="3" yOffset="0" width="1" height="8" savedIndex="15">
+			<pixels="6579300,0,0,0,6579300,6579300,6579300,6579300"/>
+		</image>
+	</images>
+	<imageActions>
+		<imageAction name="Image Action 1184" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="0" endCentisecond="25" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="-1" savedIndex="0"/>
+		<imageAction name="Image Action 1185" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="25" endCentisecond="50" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="0" savedIndex="1"/>
+		<imageAction name="Image Action 1186" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="3" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="50" endCentisecond="75" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="1" savedIndex="2"/>
+		<imageAction name="Image Action 1187" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="75" endCentisecond="100" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="2" savedIndex="3"/>
+		<imageAction name="Image Action 1184" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="100" endCentisecond="125" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="3" savedIndex="4"/>
+		<imageAction name="Image Action 1185" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="125" endCentisecond="150" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="4" savedIndex="5"/>
+		<imageAction name="Image Action 1186" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="3" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="150" endCentisecond="175" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="5" savedIndex="6"/>
+		<imageAction name="Image Action 1187" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="175" endCentisecond="200" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="6" savedIndex="7"/>
+		<imageAction name="Image Action 1184" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="200" endCentisecond="225" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="7" savedIndex="8"/>
+		<imageAction name="Image Action 1185" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="225" endCentisecond="250" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="8" savedIndex="9"/>
+		<imageAction name="Image Action 1186" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="3" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="250" endCentisecond="275" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="9" savedIndex="10"/>
+		<imageAction name="Image Action 1187" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="275" endCentisecond="300" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="10" savedIndex="11"/>
+		<imageAction name="Image Action 1184" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="1" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="300" endCentisecond="325" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="11" savedIndex="12"/>
+		<imageAction name="Image Action 1185" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="2" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="325" endCentisecond="350" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="12" savedIndex="13"/>
+		<imageAction name="Image Action 1186" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="3" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="350" endCentisecond="375" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="13" savedIndex="14"/>
+		<imageAction name="Image Action 1187" colorType="nativeColor" maskType="normal" rotation="0" direction="8" stopAtEdge="0" layer="4" xStart="0" yStart="0" xEnd="0" yEnd="0" startCentisecond="375" endCentisecond="400" transparency="2" preRampTime="0" rampTime="0" fadeToBright="0" fadeFromBright="0" imageIndex="14" savedIndex="15"/>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

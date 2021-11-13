@@ -1,0 +1,36 @@
+<SuperStarClipboardFile saveFileVersion="1" description="2 morph - 1/4 length - going left on the left half
+1 scene - 2 blocks on right half
+morph and scen have same start time
+
+Designed to be used in counter clockwise circular mode
+The two morphs made to look like one
+">
+	<scenes>
+		<scene name="Scene 11" layer="1" type="intensity" startCentisecond="0" endCentisecond="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+		</scene>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="2" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="0" y1="13" x2="0" y2="13" red="100" green="0" blue="0" trailLen="0"/>
+			<state2 time="50" x1="0" y1="7" x2="0" y2="7" red="100" green="0" blue="0" trailLen="0"/>
+			<ramp timeExt="15" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="0" savedIndex="1">
+			<state1 time="0" x1="0" y1="6" x2="0" y2="6" red="100" green="0" blue="0" trailLen="0"/>
+			<state2 time="50" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="0"/>
+			<ramp timeExt="15" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

@@ -1,0 +1,43 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="1" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="13">
+		<configuration network="1" networkNbr="-1" firstUnitID="8" lastUnitID="13">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="24" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Action 1" text="Happy" colorType="chooseColor" maskType="normal" rotation="0" direction="4" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="24" yStart="21" xEnd="-29" yEnd="21" startCentisecond="0" endCentisecond="100" rampTime="0" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="0">
+		<textAction name="Text Action 2" text="New" colorType="chooseColor" maskType="normal" rotation="0" direction="6" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="-29" yStart="21" xEnd="24" yEnd="21" startCentisecond="100" endCentisecond="200" rampTime="0" firstColorIndex="0" red="100" green="0" blue="100" savedIndex="1">
+		<textAction name="Text Action 3" text="Year" colorType="chooseColor" maskType="normal" rotation="0" direction="4" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="24" yStart="21" xEnd="-23" yEnd="21" startCentisecond="200" endCentisecond="300" rampTime="0" firstColorIndex="0" red="0" green="100" blue="100" savedIndex="2">
+		<textAction name="Text Action 4" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="5" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="1" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="310" endCentisecond="320" rampTime="0" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="3">
+		<textAction name="Text Action 5" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="320" endCentisecond="330" rampTime="0" firstColorIndex="1" red="100" green="0" blue="0" savedIndex="4">
+		<textAction name="Text Action 6" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="3" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="330" endCentisecond="340" rampTime="0" firstColorIndex="2" red="100" green="0" blue="0" savedIndex="5">
+		<textAction name="Text Action 7" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="340" endCentisecond="350" rampTime="0" firstColorIndex="3" red="100" green="0" blue="0" savedIndex="6">
+		<textAction name="Text Action 8" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="5" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="350" endCentisecond="360" rampTime="0" firstColorIndex="4" red="100" green="0" blue="0" savedIndex="7">
+		<textAction name="Text Action 9" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="6" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="360" endCentisecond="370" rampTime="0" firstColorIndex="5" red="100" green="0" blue="0" savedIndex="8">
+		<textAction name="Text Action 4" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="5" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="1" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="370" endCentisecond="380" rampTime="0" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="9">
+		<textAction name="Text Action 5" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="380" endCentisecond="390" rampTime="0" firstColorIndex="1" red="100" green="0" blue="0" savedIndex="10">
+		<textAction name="Text Action 6" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="3" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="390" endCentisecond="400" rampTime="0" firstColorIndex="2" red="100" green="0" blue="0" savedIndex="11">
+		<textAction name="Text Action 7" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="4" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="400" endCentisecond="410" rampTime="0" firstColorIndex="3" red="100" green="0" blue="0" savedIndex="12">
+		<textAction name="Text Action 8" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="5" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="410" endCentisecond="420" rampTime="0" firstColorIndex="4" red="100" green="0" blue="0" savedIndex="13">
+		<textAction name="Text Action 9" text="Rainbow" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="6" xStart="8" yStart="6" xEnd="8" yEnd="6" startCentisecond="420" endCentisecond="430" rampTime="0" firstColorIndex="5" red="100" green="0" blue="0" savedIndex="14">
+		<textAction name="Text Action 16" text="Stop" colorType="rainbow" maskType="normal" rotation="0" direction="1" stopAtEdge="1" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="1" xStart="24" yStart="50" xEnd="0" yEnd="0" startCentisecond="450" endCentisecond="505" rampTime="75" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="15">
+		<textAction name="Text Action 17" text="at" colorType="rainbow" maskType="normal" rotation="0" direction="2" stopAtEdge="1" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="6" yStart="50" xEnd="6" yEnd="0" startCentisecond="550" endCentisecond="600" rampTime="75" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="16">
+		<textAction name="Text Action 18" text="Edge" colorType="rainbow" maskType="normal" rotation="0" direction="3" stopAtEdge="1" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="3" xStart="-21" yStart="50" xEnd="3" yEnd="0" startCentisecond="650" endCentisecond="700" rampTime="75" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="17">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

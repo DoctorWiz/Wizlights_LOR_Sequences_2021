@@ -1,0 +1,28 @@
+<SuperStarClipboardFile saveFileVersion="1" description="Nbr of Ribbons: 12
+
+Appearance:
+  Text with each character a different rainbow color, and the colors marguee across the text.
+
+Try Changing:
+  To change the text, select each of the 6 text actions, change the text, click on 'Centr' then click on Modify. This would be easier with Group Modify, but it has not yet been implimented in version 1.4.2 but will be in a future release.
+  To change the time length, select all 6 of the text actions, click on copy, select the time right after the last text action and click on paste. You can keep doing this to make it longer and longer. To make it shorter, select some of the trailing text actions and delete them.
+">
+	<scenes>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="First Color Red" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="0" endCentisecond="15" rampTime="0" firstColorIndex="0" red="100" green="100" blue="100" savedIndex="0">
+		<textAction name="First Color Orange" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="15" endCentisecond="30" rampTime="0" firstColorIndex="1" red="100" green="100" blue="100" savedIndex="1">
+		<textAction name="First Color Yellow" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="30" endCentisecond="45" rampTime="0" firstColorIndex="2" red="100" green="100" blue="100" savedIndex="2">
+		<textAction name="First Color Green" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="45" endCentisecond="60" rampTime="0" firstColorIndex="3" red="100" green="100" blue="100" savedIndex="3">
+		<textAction name="First Color Blue" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="60" endCentisecond="75" rampTime="0" firstColorIndex="4" red="100" green="100" blue="100" savedIndex="4">
+		<textAction name="First Color Violet" text="LAUGH!" colorType="rainbow" maskType="normal" rotation="90" direction="0" stopAtEdge="0" fontName="Thin" system="1" fontCapsHeight="8" fontCellWidth="8" fontCellHeight="8" layer="2" xStart="2" yStart="9" xEnd="2" yEnd="9" startCentisecond="75" endCentisecond="90" rampTime="0" firstColorIndex="5" red="100" green="100" blue="100" savedIndex="5">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

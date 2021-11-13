@@ -1,0 +1,40 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="1" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="13">
+		<configuration network="1" networkNbr="-1" firstUnitID="8" lastUnitID="13">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="12" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="2" acceleration="0" savedIndex="0">
+			<state1 time="0" x1="5" y1="0" x2="0" y2="5" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="200" x1="0" y1="29" x2="11" y2="36" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="200" x1="0" y1="29" x2="11" y2="36" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="400" x1="11" y1="18" x2="0" y2="44" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 4" layer="2" acceleration="0" savedIndex="2">
+			<state1 time="400" x1="11" y1="18" x2="0" y2="44" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="600" x1="0" y1="2" x2="11" y2="47" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

@@ -1,0 +1,289 @@
+<SuperStarFontFile saveFileVersion="1" name="Thin_Vertical" system="1" capsHeight="8" cellWidth="8" cellHeight="8">
+	<chars>
+		<char name="Character" asciiChar=" " xOffset="0" yOffset="0" width="1" height="1" cellWidth="5" savedIndex="0">
+			<pixels="0"/>
+		</char>
+		<char name="Character" asciiChar="!" xOffset="0" yOffset="4" width="8" height="1" cellWidth="10" savedIndex="1">
+			<pixels="11111001"/>
+		</char>
+		<char name="Character" asciiChar=""" xOffset="1" yOffset="3" width="2" height="3" cellWidth="5" savedIndex="2">
+			<pixels="110011"/>
+		</char>
+		<char name="Character" asciiChar="#" xOffset="0" yOffset="1" width="5" height="6" cellWidth="7" savedIndex="3">
+			<pixels="010101111101010010101111101010"/>
+		</char>
+		<char name="Character" asciiChar="$" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="4">
+			<pixels="0010010001001010111111110101001000100100"/>
+		</char>
+		<char name="Character" asciiChar="%" xOffset="0" yOffset="2" width="8" height="6" cellWidth="10" savedIndex="5">
+			<pixels="000000111100001100110000000011001100001111000000"/>
+		</char>
+		<char name="Character" asciiChar="&" xOffset="0" yOffset="2" width="8" height="6" cellWidth="10" savedIndex="6">
+			<pixels="000010010000011001101001100100011001000101101110"/>
+		</char>
+		<char name="Character" asciiChar="'" xOffset="0" yOffset="6" width="2" height="1" cellWidth="7" savedIndex="7">
+			<pixels="11"/>
+		</char>
+		<char name="Character" asciiChar="(" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="8">
+			<pixels="100000010100001000111100"/>
+		</char>
+		<char name="Character" asciiChar=")" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="9">
+			<pixels="001111000100001010000001"/>
+		</char>
+		<char name="Character" asciiChar="*" xOffset="0" yOffset="1" width="5" height="6" cellWidth="7" savedIndex="10">
+			<pixels="001001010101110011101010100100"/>
+		</char>
+		<char name="Character" asciiChar="+" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="11">
+			<pixels="0010000100111110010000100"/>
+		</char>
+		<char name="Character" asciiChar="," xOffset="0" yOffset="6" width="2" height="2" cellWidth="4" savedIndex="12">
+			<pixels="1001"/>
+		</char>
+		<char name="Character" asciiChar="-" xOffset="3" yOffset="2" width="1" height="4" cellWidth="7" savedIndex="13">
+			<pixels="1111"/>
+		</char>
+		<char name="Character" asciiChar="." xOffset="0" yOffset="7" width="1" height="1" cellWidth="3" savedIndex="14">
+			<pixels="1"/>
+		</char>
+		<char name="Character" asciiChar="/" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="15">
+			<pixels="11000000001100000000110000000011"/>
+		</char>
+		<char name="Character" asciiChar="0" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="16">
+			<pixels="0011110001000010100000010100001000111100"/>
+		</char>
+		<char name="Character" asciiChar="1" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="17">
+			<pixels="000000011111111101000001"/>
+		</char>
+		<char name="Character" asciiChar="2" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="18">
+			<pixels="0110000110010001100010011000010101000011"/>
+		</char>
+		<char name="Character" asciiChar="3" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="19">
+			<pixels="0110111010010001100100011000000101000010"/>
+		</char>
+		<char name="Character" asciiChar="4" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="20">
+			<pixels="0000100011111111010010000010100000011000"/>
+		</char>
+		<char name="Character" asciiChar="5" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="21">
+			<pixels="10001110100100011001000111110010"/>
+		</char>
+		<char name="Character" asciiChar="6" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="22">
+			<pixels="01001110100100011001000101111110"/>
+		</char>
+		<char name="Character" asciiChar="7" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="23">
+			<pixels="11100000100110001000011110000000"/>
+		</char>
+		<char name="Character" asciiChar="8" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="24">
+			<pixels="01101110100100011001000101101110"/>
+		</char>
+		<char name="Character" asciiChar="9" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="25">
+			<pixels="01111110100100011001000101100010"/>
+		</char>
+		<char name="Character" asciiChar=":" xOffset="2" yOffset="4" width="4" height="1" cellWidth="8" savedIndex="26">
+			<pixels="1001"/>
+		</char>
+		<char name="Character" asciiChar=";" xOffset="3" yOffset="4" width="5" height="2" cellWidth="9" savedIndex="27">
+			<pixels="1001000001"/>
+		</char>
+		<char name="Character" asciiChar="<" xOffset="0" yOffset="2" width="7" height="4" cellWidth="9" savedIndex="28">
+			<pixels="1000001010001000101000001000"/>
+		</char>
+		<char name="Character" asciiChar="=" xOffset="1" yOffset="3" width="4" height="3" cellWidth="7" savedIndex="29">
+			<pixels="111100001111"/>
+		</char>
+		<char name="Character" asciiChar=">" xOffset="0" yOffset="2" width="7" height="4" cellWidth="9" savedIndex="30">
+			<pixels="0001000001010001000101000001"/>
+		</char>
+		<char name="Character" asciiChar="?" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="31">
+			<pixels="01100000100100001000110101000000"/>
+		</char>
+		<char name="Character" asciiChar="@" xOffset="0" yOffset="2" width="8" height="6" cellWidth="10" savedIndex="32">
+			<pixels="011100011000100110011001100100010100001000111100"/>
+		</char>
+		<char name="Character" asciiChar="A" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="33">
+			<pixels="0000111100110100110001000011010000001111"/>
+		</char>
+		<char name="Character" asciiChar="B" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="34">
+			<pixels="01101110100100011001000111111111"/>
+		</char>
+		<char name="Character" asciiChar="C" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="35">
+			<pixels="01000010100000011000000101111110"/>
+		</char>
+		<char name="Character" asciiChar="D" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="36">
+			<pixels="01111110100000011000000111111111"/>
+		</char>
+		<char name="Character" asciiChar="E" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="37">
+			<pixels="10000001100100011001000111111111"/>
+		</char>
+		<char name="Character" asciiChar="F" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="38">
+			<pixels="10000000100100001001000011111111"/>
+		</char>
+		<char name="Character" asciiChar="G" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="39">
+			<pixels="01001111100010011000000101111110"/>
+		</char>
+		<char name="Character" asciiChar="H" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="40">
+			<pixels="11111111000100000001000011111111"/>
+		</char>
+		<char name="Character" asciiChar="I" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="41">
+			<pixels="100000011111111110000001"/>
+		</char>
+		<char name="Character" asciiChar="J" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="42">
+			<pixels="11111110000000010000000100000010"/>
+		</char>
+		<char name="Character" asciiChar="K" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="43">
+			<pixels="1000000101000010001001000001100011111111"/>
+		</char>
+		<char name="Character" asciiChar="L" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="44">
+			<pixels="00000001000000010000000111111111"/>
+		</char>
+		<char name="Character" asciiChar="M" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="45">
+			<pixels="1111111100110000000011000011000011111111"/>
+		</char>
+		<char name="Character" asciiChar="N" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="46">
+			<pixels="1111111100000110000110000110000011111111"/>
+		</char>
+		<char name="Character" asciiChar="O" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="47">
+			<pixels="01111110100000011000000101111110"/>
+		</char>
+		<char name="Character" asciiChar="P" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="48">
+			<pixels="01100000100100001001000011111111"/>
+		</char>
+		<char name="Character" asciiChar="Q" xOffset="0" yOffset="1" width="8" height="5" cellWidth="10" savedIndex="49">
+			<pixels="0000000101111111100000011000000101111110"/>
+		</char>
+		<char name="Character" asciiChar="R" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="50">
+			<pixels="0110000110010010100101001001100011111111"/>
+		</char>
+		<char name="Character" asciiChar="S" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="51">
+			<pixels="0100111010010001100100011001000101100010"/>
+		</char>
+		<char name="Character" asciiChar="T" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="52">
+			<pixels="1000000010000000111111111000000010000000"/>
+		</char>
+		<char name="Character" asciiChar="U" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="53">
+			<pixels="11111110000000010000000111111110"/>
+		</char>
+		<char name="Character" asciiChar="V" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="54">
+			<pixels="1110000000011100000000110001110011100000"/>
+		</char>
+		<char name="Character" asciiChar="W" xOffset="0" yOffset="1" width="8" height="7" cellWidth="10" savedIndex="55">
+			<pixels="11100000000111000000001100001100000000110001110011100000"/>
+		</char>
+		<char name="Character" asciiChar="X" xOffset="0" yOffset="1" width="8" height="6" cellWidth="10" savedIndex="56">
+			<pixels="100000010110011000011000000110000110011010000001"/>
+		</char>
+		<char name="Character" asciiChar="Y" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="57">
+			<pixels="1110000000010000000011110001000011100000"/>
+		</char>
+		<char name="Character" asciiChar="Z" xOffset="0" yOffset="2" width="8" height="5" cellWidth="10" savedIndex="58">
+			<pixels="1100000110100001100110011000010110000011"/>
+		</char>
+		<char name="Character" asciiChar="[" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="59">
+			<pixels="100000011000000111111111"/>
+		</char>
+		<char name="Character" asciiChar="\" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="60">
+			<pixels="00000011000011000011000011000000"/>
+		</char>
+		<char name="Character" asciiChar="]" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="61">
+			<pixels="111111111000000110000001"/>
+		</char>
+		<char name="Character" asciiChar="^" xOffset="0" yOffset="2" width="3" height="5" cellWidth="8" savedIndex="62">
+			<pixels="001010100010001"/>
+		</char>
+		<char name="Character" asciiChar="_" xOffset="7" yOffset="2" width="1" height="4" cellWidth="10" savedIndex="63">
+			<pixels="1111"/>
+		</char>
+		<char name="Character" asciiChar="`" xOffset="0" yOffset="5" width="2" height="2" cellWidth="8" savedIndex="64">
+			<pixels="0110"/>
+		</char>
+		<char name="Character" asciiChar="a" xOffset="0" yOffset="2" width="5" height="4" cellWidth="7" savedIndex="65">
+			<pixels="00001111111000101110"/>
+		</char>
+		<char name="Character" asciiChar="b" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="66">
+			<pixels="000011100001000111111111"/>
+		</char>
+		<char name="Character" asciiChar="c" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="67">
+			<pixels="100011000101110"/>
+		</char>
+		<char name="Character" asciiChar="d" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="68">
+			<pixels="111111110001000100001110"/>
+		</char>
+		<char name="Character" asciiChar="e" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="69">
+			<pixels="011011010101110"/>
+		</char>
+		<char name="Character" asciiChar="f" xOffset="0" yOffset="3" width="7" height="3" cellWidth="9" savedIndex="70">
+			<pixels="101000001111110010000"/>
+		</char>
+		<char name="Character" asciiChar="g" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="71">
+			<pixels="111101010111101"/>
+		</char>
+		<char name="Character" asciiChar="h" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="72">
+			<pixels="000011110001000011111111"/>
+		</char>
+		<char name="Character" asciiChar="i" xOffset="0" yOffset="4" width="6" height="1" cellWidth="8" savedIndex="73">
+			<pixels="101111"/>
+		</char>
+		<char name="Character" asciiChar="j" xOffset="0" yOffset="3" width="6" height="3" cellWidth="8" savedIndex="74">
+			<pixels="101110000001000010"/>
+		</char>
+		<char name="Character" asciiChar="k" xOffset="0" yOffset="2" width="8" height="4" cellWidth="10" savedIndex="75">
+			<pixels="00010001000010100000010011111111"/>
+		</char>
+		<char name="Character" asciiChar="l" xOffset="0" yOffset="4" width="8" height="1" cellWidth="10" savedIndex="76">
+			<pixels="11111111"/>
+		</char>
+		<char name="Character" asciiChar="m" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="77">
+			<pixels="0111110000111111000011111"/>
+		</char>
+		<char name="Character" asciiChar="n" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="78">
+			<pixels="011111000011111"/>
+		</char>
+		<char name="Character" asciiChar="o" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="79">
+			<pixels="011101000101110"/>
+		</char>
+		<char name="Character" asciiChar="p" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="80">
+			<pixels="111001010011111"/>
+		</char>
+		<char name="Character" asciiChar="q" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="81">
+			<pixels="111111010011100"/>
+		</char>
+		<char name="Character" asciiChar="r" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="82">
+			<pixels="010001000001111"/>
+		</char>
+		<char name="Character" asciiChar="s" xOffset="0" yOffset="3" width="5" height="3" cellWidth="7" savedIndex="83">
+			<pixels="100101010101001"/>
+		</char>
+		<char name="Character" asciiChar="t" xOffset="0" yOffset="3" width="7" height="3" cellWidth="9" savedIndex="84">
+			<pixels="001000011111110010000"/>
+		</char>
+		<char name="Character" asciiChar="u" xOffset="0" yOffset="2" width="5" height="4" cellWidth="7" savedIndex="85">
+			<pixels="11110000010000111110"/>
+		</char>
+		<char name="Character" asciiChar="v" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="86">
+			<pixels="1110000010000010001011100"/>
+		</char>
+		<char name="Character" asciiChar="w" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="87">
+			<pixels="1111000001000100000111110"/>
+		</char>
+		<char name="Character" asciiChar="x" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="88">
+			<pixels="1000101010001000101010001"/>
+		</char>
+		<char name="Character" asciiChar="y" xOffset="0" yOffset="2" width="5" height="5" cellWidth="7" savedIndex="89">
+			<pixels="1000001000001000101010001"/>
+		</char>
+		<char name="Character" asciiChar="z" xOffset="0" yOffset="2" width="5" height="4" cellWidth="7" savedIndex="90">
+			<pixels="11001101011001110001"/>
+		</char>
+		<char name="Character" asciiChar="{" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="91">
+			<pixels="100000010110011000011000"/>
+		</char>
+		<char name="Character" asciiChar="|" xOffset="0" yOffset="4" width="8" height="1" cellWidth="10" savedIndex="92">
+			<pixels="11100111"/>
+		</char>
+		<char name="Character" asciiChar="}" xOffset="0" yOffset="3" width="8" height="3" cellWidth="10" savedIndex="93">
+			<pixels="000110000110011010000001"/>
+		</char>
+		<char name="Character" asciiChar="~" xOffset="0" yOffset="2" width="2" height="6" cellWidth="8" savedIndex="94">
+			<pixels="100101101001"/>
+		</char>
+	</chars>
+</SuperStarFontFile>

@@ -1,0 +1,42 @@
+<SuperStarClipboardFile saveFileVersion="1" description="5 scenes for a star - 5 on, 5 off
+blue, purple, red, orange, yellow
+start times staggered
+for half ribbons">
+	<scenes>
+		<scene name="Scene 6" layer="1" type="intensity" startCentisecond="0" endCentisecond="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0" savedIndex="0">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+		</scene>
+		<scene name="Scene 7" layer="2" type="intensity" startCentisecond="5" endCentisecond="55" red1="50" green1="0" blue1="100" red2="0" green2="0" blue2="0" savedIndex="1">
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+		</scene>
+		<scene name="Scene 8" layer="3" type="intensity" startCentisecond="10" endCentisecond="60" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="2">
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+		</scene>
+		<scene name="Scene 9" layer="4" type="intensity" startCentisecond="15" endCentisecond="65" red1="100" green1="50" blue1="0" red2="0" green2="0" blue2="0" savedIndex="3">
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+		</scene>
+		<scene name="Scene 10" layer="5" type="intensity" startCentisecond="20" endCentisecond="70" red1="100" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="4">
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+		</scene>
+	</scenes>
+	<morphs>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarClipboardFile>

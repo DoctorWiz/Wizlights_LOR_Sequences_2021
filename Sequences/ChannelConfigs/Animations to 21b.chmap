@@ -1,0 +1,127 @@
+Util-O-Rama Channel Map  created 11/07/2021 08:24:54 PM
+Destination Type, Name, SavedIndex, Source Name, SavedIndex
+[Mapped Channels]
+Channel,Wreath Berries (R),0,Wreath Berries(R),208
+Channel,Wreath Leaves (G),1,Wreath Leaves(G),207
+Channel,Eaves Chase 1 (R),5,Eaves Chase C9 1 (R),31
+Channel,Eaves Chase 2 (G),6,Eaves Chase C9 2 (G),32
+Channel,Eaves Chase 3 (B),7,Eaves Chase C9 3 (B),33
+Channel,Eaves Chase 4 (W),9,Eaves Chase C9 4 (W),35
+Channel,Bushes 3.1 {C} (R),11,Bushes 3.1 {C} M5 (R),42
+Channel,Bushes 3.2 {C} (G),12,Bushes 3.2 {C} M5 (G),43
+Channel,Bushes 3.3 {C} (B),13,Bushes 3.3 {C} M5 (B),44
+Channel,Bushes 3.4 {C} (W),15,Bushes 3.4 {C} M5 (Ww),46
+Channel,Bushes 2.1 {L} (M),17,Bushes 2.1 {L} (M),38
+Channel,Bushes 2.2 {L} (W),18,Bushes 2.2 {L} (W),39
+Channel,Bushes 2.3 {L} Low (O),19,Bushes 2.3 {L} Low (O),40
+Channel,Bushes 5.3 {R} (B),21,Bushes 5.3 {R} (B),53
+Channel,Bushes 5.5 {R} (V),22,Bushes 5.5 {R} C9 (V),56
+Channel,Bushes 5.4 {R} (W),23,Bushes 5.4 {R} C9 (W),55
+Channel,Bushes 5.6 {R} (M),24,Bushes 5.6 {R} C9 (M),57
+Channel,Bushes 4.1 {D} (P),25,Bushes 4.2 {D} (W),48
+Channel,Bushes 5.1 {R} (R),26,Bushes 5.1 {R} (R),51
+Channel,Bushes 5.2 {R} (G),27,Bushes 5.2 {R} (G),52
+Channel,Bushes 4.2 {D} (W),32,Bushes 4.1 {D} (Pink),49
+Channel,Tree- Spiral 1 {L} (WR),124,Tree- Spiral 1 {L} (W),127
+Channel,Tree- Spiral 2 {F} (WG),125,Tree- Spiral 2 {F} (W),128
+Channel,Tree- Spiral 3 {R} (WB),126,Tree- Spiral 3 {R} (W),129
+Channel,Tree- Spiral 4 {B} (WV),127,Tree- Spiral 4 {B} (G),130
+Channel,Tree- Small {L} (B),129,Tree- Small {L} (B),137
+Channel,Tree- Tinsel 1 {L} (R),130,Tree- Tinsel 1 {L} (R),135
+Channel,Tree- Tinsel 2 {R} (R),131,Tree- Tinsel 2 {R} (R),136
+Channel,Tree- Big AC 1 (M),134,Tree- Big 1 (M),132
+Channel,Presents (M),136,Presents (M),134
+Channel,Candy Canes 1 (R),138,Candy Canes 1 (R),140
+Channel,Candy Canes 2 (G),139,Candy Canes 2 (G),141
+Channel,Candy Canes 3 (R),140,Candy Canes 3 (R),142
+Channel,Candy Canes 4 (G),141,Candy Canes 4 (G),143
+Channel,Swiriles- Candy Canes (RG),142,Swirlies- Candy Canes (RG),156
+Channel,Meteors 1 (W),144,Meteors 1 (W),228
+Channel,Meteors 2 (W),145,Meteors 2 (W),229
+Channel,Meteors 3 (B),146,Meteors 3 (B),230
+Channel,Meteors 4 (M),147,Meteors 4 (M),231
+Channel,zRainbow Rope Arch 1 (R),149,Rainbow Rope Arch 1 (R),145
+Channel,zRainbow Rope Arch 2 (O),150,Rainbow Rope Arch 2 (O),146
+Channel,zRainbow Rope Arch 3 (Y),151,Rainbow Rope Arch 3 (Y),147
+Channel,zRainbow Rope Arch 4 (G),152,Rainbow Rope Arch 4 (G),148
+Channel,zRainbow Rope Arch 5 (B),153,Rainbow Rope Arch 5 (B),149
+Channel,zRainbow Rope Arch 6 (V),154,Rainbow Rope Arch 6 (V),150
+Channel,Swirlies- Pine (GO),156,Swirlies- Pine (GO),152
+Channel,Swirlies- Oak (RGB),157,Swirlies- Oak (RGB),153
+Channel,Swirlies- Driveway (RGB),158,Swirlies- Driveway (RGB),154
+Channel,Swirlies- Manger Stars (RWB),159,Swirlies- Manger Stars (RWB),155
+Channel,Swirlies- Snowflakes (WB),163,Swirlies- Snowflakes (WB),157
+Channel,Lasers- Street (RG),168,Laser- Street (RG),160
+Channel,Lasers- Driveway (RG),169,Laser- Driveway (RG),159
+Channel,UFOs 1 {L} (RGB),171,UFOs 1 {L} (RGB),162
+Channel,UFOs 2 {CT} (RGB),172,UFOs 2 {CT} (RGB),163
+Channel,UFOs 3 {R} (RGB),173,UFOs 3 {R} (RGB),164
+Channel,Disco Balls (M),175,Disco Balls (M),166
+Channel,Rotating Beacons {L} (RGBO),176,Disco Balls (M),166
+Channel,Rotating Beacons {R} (RGBO),177,Disco Balls (M),166
+Channel,Amplifier 12V,180,Twinklers 1,233
+Channel,Transmitter 12V,181,Twinklers 2,234
+Channel,Spare 12 Volt G24,182,Twinklers 3,235
+Channel,Spare 12 Volt G25,183,Twinklers 4,236
+Channel,Nativity Characters,187,Nativity Characters,189
+Channel,Penguins,188,Singers- Penguins,170
+Channel,Snowman (W),189,Singers- Snowman (New) (W),169
+Channel,Yule Log (O),190,Yule Log (O),200
+Channel,Snow Lake (W),191,Snow Lake (W),177
+Channel,zYellow Snow (Y),192,Yellow Snow (Y),178
+Channel,Snowfall Projectors (WB),193,Snowfall Spots (W),176
+Channel,Festivus Pole Flood (R),195,Festivus Pole Flood (R),201
+Channel,Festivus Pole Flood (G),196,Festivus Pole Flood (G),202
+Channel,Festivus Pole Flood (B),197,Festivus Pole Flood (B),203
+Channel,Manger Flood 1 {L} (R),199,Manger Flood {R} (R),191
+Channel,Manger Flood 1 {L} (G),200,Manger Flood {R} (G),192
+Channel,Manger Flood 1 {L} (B),201,Manger Flood {R} (B),193
+Channel,Manger Flood 2 {R} (R),203,Manger Flood {L} (R),195
+Channel,Manger Flood 2 {R} (G),204,Manger Flood {L} (G),196
+Channel,Manger Flood 2 {R} (B),205,Manger Flood {L} (B),197
+Channel,Roof Ridgeline 1 {L} (R),212,Roof Ridgeline {L} (R),180
+Channel,Roof Ridgeline 1 {L} (G),213,Roof Ridgeline {L} (G),181
+Channel,Roof Ridgeline 1 {L} (B),214,Roof Ridgeline {L} (B),182
+Channel,Roof Ridgeline 2 {R} (R),216,Roof Ridgeline {R} (R),184
+Channel,Roof Ridgeline 2 {R} (G),217,Roof Ridgeline {R} (G),185
+Channel,Roof Ridgeline 2 {R} (B),218,Roof Ridgeline {R} (B),186
+Channel,Garage Window 1 Dasher {L} (W),222,Garage Window 1 Dasher {L} (W),219
+Channel,Garage Window 2 Dancer (W),223,Garage Window 2 Dancer (W),220
+Channel,Garage Window 3 Prancer (W),224,Garage Window 3 Prancer (W),221
+Channel,Garage Window 4 Vixen (W),225,Garage Window 4 Vixen (W),222
+Channel,Garage Window 5 Comet (W),226,Garage Window 5 Comet (W),223
+Channel,Garage Window 6 Cupid (W),227,Garage Window 6 Cupid (W),224
+Channel,Garage Window 7 Donner (W),228,Garage Window 7 Donner (W),225
+Channel,Garage Window 8 Blitzen {R} (W),229,Garage Window 8 Blitzen {R} (W),226
+Channel,Lamp Post Directions (O),231,Lamp Post Directions,215
+Channel,Mailboxes (O),232,Mailboxes (O),217
+Channel,Countdown Timer (B),240,Countdown Timer (B),216
+Channel,Menorah (B),241,Menorah (B),199
+Channel,Flying Spaghetti Monster (W),245,Flying Spaghetti Monster (W),206
+Channel,Peace Sign (RGB),249,Peace Sign (RGB), Coexist, Work Together,205
+Channel,Lamp Posts (Y),256,Lamp Posts (Y),210
+Channel,Laser- Streetlight (R),262,Streetlight Laser (R),27
+[Mapped RGBChannels]
+RGBChannel,C9 Chase (RGB),8,Eaves Chase C9 (RGB),34
+RGBChannel,Bushes 3 {C} (RGB),14,Bushes 3 {C} M5 (RGB),45
+RGBChannel,Bushes 5 {R} (RGB),28,Bushes 5 {R} C9 (RGB),54
+RGBChannel,Festivus Pole Flood,198,Festivus Pole Flood (RGB),204
+RGBChannel,Manger Flood 1 {L},202,Manger Flood {R} (RGB),194
+RGBChannel,Manger Flood 2 {R},206,Manger Flood {L} (RGB),198
+RGBChannel,Roof Ridgeline 1 {L},215,Roof Ridgeline {L} (RGB),183
+RGBChannel,Roof Ridgeline 2 {R},219,Roof Ridgeline {R} (RGB),187
+[Mapped ChannelGroups]
+ChannelGroup,Bushes 3 {C} (RGBW),16,Bushes 3 {C} M5,47
+ChannelGroup,Bushes 2 {L} (WM),20,Bushes 2 {L},41
+ChannelGroup,Bushes 5 {R} (RGBWVM),29,Bushes 5 {R} C9,58
+ChannelGroup,Bushes 4 {D} (PW),33,Bushes 4 {D} C6,50
+ChannelGroup,Tree- Tomatos {All} (RGBWVW),123,Trees- Tomato {All},126
+ChannelGroup,Trees- Spiral (WRWGWBWV),132,Spiral Trees,131
+ChannelGroup,Meteors [L6.01-04],148,Meteors,232
+ChannelGroup,Rainbow Ropelights [L5.01-06],155,Rainbow Rope Arches,151
+ChannelGroup,UFOs (RGB),174,UFOs,165
+ChannelGroup,Twinklers [U1.94-97],184,Twinklers,237
+ChannelGroup,Roof Ridgeline (RGB),220,Roof Ridgeline (RGB),188
+ChannelGroup,Garage Windows [L6.16-23],230,Garage Window Reindeer,227
+[Mapped CosmicDevices]
+[Mapped Tracks]

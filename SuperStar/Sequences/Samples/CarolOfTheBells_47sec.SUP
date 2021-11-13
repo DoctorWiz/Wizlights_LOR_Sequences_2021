@@ -1,0 +1,830 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="C:\SuperStar\Audio\CarolOfTheBells_47sec.wav">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="yes" starUnitID="1" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="13">
+		<configuration network="1" networkNbr="-1" firstUnitID="8" lastUnitID="13">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="12" ribbonType="CCR" ribbonOrientation="vertical" ribbonShape="straight" ribbonLength="full" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="20" endCentisecond="55" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="0">
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+		</scene>
+		<scene name="scene  2" layer="1" type="intensity" startCentisecond="55" endCentisecond="90" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="1">
+			<element ribbonIndex="10" pixelIndex="4"/>
+			<element ribbonIndex="10" pixelIndex="5"/>
+			<element ribbonIndex="10" pixelIndex="6"/>
+			<element ribbonIndex="10" pixelIndex="7"/>
+			<element ribbonIndex="10" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  3" layer="1" type="intensity" startCentisecond="95" endCentisecond="130" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="2">
+			<element ribbonIndex="7" pixelIndex="2"/>
+			<element ribbonIndex="7" pixelIndex="3"/>
+			<element ribbonIndex="7" pixelIndex="4"/>
+			<element ribbonIndex="7" pixelIndex="5"/>
+			<element ribbonIndex="7" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  4" layer="1" type="intensity" startCentisecond="135" endCentisecond="170" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="3">
+			<element ribbonIndex="4" pixelIndex="4"/>
+			<element ribbonIndex="4" pixelIndex="5"/>
+			<element ribbonIndex="4" pixelIndex="6"/>
+			<element ribbonIndex="4" pixelIndex="7"/>
+			<element ribbonIndex="4" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="175" endCentisecond="210" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="4">
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+		</scene>
+		<scene name="scene  2" layer="1" type="intensity" startCentisecond="210" endCentisecond="245" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="5">
+			<element ribbonIndex="10" pixelIndex="4"/>
+			<element ribbonIndex="10" pixelIndex="5"/>
+			<element ribbonIndex="10" pixelIndex="6"/>
+			<element ribbonIndex="10" pixelIndex="7"/>
+			<element ribbonIndex="10" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  3" layer="1" type="intensity" startCentisecond="250" endCentisecond="285" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="6">
+			<element ribbonIndex="7" pixelIndex="2"/>
+			<element ribbonIndex="7" pixelIndex="3"/>
+			<element ribbonIndex="7" pixelIndex="4"/>
+			<element ribbonIndex="7" pixelIndex="5"/>
+			<element ribbonIndex="7" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  4" layer="1" type="intensity" startCentisecond="285" endCentisecond="320" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="7">
+			<element ribbonIndex="4" pixelIndex="4"/>
+			<element ribbonIndex="4" pixelIndex="5"/>
+			<element ribbonIndex="4" pixelIndex="6"/>
+			<element ribbonIndex="4" pixelIndex="7"/>
+			<element ribbonIndex="4" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="320" endCentisecond="355" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="8">
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+		</scene>
+		<scene name="scene  2" layer="1" type="intensity" startCentisecond="355" endCentisecond="390" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="9">
+			<element ribbonIndex="10" pixelIndex="4"/>
+			<element ribbonIndex="10" pixelIndex="5"/>
+			<element ribbonIndex="10" pixelIndex="6"/>
+			<element ribbonIndex="10" pixelIndex="7"/>
+			<element ribbonIndex="10" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  3" layer="1" type="intensity" startCentisecond="395" endCentisecond="430" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="10">
+			<element ribbonIndex="7" pixelIndex="2"/>
+			<element ribbonIndex="7" pixelIndex="3"/>
+			<element ribbonIndex="7" pixelIndex="4"/>
+			<element ribbonIndex="7" pixelIndex="5"/>
+			<element ribbonIndex="7" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  4" layer="1" type="intensity" startCentisecond="430" endCentisecond="465" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="11">
+			<element ribbonIndex="4" pixelIndex="4"/>
+			<element ribbonIndex="4" pixelIndex="5"/>
+			<element ribbonIndex="4" pixelIndex="6"/>
+			<element ribbonIndex="4" pixelIndex="7"/>
+			<element ribbonIndex="4" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  1" layer="1" type="intensity" startCentisecond="465" endCentisecond="500" red1="0" green1="100" blue1="10" red2="0" green2="0" blue2="0" savedIndex="12">
+			<element ribbonIndex="1" pixelIndex="6"/>
+			<element ribbonIndex="1" pixelIndex="7"/>
+			<element ribbonIndex="1" pixelIndex="8"/>
+			<element ribbonIndex="1" pixelIndex="9"/>
+			<element ribbonIndex="1" pixelIndex="10"/>
+			<element ribbonIndex="1" pixelIndex="11"/>
+		</scene>
+		<scene name="scene  2" layer="1" type="intensity" startCentisecond="500" endCentisecond="535" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="13">
+			<element ribbonIndex="10" pixelIndex="4"/>
+			<element ribbonIndex="10" pixelIndex="5"/>
+			<element ribbonIndex="10" pixelIndex="6"/>
+			<element ribbonIndex="10" pixelIndex="7"/>
+			<element ribbonIndex="10" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  3" layer="1" type="intensity" startCentisecond="540" endCentisecond="575" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0" savedIndex="14">
+			<element ribbonIndex="7" pixelIndex="2"/>
+			<element ribbonIndex="7" pixelIndex="3"/>
+			<element ribbonIndex="7" pixelIndex="4"/>
+			<element ribbonIndex="7" pixelIndex="5"/>
+			<element ribbonIndex="7" pixelIndex="6"/>
+		</scene>
+		<scene name="scene  4" layer="1" type="intensity" startCentisecond="575" endCentisecond="610" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0" savedIndex="15">
+			<element ribbonIndex="4" pixelIndex="4"/>
+			<element ribbonIndex="4" pixelIndex="5"/>
+			<element ribbonIndex="4" pixelIndex="6"/>
+			<element ribbonIndex="4" pixelIndex="7"/>
+			<element ribbonIndex="4" pixelIndex="8"/>
+		</scene>
+		<scene name="scene  17" layer="1" type="intensity" startCentisecond="3235" endCentisecond="3240" red1="30" green1="30" blue1="30" red2="30" green2="30" blue2="30" savedIndex="16">
+			<element ribbonIndex="100" pixelIndex="0"/>
+			<element ribbonIndex="100" pixelIndex="1"/>
+		</scene>
+		<scene name="Scene 236" layer="1" type="intensity" startCentisecond="3240" endCentisecond="3245" red1="30" green1="30" blue1="30" red2="30" green2="30" blue2="30" savedIndex="17">
+			<element ribbonIndex="100" pixelIndex="0"/>
+			<element ribbonIndex="100" pixelIndex="1"/>
+			<element ribbonIndex="100" pixelIndex="2"/>
+			<element ribbonIndex="100" pixelIndex="3"/>
+		</scene>
+		<scene name="Scene 237" layer="1" type="intensity" startCentisecond="3245" endCentisecond="3270" red1="30" green1="30" blue1="30" red2="30" green2="30" blue2="30" savedIndex="18">
+			<element ribbonIndex="100" pixelIndex="0"/>
+			<element ribbonIndex="100" pixelIndex="1"/>
+			<element ribbonIndex="100" pixelIndex="2"/>
+			<element ribbonIndex="100" pixelIndex="3"/>
+			<element ribbonIndex="100" pixelIndex="4"/>
+			<element ribbonIndex="100" pixelIndex="5"/>
+		</scene>
+		<scene name="Scene 181" layer="1" type="intensity" startCentisecond="3270" endCentisecond="3950" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="19">
+			<element ribbonIndex="100" pixelIndex="0"/>
+			<element ribbonIndex="100" pixelIndex="1"/>
+			<element ribbonIndex="100" pixelIndex="2"/>
+			<element ribbonIndex="100" pixelIndex="3"/>
+			<element ribbonIndex="100" pixelIndex="4"/>
+			<element ribbonIndex="100" pixelIndex="5"/>
+		</scene>
+		<scene name="scene  24" layer="1" type="intensity" startCentisecond="4005" endCentisecond="4035" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="20">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  25" layer="1" type="intensity" startCentisecond="4045" endCentisecond="4075" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="21">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  27" layer="1" type="intensity" startCentisecond="4095" endCentisecond="4125" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="22">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  28" layer="1" type="intensity" startCentisecond="4135" endCentisecond="4165" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="23">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  26" layer="1" type="intensity" startCentisecond="4200" endCentisecond="4230" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="24">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  29" layer="1" type="intensity" startCentisecond="4235" endCentisecond="4265" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="25">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  30" layer="1" type="intensity" startCentisecond="4295" endCentisecond="4325" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="26">
+			<element ribbonIndex="11" pixelIndex="0"/>
+			<element ribbonIndex="11" pixelIndex="1"/>
+			<element ribbonIndex="11" pixelIndex="2"/>
+			<element ribbonIndex="11" pixelIndex="3"/>
+			<element ribbonIndex="11" pixelIndex="4"/>
+			<element ribbonIndex="11" pixelIndex="5"/>
+			<element ribbonIndex="11" pixelIndex="6"/>
+			<element ribbonIndex="11" pixelIndex="7"/>
+			<element ribbonIndex="11" pixelIndex="8"/>
+			<element ribbonIndex="11" pixelIndex="9"/>
+			<element ribbonIndex="11" pixelIndex="10"/>
+			<element ribbonIndex="11" pixelIndex="11"/>
+			<element ribbonIndex="11" pixelIndex="12"/>
+			<element ribbonIndex="11" pixelIndex="13"/>
+			<element ribbonIndex="11" pixelIndex="14"/>
+			<element ribbonIndex="11" pixelIndex="15"/>
+			<element ribbonIndex="11" pixelIndex="16"/>
+			<element ribbonIndex="11" pixelIndex="17"/>
+			<element ribbonIndex="11" pixelIndex="18"/>
+			<element ribbonIndex="11" pixelIndex="19"/>
+			<element ribbonIndex="11" pixelIndex="20"/>
+			<element ribbonIndex="11" pixelIndex="21"/>
+			<element ribbonIndex="11" pixelIndex="22"/>
+			<element ribbonIndex="11" pixelIndex="23"/>
+			<element ribbonIndex="11" pixelIndex="24"/>
+			<element ribbonIndex="11" pixelIndex="25"/>
+			<element ribbonIndex="11" pixelIndex="26"/>
+			<element ribbonIndex="11" pixelIndex="27"/>
+			<element ribbonIndex="11" pixelIndex="28"/>
+			<element ribbonIndex="11" pixelIndex="29"/>
+			<element ribbonIndex="11" pixelIndex="30"/>
+			<element ribbonIndex="11" pixelIndex="31"/>
+			<element ribbonIndex="11" pixelIndex="32"/>
+			<element ribbonIndex="11" pixelIndex="33"/>
+			<element ribbonIndex="11" pixelIndex="34"/>
+			<element ribbonIndex="11" pixelIndex="35"/>
+			<element ribbonIndex="11" pixelIndex="36"/>
+			<element ribbonIndex="11" pixelIndex="37"/>
+			<element ribbonIndex="11" pixelIndex="38"/>
+			<element ribbonIndex="11" pixelIndex="39"/>
+			<element ribbonIndex="11" pixelIndex="40"/>
+			<element ribbonIndex="11" pixelIndex="41"/>
+			<element ribbonIndex="11" pixelIndex="42"/>
+			<element ribbonIndex="11" pixelIndex="43"/>
+			<element ribbonIndex="11" pixelIndex="44"/>
+			<element ribbonIndex="11" pixelIndex="45"/>
+			<element ribbonIndex="11" pixelIndex="46"/>
+			<element ribbonIndex="11" pixelIndex="47"/>
+			<element ribbonIndex="11" pixelIndex="48"/>
+			<element ribbonIndex="11" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  31" layer="1" type="intensity" startCentisecond="4335" endCentisecond="4365" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0" savedIndex="27">
+			<element ribbonIndex="0" pixelIndex="0"/>
+			<element ribbonIndex="0" pixelIndex="1"/>
+			<element ribbonIndex="0" pixelIndex="2"/>
+			<element ribbonIndex="0" pixelIndex="3"/>
+			<element ribbonIndex="0" pixelIndex="4"/>
+			<element ribbonIndex="0" pixelIndex="5"/>
+			<element ribbonIndex="0" pixelIndex="6"/>
+			<element ribbonIndex="0" pixelIndex="7"/>
+			<element ribbonIndex="0" pixelIndex="8"/>
+			<element ribbonIndex="0" pixelIndex="9"/>
+			<element ribbonIndex="0" pixelIndex="10"/>
+			<element ribbonIndex="0" pixelIndex="11"/>
+			<element ribbonIndex="0" pixelIndex="12"/>
+			<element ribbonIndex="0" pixelIndex="13"/>
+			<element ribbonIndex="0" pixelIndex="14"/>
+			<element ribbonIndex="0" pixelIndex="15"/>
+			<element ribbonIndex="0" pixelIndex="16"/>
+			<element ribbonIndex="0" pixelIndex="17"/>
+			<element ribbonIndex="0" pixelIndex="18"/>
+			<element ribbonIndex="0" pixelIndex="19"/>
+			<element ribbonIndex="0" pixelIndex="20"/>
+			<element ribbonIndex="0" pixelIndex="21"/>
+			<element ribbonIndex="0" pixelIndex="22"/>
+			<element ribbonIndex="0" pixelIndex="23"/>
+			<element ribbonIndex="0" pixelIndex="24"/>
+			<element ribbonIndex="0" pixelIndex="25"/>
+			<element ribbonIndex="0" pixelIndex="26"/>
+			<element ribbonIndex="0" pixelIndex="27"/>
+			<element ribbonIndex="0" pixelIndex="28"/>
+			<element ribbonIndex="0" pixelIndex="29"/>
+			<element ribbonIndex="0" pixelIndex="30"/>
+			<element ribbonIndex="0" pixelIndex="31"/>
+			<element ribbonIndex="0" pixelIndex="32"/>
+			<element ribbonIndex="0" pixelIndex="33"/>
+			<element ribbonIndex="0" pixelIndex="34"/>
+			<element ribbonIndex="0" pixelIndex="35"/>
+			<element ribbonIndex="0" pixelIndex="36"/>
+			<element ribbonIndex="0" pixelIndex="37"/>
+			<element ribbonIndex="0" pixelIndex="38"/>
+			<element ribbonIndex="0" pixelIndex="39"/>
+			<element ribbonIndex="0" pixelIndex="40"/>
+			<element ribbonIndex="0" pixelIndex="41"/>
+			<element ribbonIndex="0" pixelIndex="42"/>
+			<element ribbonIndex="0" pixelIndex="43"/>
+			<element ribbonIndex="0" pixelIndex="44"/>
+			<element ribbonIndex="0" pixelIndex="45"/>
+			<element ribbonIndex="0" pixelIndex="46"/>
+			<element ribbonIndex="0" pixelIndex="47"/>
+			<element ribbonIndex="0" pixelIndex="48"/>
+			<element ribbonIndex="0" pixelIndex="49"/>
+		</scene>
+		<scene name="scene  32" layer="1" type="intensity" startCentisecond="4420" endCentisecond="4620" red1="100" green1="0" blue1="0" red2="30" green2="0" blue2="0" savedIndex="28">
+			<element ribbonIndex="100" pixelIndex="0"/>
+			<element ribbonIndex="100" pixelIndex="1"/>
+			<element ribbonIndex="100" pixelIndex="2"/>
+		</scene>
+		<scene name="Scene 83" layer="1" type="intensity" startCentisecond="4425" endCentisecond="4620" red1="100" green1="0" blue1="0" red2="30" green2="0" blue2="0" savedIndex="29">
+			<element ribbonIndex="100" pixelIndex="3"/>
+			<element ribbonIndex="100" pixelIndex="4"/>
+			<element ribbonIndex="100" pixelIndex="5"/>
+		</scene>
+	</scenes>
+	<morphs>
+		<morph name="Right 1" layer="2" acceleration="0" savedIndex="0">
+			<state1 time="610" x1="0" y1="24" x2="0" y2="28" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="650" x1="11" y1="24" x2="11" y2="28" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Left 2" layer="2" acceleration="0" savedIndex="1">
+			<state1 time="650" x1="11" y1="20" x2="11" y2="23" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="685" x1="0" y1="20" x2="0" y2="23" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Right 3" layer="2" acceleration="0" savedIndex="2">
+			<state1 time="685" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="720" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Left 4" layer="2" acceleration="0" savedIndex="3">
+			<state1 time="720" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="755" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Right 5" layer="2" acceleration="0" savedIndex="4">
+			<state1 time="755" x1="0" y1="20" x2="0" y2="23" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="795" x1="11" y1="20" x2="11" y2="23" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 6" layer="2" acceleration="0" savedIndex="5">
+			<state1 time="795" x1="11" y1="24" x2="11" y2="28" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="830" x1="0" y1="24" x2="0" y2="28" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 7" layer="2" acceleration="0" savedIndex="6">
+			<state1 time="830" x1="0" y1="29" x2="0" y2="34" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="865" x1="11" y1="29" x2="11" y2="34" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 8" layer="2" acceleration="0" savedIndex="7">
+			<state1 time="865" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="905" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 9" layer="2" acceleration="0" savedIndex="8">
+			<state1 time="905" x1="0" y1="42" x2="0" y2="49" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="940" x1="11" y1="42" x2="11" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 10" layer="2" acceleration="0" savedIndex="9">
+			<state1 time="940" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="975" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 11" layer="2" acceleration="0" savedIndex="10">
+			<state1 time="975" x1="0" y1="29" x2="0" y2="34" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1015" x1="11" y1="29" x2="11" y2="34" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 12" layer="2" acceleration="0" savedIndex="11">
+			<state1 time="1015" x1="11" y1="24" x2="11" y2="28" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1050" x1="0" y1="24" x2="0" y2="28" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 13" layer="2" acceleration="0" savedIndex="12">
+			<state1 time="1050" x1="0" y1="20" x2="0" y2="23" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="1090" x1="11" y1="20" x2="11" y2="23" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 14" layer="2" acceleration="0" savedIndex="13">
+			<state1 time="1090" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="6"/>
+			<state2 time="1260" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<ramp timeExt="300" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 15" layer="2" acceleration="0" savedIndex="14">
+			<state1 time="1635" x1="0" y1="24" x2="0" y2="28" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="1670" x1="11" y1="24" x2="11" y2="28" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 16" layer="2" acceleration="0" savedIndex="15">
+			<state1 time="1670" x1="11" y1="20" x2="11" y2="23" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1705" x1="0" y1="20" x2="0" y2="23" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 17" layer="2" acceleration="0" savedIndex="16">
+			<state1 time="1705" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="1735" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 18" layer="2" acceleration="0" savedIndex="17">
+			<state1 time="1735" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="1775" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 19" layer="2" acceleration="0" savedIndex="18">
+			<state1 time="1775" x1="0" y1="20" x2="0" y2="23" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1810" x1="11" y1="20" x2="11" y2="23" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 20" layer="2" acceleration="0" savedIndex="19">
+			<state1 time="1810" x1="11" y1="24" x2="11" y2="28" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1845" x1="0" y1="24" x2="0" y2="28" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 21" layer="2" acceleration="0" savedIndex="20">
+			<state1 time="1845" x1="0" y1="29" x2="0" y2="34" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1880" x1="11" y1="29" x2="11" y2="34" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 22" layer="2" acceleration="0" savedIndex="21">
+			<state1 time="1890" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1925" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 23" layer="2" acceleration="0" savedIndex="22">
+			<state1 time="1925" x1="0" y1="42" x2="0" y2="49" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="1960" x1="11" y1="42" x2="11" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 24" layer="2" acceleration="0" savedIndex="23">
+			<state1 time="1960" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="6"/>
+			<state2 time="2060" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<ramp timeExt="100" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 25" layer="2" acceleration="0" savedIndex="24">
+			<state1 time="2225" x1="0" y1="24" x2="0" y2="28" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2260" x1="11" y1="24" x2="11" y2="28" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 26" layer="2" acceleration="0" savedIndex="25">
+			<state1 time="2260" x1="11" y1="20" x2="11" y2="23" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2295" x1="0" y1="20" x2="0" y2="23" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 27" layer="2" acceleration="0" savedIndex="26">
+			<state1 time="2295" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="2330" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 28" layer="2" acceleration="0" savedIndex="27">
+			<state1 time="2330" x1="11" y1="17" x2="11" y2="19" red="100" green="0" blue="0" trailLen="8"/>
+			<state2 time="2365" x1="0" y1="17" x2="0" y2="19" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 29" layer="2" acceleration="0" savedIndex="28">
+			<state1 time="2365" x1="0" y1="20" x2="0" y2="23" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2400" x1="11" y1="20" x2="11" y2="23" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 30" layer="2" acceleration="0" savedIndex="29">
+			<state1 time="2400" x1="11" y1="24" x2="11" y2="28" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2435" x1="0" y1="24" x2="0" y2="28" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 31" layer="2" acceleration="0" savedIndex="30">
+			<state1 time="2435" x1="0" y1="29" x2="0" y2="34" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2470" x1="11" y1="29" x2="11" y2="34" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 32" layer="2" acceleration="0" savedIndex="31">
+			<state1 time="2470" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2505" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 33" layer="2" acceleration="0" savedIndex="32">
+			<state1 time="2505" x1="0" y1="42" x2="0" y2="49" red="0" green="100" blue="0" trailLen="8"/>
+			<state2 time="2540" x1="11" y1="42" x2="11" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 34" layer="2" acceleration="0" savedIndex="33">
+			<state1 time="2540" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="6"/>
+			<state2 time="2650" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<ramp timeExt="150" red1="0" green1="100" blue1="0" red2="0" green2="50" blue2="0"/>
+		</morph>
+		<morph name="Morph 35" layer="2" acceleration="0" savedIndex="34">
+			<state1 time="2895" x1="0" y1="35" x2="0" y2="41" red="0" green="100" blue="0" trailLen="6"/>
+			<state2 time="3030" x1="11" y1="35" x2="11" y2="41" red="0" green="100" blue="0" trailLen="8"/>
+			<ramp timeExt="100" red1="0" green1="100" blue1="0" red2="0" green2="50" blue2="0"/>
+		</morph>
+		<morph name="Morph 36" layer="2" acceleration="5" savedIndex="35">
+			<state1 time="3245" x1="0" y1="0" x2="11" y2="0" red="20" green="20" blue="20" trailLen="50"/>
+			<state2 time="3270" x1="0" y1="9" x2="11" y2="9" red="40" green="40" blue="40" trailLen="1"/>
+			<ramp timeExt="680" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 37" layer="2" acceleration="5" savedIndex="36">
+			<state1 time="3980" x1="0" y1="29" x2="0" y2="34" red="50" green="0" blue="0" trailLen="3"/>
+			<state2 time="4005" x1="10" y1="29" x2="10" y2="34" red="100" green="0" blue="0" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 38" layer="2" acceleration="5" savedIndex="37">
+			<state1 time="4020" x1="11" y1="29" x2="11" y2="34" red="100" green="0" blue="0" trailLen="3"/>
+			<state2 time="4045" x1="1" y1="29" x2="1" y2="34" red="50" green="0" blue="0" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 39" layer="2" acceleration="5" savedIndex="38">
+			<state1 time="4070" x1="0" y1="24" x2="0" y2="28" red="0" green="50" blue="0" trailLen="3"/>
+			<state2 time="4095" x1="10" y1="24" x2="10" y2="28" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 40" layer="2" acceleration="5" savedIndex="39">
+			<state1 time="4110" x1="11" y1="24" x2="11" y2="28" red="0" green="100" blue="0" trailLen="3"/>
+			<state2 time="4135" x1="1" y1="24" x2="1" y2="28" red="0" green="50" blue="0" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 41" layer="2" acceleration="5" savedIndex="40">
+			<state1 time="4175" x1="0" y1="29" x2="0" y2="34" red="50" green="0" blue="0" trailLen="3"/>
+			<state2 time="4200" x1="10" y1="29" x2="10" y2="34" red="100" green="0" blue="0" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 42" layer="2" acceleration="5" savedIndex="41">
+			<state1 time="4210" x1="11" y1="29" x2="11" y2="34" red="0" green="100" blue="0" trailLen="3"/>
+			<state2 time="4235" x1="1" y1="29" x2="1" y2="34" red="0" green="50" blue="0" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 43" layer="2" acceleration="5" savedIndex="42">
+			<state1 time="4270" x1="0" y1="35" x2="0" y2="41" red="0" green="0" blue="50" trailLen="3"/>
+			<state2 time="4295" x1="10" y1="35" x2="10" y2="41" red="0" green="0" blue="100" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 52" layer="2" acceleration="5" savedIndex="43">
+			<state1 time="4310" x1="11" y1="35" x2="11" y2="41" red="0" green="0" blue="100" trailLen="3"/>
+			<state2 time="4335" x1="1" y1="35" x2="1" y2="41" red="0" green="0" blue="50" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 44" layer="2" acceleration="5" savedIndex="44">
+			<state1 time="4380" x1="5" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="8"/>
+			<state2 time="4420" x1="5" y1="0" x2="6" y2="0" red="100" green="100" blue="100" trailLen="3"/>
+			<ramp timeExt="0" red1="100" green1="100" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+		<image name="Ding - red" xOffset="1" yOffset="0" width="10" height="35" savedIndex="0">
+			<pixels="0,0,6553600,0,0,6553600,6553600,6553600,0,0,0,6553600,6553600,0,0,6553600,6553600,6553600,6553600,0,6553600,6553600,0,0,0,6553600,6553600,0,6553600,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,6553600,0,0,0,0,0,0,6553600,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,0,0,6553600,0,0,0,0,0,0,6553600,0,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,0,0,0,0,0,0,0,0,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600,6553600"/>
+		</image>
+		<image name="Dong - blue" xOffset="1" yOffset="0" width="10" height="38" savedIndex="1">
+			<pixels="100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,100,0,100,0,0,0,0,0,0,100,100,0,100,100,100,100,100,100,100,100,0,0,0,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,0,0,0,100,100,100,100,100,100,100,100,0,100,100,0,0,0,0,0,0,100,100,100,0,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,0,100,100,100,0,0,0,0,0,0,100,100,0,100,100,100,100,100,100,100,100,0,0,0,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,0,100,100,0,0,0,0,0,0,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,100,100,100,100,100,0,0,0,100,100,100,100,100,100,100,100,0,100,100,0,0,0,0,0,0,100,100,100,0,0,0,0,0,0,0,0,100,100,0,0,100,100,0,0,0,0,100,100,100,0,100,100,0,0,0,100,100,0,100,100,100,100,0,0,100,100,0,0,0,100,100,100,0,0,100,0,0"/>
+		</image>
+		<image name="Dong - magenta" xOffset="1" yOffset="0" width="10" height="34" savedIndex="2">
+			<pixels="6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,0,6553700,0,0,0,0,0,0,6553700,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,6553700,0,0,0,0,0,0,6553700,0,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,0,6553700,0,0,0,0,0,0,6553700,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6553700,6553700,6553700,6553700,6553700,6553700,0,0,0,6553700,0,0,0,0,0,0,6553700,0,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,0,0,0,0,0,6553700,6553700,0,0,0,6553700,0,0,0,0,6553700,0,6553700,0,0,6553700,0,0,0,6553700,0,0,0,6553700,6553700,6553700,0,0,6553700,0,0"/>
+		</image>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+		<macro name="Macro 1" layer="6" type="pixelsPerRibbon" savedIndex="0">
+			<pixelsPerRibbon startCentisecond="3235" endCentisecond="3960" pixelsPerRibbon="10"/>
+		</macro>
+	</macros>
+</SuperStarMetaFile>

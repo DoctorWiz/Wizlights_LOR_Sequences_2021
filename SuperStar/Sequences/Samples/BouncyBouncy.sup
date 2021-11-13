@@ -1,0 +1,295 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="10" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="16">
+		<configuration network="1" networkNbr="-1" firstUnitID="17" lastUnitID="22">
+		<configuration network="2" networkNbr="-1" firstUnitID="23" lastUnitID="28">
+		<configuration network="3" networkNbr="-1" firstUnitID="24" lastUnitID="29">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="12" ribbonType="CCR" ribbonOrientation="vertical" ribbonShape="straight" ribbonLength="full" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="2" acceleration="10" savedIndex="0">
+			<state1 time="50" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="150" x1="0" y1="49" x2="0" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="1">
+			<state1 time="50" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="100" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="3" acceleration="10" savedIndex="2">
+			<state1 time="70" x1="1" y1="0" x2="1" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="170" x1="1" y1="49" x2="1" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="3">
+			<state1 time="70" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="120" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="4" acceleration="10" savedIndex="4">
+			<state1 time="90" x1="2" y1="0" x2="2" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="190" x1="2" y1="49" x2="2" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="5">
+			<state1 time="90" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="140" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="6">
+			<state1 time="100" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="150" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="7">
+			<state1 time="120" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="170" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="8">
+			<state1 time="140" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="190" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="2" acceleration="-10" savedIndex="9">
+			<state1 time="150" x1="0" y1="49" x2="0" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="250" x1="0" y1="0" x2="0" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="10">
+			<state1 time="150" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="200" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="-10" savedIndex="11">
+			<state1 time="170" x1="1" y1="49" x2="1" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="270" x1="1" y1="0" x2="1" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="12">
+			<state1 time="170" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="220" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="-10" savedIndex="13">
+			<state1 time="190" x1="2" y1="49" x2="2" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="290" x1="2" y1="0" x2="2" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="14">
+			<state1 time="190" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="240" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="15">
+			<state1 time="200" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="250" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="16">
+			<state1 time="220" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="270" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="17">
+			<state1 time="240" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="290" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="2" acceleration="10" savedIndex="18">
+			<state1 time="250" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="350" x1="0" y1="49" x2="0" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="19">
+			<state1 time="250" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="300" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="3" acceleration="10" savedIndex="20">
+			<state1 time="270" x1="1" y1="0" x2="1" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="370" x1="1" y1="49" x2="1" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="21">
+			<state1 time="270" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="320" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="4" acceleration="10" savedIndex="22">
+			<state1 time="290" x1="2" y1="0" x2="2" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="390" x1="2" y1="49" x2="2" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="23">
+			<state1 time="290" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="340" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="24">
+			<state1 time="300" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="350" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="25">
+			<state1 time="320" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="370" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="26">
+			<state1 time="340" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="390" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="2" acceleration="-10" savedIndex="27">
+			<state1 time="350" x1="0" y1="49" x2="0" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="450" x1="0" y1="0" x2="0" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="28">
+			<state1 time="350" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="400" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="-10" savedIndex="29">
+			<state1 time="370" x1="1" y1="49" x2="1" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="470" x1="1" y1="0" x2="1" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="30">
+			<state1 time="370" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="420" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="-10" savedIndex="31">
+			<state1 time="390" x1="2" y1="49" x2="2" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="490" x1="2" y1="0" x2="2" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="32">
+			<state1 time="390" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="440" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="33">
+			<state1 time="400" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="450" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="34">
+			<state1 time="420" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="470" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="35">
+			<state1 time="440" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="490" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="2" acceleration="10" savedIndex="36">
+			<state1 time="450" x1="0" y1="0" x2="0" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="550" x1="0" y1="49" x2="0" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="37">
+			<state1 time="450" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="500" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="3" acceleration="10" savedIndex="38">
+			<state1 time="470" x1="1" y1="0" x2="1" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="570" x1="1" y1="49" x2="1" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="39">
+			<state1 time="470" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="520" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="4" acceleration="10" savedIndex="40">
+			<state1 time="490" x1="2" y1="0" x2="2" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="590" x1="2" y1="49" x2="2" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="41">
+			<state1 time="490" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="540" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="42">
+			<state1 time="500" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="550" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="43">
+			<state1 time="520" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="570" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="44">
+			<state1 time="540" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="590" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="2" acceleration="-10" savedIndex="45">
+			<state1 time="550" x1="0" y1="49" x2="0" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="650" x1="0" y1="0" x2="0" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="6" acceleration="10" savedIndex="46">
+			<state1 time="550" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="600" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="3" acceleration="-10" savedIndex="47">
+			<state1 time="570" x1="1" y1="49" x2="1" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="670" x1="1" y1="0" x2="1" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="7" acceleration="10" savedIndex="48">
+			<state1 time="570" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="620" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="4" acceleration="-10" savedIndex="49">
+			<state1 time="590" x1="2" y1="49" x2="2" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="690" x1="2" y1="0" x2="2" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="50" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 1" layer="8" acceleration="10" savedIndex="50">
+			<state1 time="590" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="640" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="6" acceleration="-10" savedIndex="51">
+			<state1 time="600" x1="6" y1="49" x2="6" y2="49" red="100" green="0" blue="0" trailLen="1"/>
+			<state2 time="650" x1="6" y1="0" x2="6" y2="0" red="100" green="0" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="100" green1="0" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="7" acceleration="-10" savedIndex="52">
+			<state1 time="620" x1="6" y1="49" x2="6" y2="49" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="670" x1="6" y1="0" x2="6" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+		<morph name="Morph 2" layer="8" acceleration="-10" savedIndex="53">
+			<state1 time="640" x1="6" y1="49" x2="6" y2="49" red="0" green="0" blue="100" trailLen="1"/>
+			<state2 time="690" x1="6" y1="0" x2="6" y2="0" red="0" green="0" blue="100" trailLen="1"/>
+			<ramp timeExt="0" red1="0" green1="0" blue1="100" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>

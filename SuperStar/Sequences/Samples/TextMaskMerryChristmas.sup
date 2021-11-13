@@ -1,0 +1,32 @@
+<SuperStarMetaFile saveFileVersion="1" musicFilename="">
+	<configurations>
+		<configuration colorMode="balanced" smoothRamps="disabled" starInUse="no" starUnitID="1" firstRibbonUnitID="2">
+		<configuration network="0" networkNbr="0" firstUnitID="1" lastUnitID="13">
+		<configuration network="1" networkNbr="-1" firstUnitID="8" lastUnitID="13">
+		<configuration network="2" networkNbr="-1" firstUnitID="14" lastUnitID="19">
+		<configuration network="3" networkNbr="-1" firstUnitID="20" lastUnitID="25">
+		</configuration>
+	</configurations>
+	<layouts>
+		<layout nbrOfRibbons="24" controllerLocation="bottom"/>
+	</layouts>
+	<scenes>
+	</scenes>
+	<morphs>
+		<morph name="Morph 1" layer="5" acceleration="0" savedIndex="0">
+			<state1 time="100" x1="0" y1="0" x2="23" y2="0" red="0" green="100" blue="0" trailLen="1"/>
+			<state2 time="200" x1="0" y1="48" x2="23" y2="48" red="0" green="100" blue="0" trailLen="1"/>
+			<ramp timeExt="300" red1="0" green1="100" blue1="0" red2="0" green2="0" blue2="0"/>
+		</morph>
+	</morphs>
+	<images>
+	</images>
+	<imageActions>
+	</imageActions>
+	<textActions>
+		<textAction name="Text Action 1" text="Merry" colorType="chooseColor" maskType="negativeMask" rotation="270" direction="0" stopAtEdge="0" fontName="Bold" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="4" xStart="6" yStart="3" xEnd="6" yEnd="3" startCentisecond="100" endCentisecond="500" rampTime="0" firstColorIndex="0" red="100" green="100" blue="100" savedIndex="0">
+		<textAction name="Text Action 2" text="Christmas" colorType="chooseColor" maskType="normal" rotation="270" direction="9" stopAtEdge="0" fontName="Bold" system="1" fontCapsHeight="10" fontCellWidth="12" fontCellHeight="12" layer="2" xStart="-12" yStart="-68" xEnd="24" yEnd="50" startCentisecond="200" endCentisecond="500" rampTime="0" firstColorIndex="0" red="100" green="0" blue="0" savedIndex="1">
+	</textActions>
+	<macros>
+	</macros>
+</SuperStarMetaFile>
