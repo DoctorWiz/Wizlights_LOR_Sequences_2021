@@ -1,0 +1,3 @@
+*.lcs
+*.bak
+desktop.ini

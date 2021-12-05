@@ -1,0 +1,6 @@
+*.lcs
+*.bak
+desktop.ini
+Earlier Versions/*
+2020/*
+
