@@ -706,7 +706,7 @@
 		</channelGroupList>
 		<channel name="Snow Lake (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="90" network="1" savedIndex="199"/>
 		<channel name="Snowman (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="77" network="1" savedIndex="200"/>
-		<channel name="Penguins" color="4227200" centiseconds="30000" deviceType="DMX Universe" circuit="76" network="1" savedIndex="201"/>
+		<channel name="Penguins" color="4227200" centiseconds="30000" deviceType="DMX Universe" circuit="80" network="1" savedIndex="201"/>
 		<channel name="zYellow Snow (Y)" color="65535" centiseconds="30000" deviceType="DMX Universe" circuit="8" network="999" savedIndex="202"/>
 		<channelGroupList totalCentiseconds="30000" name="Snow (WB)" savedIndex="203">
 			<channelGroups>
@@ -1060,7 +1060,7 @@
 				<channelGroup savedIndex="164"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Spare D16" color="12632256" centiseconds="30000" deviceType="DMX Universe" circuit="80" network="1" savedIndex="266"/>
+		<channel name="z BAD TRIAC D12" color="12632256" centiseconds="30000" deviceType="DMX Universe" circuit="76" network="1" savedIndex="266"/>
 		<channelGroupList totalCentiseconds="30000" name="D - Yard Left {LOR1602WG3} [U01.065-080]" savedIndex="267">
 			<channelGroups>
 				<channelGroup savedIndex="30"/>
@@ -1072,11 +1072,11 @@
 				<channelGroup savedIndex="220"/>
 				<channelGroup savedIndex="177"/>
 				<channelGroup savedIndex="185"/>
-				<channelGroup savedIndex="201"/>
+				<channelGroup savedIndex="266"/>
 				<channelGroup savedIndex="200"/>
 				<channelGroup savedIndex="15"/>
 				<channelGroup savedIndex="178"/>
-				<channelGroup savedIndex="266"/>
+				<channelGroup savedIndex="201"/>
 			</channelGroups>
 		</channelGroupList>
 		<rgbChannel totalCentiseconds="30000" name="Bushes 3 {C} (RGB)" savedIndex="268">

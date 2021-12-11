@@ -1,5 +1,5 @@
 false
-135
+133
 Bushes 1 {S} Rainbow (ROGBV)
 Bushes 2.1 {L} (M)
 Bushes 2.2 {L} (W)
@@ -76,50 +76,44 @@ Trees- Willow (W)
 Tree- Rainbow Inflatible
 Trees- Rainbow (ROYGBV)
 Presents (M)
-Eaves Chase 1 (R)
-Eaves Chase 2 (G)
-Eaves Chase 3 (B)
-Eaves Chase 4 (W)
-Festivus Pole Flood (RGB)
+Nativity Characters
 Manger Flood 1 {L} (RGB)
 Manger Flood 2 {R} (RGB)
-Roof Ridgeline 1 {L} (RGB)
-Roof Ridgeline 2 {R} (RGB)
-CandyCane01-R1
-CandyCane02-G2
-CandyCane03-R3
-CandyCane04-G4
-Snowfall Projectors (WB)
-Swirlies- Snowflakes (WB)
-Lasers- House Front (RGB)
-Disco Balls (M)
-Big Nick Inside (W)
-Swirlies- Big Nick Fire (RO)
-UFOs 1 {L} (RGB)
-UFOs 2 {CT} (RGB)
-UFOs 3 {R} (RGB)
-Wreath Leaves (G)
-Wreath Berries (R)
-Swirlies- Candy Canes {L} (RG)
-Swirlies- Pine (GO)
-Swirlies- Driveway (RGB)
-Lasers- Driveway (RG)
-Swirlies- Street (M)
-Lasers- Street (RG)
-Swirlies- Oak (RGB)
-Nativity Characters
 Swirlies- Manger Stars (RWB)
-Rotating Beacons {R} (RGBO)
 Menorah (B)
 Yule Log (O)
 Coexist Flag (MRGB)
 Flying Spaghetti Monster (W)
+Festivus Pole Flood (RGB)
 Peace Sign (RGB)
+Wreath Leaves (G)
+Wreath Berries (R)
+Swirlies- Big Nick Fire (RO)
+Swirlies- Driveway (RGB)
+Swirlies- Oak (RGB)
+Swirlies- Pine (GO)
+Swirlies- Street (M)
+Lasers- Driveway (RG)
+Lasers- Street (RG)
+Lasers- House Front (RGB)
 Laser- Streetlight (R)
+UFOs 1 {L} (RGB)
+UFOs 2 {CT} (RGB)
+UFOs 3 {R} (RGB)
 Rotating Beacons {L} (RGBO)
+Rotating Beacons {R} (RGBO)
+Disco Balls (M)
 Snow Lake (W)
+Snowfall Projectors (WB)
+Swirlies- Snowflakes (WB)
 Snowman (W)
 Penguins
+Eaves Chase 1 (R)
+Eaves Chase 2 (G)
+Eaves Chase 3 (B)
+Eaves Chase 4 (W)
+Roof Ridgeline 1 {L} (RGB)
+Roof Ridgeline 2 {R} (RGB)
 Mailboxes (Y)
 Countdown Timer (B)
 Lamp Posts (Y)
@@ -135,6 +129,10 @@ Work Together 4 Swirly Stars (RWB)
 On The Air (R)
 Amplifier 12V
 Transmitter 12V
+Candy Canes 1 (R)
+Candy Canes 2 (G)
+Candy Canes 3 (R)
+Candy Canes 4 (G)
 Bushes 1 {S} Rainbow (ROGBV)			Bushes 1 {S} Rainbow (ROGBV)	white
 Bushes 2.1 {L} (M)			Bushes 2.1 {L} (M)	rgb(128, 64, 64)
 Bushes 2.2 {L} (W)			Bushes 2.2 {L} (W)	white
@@ -211,50 +209,44 @@ Trees- Willow (W)			Trees- Willow and Palm (GW)	white
 Tree- Rainbow Inflatible			Tree- Rainbow Inflatible	white
 Trees- Rainbow (ROYGBV)			Trees- Rainbow (ROYGBV)	white
 Presents (M)			Presents (M)	rgb(128, 64, 64)
-Eaves Chase 1 (R)			Eaves Chase 1 (R)	red
-Eaves Chase 2 (G)			Eaves Chase 2 (G)	green
-Eaves Chase 3 (B)			Eaves Chase 3 (B)	blue
-Eaves Chase 4 (W)			Eaves Chase 4 (W)	white
-Festivus Pole Flood (RGB)			Festivus Pole Flood	rgb(64, 0, 0)
+Nativity Characters			Nativity Characters	white
 Manger Flood 1 {L} (RGB)			Manger Flood 1 {L}	rgb(64, 0, 0)
 Manger Flood 2 {R} (RGB)			Manger Flood 2 {R}	rgb(64, 0, 0)
-Roof Ridgeline 1 {L} (RGB)			Roof Ridgeline 1 {L}	rgb(64, 0, 0)
-Roof Ridgeline 2 {R} (RGB)			Roof Ridgeline 2 {R}	rgb(64, 0, 0)
-CandyCane01-R1			Candy Canes 1 (R)	red
-CandyCane02-G2			Candy Canes 2 (G)	green
-CandyCane03-R3			Candy Canes 3 (R)	red
-CandyCane04-G4			Candy Canes 4 (G)	green
-Snowfall Projectors (WB)			Snowfall Projectors (WB)	rgb(128, 255, 255)
-Swirlies- Snowflakes (WB)			Swirlies- Snowflakes (WB)	rgb(128, 255, 255)
-Lasers- House Front (RGB)			Lasers- House Front (RGB)	rgb(64, 0, 0)
-Disco Balls (M)			Disco Balls (M)	rgb(128, 64, 64)
-Big Nick Inside (W)			Big Nick Inside (W)	white
-Swirlies- Big Nick Fire (RO)			Swirlies- Big Nick Fire (RO)	rgb(255, 64, 0)
-UFOs 1 {L} (RGB)			UFOs 1 {L} (RGB)	rgb(64, 0, 0)
-UFOs 2 {CT} (RGB)			UFOs 2 {CT} (RGB)	rgb(64, 0, 0)
-UFOs 3 {R} (RGB)			UFOs 3 {R} (RGB)	rgb(64, 0, 0)
-Wreath Leaves (G)			Wreath Leaves (G)	green
-Wreath Berries (R)			Wreath Berries (R)	red
-Swirlies- Candy Canes {L} (RG)			Swiriles- Candy Canes (RG)	white
-Swirlies- Pine (GO)			Swirlies- Pine (GO)	green
-Swirlies- Driveway (RGB)			Swirlies- Driveway (RGB)	rgb(64, 0, 0)
-Lasers- Driveway (RG)			Lasers- Driveway (RG)	red
-Swirlies- Street (M)			Swirlies- Street (M)	rgb(128, 64, 64)
-Lasers- Street (RG)			Lasers- Street (RG)	green
-Swirlies- Oak (RGB)			Swirlies- Oak (RGB)	rgb(64, 0, 0)
-Nativity Characters			Nativity Characters	white
 Swirlies- Manger Stars (RWB)			Swirlies- Manger Stars (RWB)	red
-Rotating Beacons {R} (RGBO)			Rotating Beacons {R} (RGBO)	rgb(128, 64, 64)
 Menorah (B)			Menorah (B)	blue
 Yule Log (O)			Yule Log (O)	rgb(255, 128, 0)
 Coexist Flag (MRGB)			Coexist Flag (MRGB)	rgb(64, 0, 0)
 Flying Spaghetti Monster (W)			Flying Spaghetti Monster (W)	white
+Festivus Pole Flood (RGB)			Festivus Pole Flood	rgb(64, 0, 0)
 Peace Sign (RGB)			Peace Sign (RGB)	rgb(64, 0, 0)
+Wreath Leaves (G)			Wreath Leaves (G)	green
+Wreath Berries (R)			Wreath Berries (R)	red
+Swirlies- Big Nick Fire (RO)			Swirlies- Big Nick Fire (RO)	rgb(255, 64, 0)
+Swirlies- Driveway (RGB)			Swirlies- Driveway (RGB)	rgb(64, 0, 0)
+Swirlies- Oak (RGB)			Swirlies- Oak (RGB)	rgb(64, 0, 0)
+Swirlies- Pine (GO)			Swirlies- Pine (GO)	green
+Swirlies- Street (M)			Swirlies- Street (M)	rgb(128, 64, 64)
+Lasers- Driveway (RG)			Lasers- Driveway (RG)	red
+Lasers- Street (RG)			Lasers- Street (RG)	green
+Lasers- House Front (RGB)			Lasers- House Front (RGB)	rgb(64, 0, 0)
 Laser- Streetlight (R)			Laser- Streetlight (R)	rgb(192, 0, 0)
+UFOs 1 {L} (RGB)			UFOs 1 {L} (RGB)	rgb(64, 0, 0)
+UFOs 2 {CT} (RGB)			UFOs 2 {CT} (RGB)	rgb(64, 0, 0)
+UFOs 3 {R} (RGB)			UFOs 3 {R} (RGB)	rgb(64, 0, 0)
 Rotating Beacons {L} (RGBO)			Rotating Beacons {L} (RGBO)	rgb(128, 64, 64)
+Rotating Beacons {R} (RGBO)			Rotating Beacons {R} (RGBO)	rgb(128, 64, 64)
+Disco Balls (M)			Disco Balls (M)	rgb(128, 64, 64)
 Snow Lake (W)			Snow Lake (W)	white
+Snowfall Projectors (WB)			Snowfall Projectors (WB)	rgb(128, 255, 255)
+Swirlies- Snowflakes (WB)			Swirlies- Snowflakes (WB)	rgb(128, 255, 255)
 Snowman (W)			Snowman (W)	white
 Penguins			Penguins	white
+Eaves Chase 1 (R)			Eaves Chase 1 (R)	red
+Eaves Chase 2 (G)			Eaves Chase 2 (G)	green
+Eaves Chase 3 (B)			Eaves Chase 3 (B)	blue
+Eaves Chase 4 (W)			Eaves Chase 4 (W)	white
+Roof Ridgeline 1 {L} (RGB)			Roof Ridgeline 1 {L}	rgb(64, 0, 0)
+Roof Ridgeline 2 {R} (RGB)			Roof Ridgeline 2 {R}	rgb(64, 0, 0)
 Mailboxes (Y)			Mailboxes (O)	rgb(255, 128, 0)
 Countdown Timer (B)			Countdown Timer (B)	blue
 Lamp Posts (Y)			Lamp Posts (Y)	yellow
@@ -267,6 +259,10 @@ Work Together 1 (R)			Work Together 1 (R)	white
 Work Together 2 (W)			Work Together 2 (W)	white
 Work Together 3 (B)			Work Together 3 (B)	white
 Work Together 4 Swirly Stars (RWB)			Work Together 4 Swirly Stars (RWB)	white
-On The Air (R)			On the Air (R)	white
+On The Air (R)			On the Air (R)	red
 Amplifier 12V			Amplifier 12V	rgb(128, 64, 0)
 Transmitter 12V			Transmitter 12V	white
+Candy Canes 1 (R)			Candy Canes 1 (R)	red
+Candy Canes 2 (G)			Candy Canes 2 (G)	green
+Candy Canes 3 (R)			Candy Canes 3 (R)	red
+Candy Canes 4 (G)			Candy Canes 4 (G)	green

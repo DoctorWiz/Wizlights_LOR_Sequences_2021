@@ -12,7 +12,6 @@ Thumbs.db
 
 # Audio
 Audio/*
-./Audio/*
 *.mp3
 *.wav
 *.m3u
@@ -24,10 +23,8 @@ Audio/*
 *.loredit
 
 Utils/*
-./Utils/*
 Superstar/*
-./Superstar/*
 Sequences/Earlier Versions/*
-./Sequences/Earlier Versions/*
 Sequences/2020/*
-./Sequences/2020/*
+Sequences_Mine_Old/*
+SequencesFromOtherPeople_Good/*

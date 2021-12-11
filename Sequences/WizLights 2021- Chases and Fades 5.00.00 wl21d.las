@@ -601,9 +601,26 @@
 				<channelGroup savedIndex="55"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A1.1 (L} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="1" network="1" savedIndex="57"/>
-		<channel name="Tree- Tomato A1.2 (L} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="2" network="1" savedIndex="58"/>
-		<channel name="Tree- Tomato A1.3 (L} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="3" network="1" savedIndex="59"/>
+		<channel name="Tree- Tomato A1.1 (L} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="1" network="1" savedIndex="57">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4480" intensity="100"/>
+			<effect type="intensity" startCentisecond="4560" endCentisecond="4640" intensity="100"/>
+			<effect type="intensity" startCentisecond="4720" endCentisecond="4800" intensity="100"/>
+			<effect type="intensity" startCentisecond="4880" endCentisecond="4960" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A1.2 (L} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="2" network="1" savedIndex="58">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4440" intensity="100"/>
+			<effect type="intensity" startCentisecond="4520" endCentisecond="4600" intensity="100"/>
+			<effect type="intensity" startCentisecond="4680" endCentisecond="4760" intensity="100"/>
+			<effect type="intensity" startCentisecond="4840" endCentisecond="4920" intensity="100"/>
+			<effect type="intensity" startCentisecond="5000" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A1.3 (L} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="3" network="1" savedIndex="59">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4410" intensity="100"/>
+			<effect type="intensity" startCentisecond="4490" endCentisecond="4570" intensity="100"/>
+			<effect type="intensity" startCentisecond="4650" endCentisecond="4730" intensity="100"/>
+			<effect type="intensity" startCentisecond="4810" endCentisecond="4890" intensity="100"/>
+			<effect type="intensity" startCentisecond="4970" endCentisecond="5040" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A1.4 {L} (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="4" network="1" savedIndex="60">
 			<effect type="intensity" startCentisecond="0" endCentisecond="10" intensity="100"/>
 			<effect type="intensity" startCentisecond="80" endCentisecond="90" intensity="100"/>
@@ -637,6 +654,10 @@
 			<effect type="intensity" startCentisecond="3970" endCentisecond="4010" intensity="100"/>
 			<effect type="intensity" startCentisecond="4130" endCentisecond="4170" intensity="100"/>
 			<effect type="intensity" startCentisecond="4290" endCentisecond="4330" intensity="100"/>
+			<effect type="intensity" startCentisecond="4450" endCentisecond="4530" intensity="100"/>
+			<effect type="intensity" startCentisecond="4610" endCentisecond="4690" intensity="100"/>
+			<effect type="intensity" startCentisecond="4770" endCentisecond="4850" intensity="100"/>
+			<effect type="intensity" startCentisecond="4930" endCentisecond="5010" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A1 (Far Left} [U1.01-04]" savedIndex="61">
 			<channelGroups>
@@ -646,9 +667,26 @@
 				<channelGroup savedIndex="60"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A2.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="5" network="1" savedIndex="62"/>
-		<channel name="Tree- Tomato A2.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="6" network="1" savedIndex="63"/>
-		<channel name="Tree- Tomato A2.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="7" network="1" savedIndex="64"/>
+		<channel name="Tree- Tomato A2.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="5" network="1" savedIndex="62">
+			<effect type="intensity" startCentisecond="4420" endCentisecond="4500" intensity="100"/>
+			<effect type="intensity" startCentisecond="4580" endCentisecond="4660" intensity="100"/>
+			<effect type="intensity" startCentisecond="4740" endCentisecond="4820" intensity="100"/>
+			<effect type="intensity" startCentisecond="4900" endCentisecond="4980" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A2.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="6" network="1" savedIndex="63">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4460" intensity="100"/>
+			<effect type="intensity" startCentisecond="4540" endCentisecond="4620" intensity="100"/>
+			<effect type="intensity" startCentisecond="4700" endCentisecond="4780" intensity="100"/>
+			<effect type="intensity" startCentisecond="4860" endCentisecond="4940" intensity="100"/>
+			<effect type="intensity" startCentisecond="5020" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A2.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="7" network="1" savedIndex="64">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4430" intensity="100"/>
+			<effect type="intensity" startCentisecond="4510" endCentisecond="4590" intensity="100"/>
+			<effect type="intensity" startCentisecond="4670" endCentisecond="4750" intensity="100"/>
+			<effect type="intensity" startCentisecond="4830" endCentisecond="4910" intensity="100"/>
+			<effect type="intensity" startCentisecond="4990" endCentisecond="5040" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A2.4 (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="8" network="1" savedIndex="65">
 			<effect type="intensity" startCentisecond="10" endCentisecond="20" intensity="100"/>
 			<effect type="intensity" startCentisecond="90" endCentisecond="100" intensity="100"/>
@@ -679,6 +717,10 @@
 			<effect type="intensity" startCentisecond="3930" endCentisecond="3970" intensity="100"/>
 			<effect type="intensity" startCentisecond="4090" endCentisecond="4130" intensity="100"/>
 			<effect type="intensity" startCentisecond="4250" endCentisecond="4290" intensity="100"/>
+			<effect type="intensity" startCentisecond="4470" endCentisecond="4550" intensity="100"/>
+			<effect type="intensity" startCentisecond="4630" endCentisecond="4710" intensity="100"/>
+			<effect type="intensity" startCentisecond="4790" endCentisecond="4870" intensity="100"/>
+			<effect type="intensity" startCentisecond="4950" endCentisecond="5030" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A2 [U1.05-08]" savedIndex="66">
 			<channelGroups>
@@ -688,9 +730,25 @@
 				<channelGroup savedIndex="65"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A3.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="9" network="1" savedIndex="67"/>
-		<channel name="Tree- Tomato A3.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="10" network="1" savedIndex="68"/>
-		<channel name="Tree- Tomato A3.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="11" network="1" savedIndex="69"/>
+		<channel name="Tree- Tomato A3.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="9" network="1" savedIndex="67">
+			<effect type="intensity" startCentisecond="4450" endCentisecond="4530" intensity="100"/>
+			<effect type="intensity" startCentisecond="4610" endCentisecond="4690" intensity="100"/>
+			<effect type="intensity" startCentisecond="4770" endCentisecond="4850" intensity="100"/>
+			<effect type="intensity" startCentisecond="4930" endCentisecond="5010" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A3.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="10" network="1" savedIndex="68">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4480" intensity="100"/>
+			<effect type="intensity" startCentisecond="4560" endCentisecond="4640" intensity="100"/>
+			<effect type="intensity" startCentisecond="4720" endCentisecond="4800" intensity="100"/>
+			<effect type="intensity" startCentisecond="4880" endCentisecond="4960" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A3.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="11" network="1" savedIndex="69">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4440" intensity="100"/>
+			<effect type="intensity" startCentisecond="4520" endCentisecond="4600" intensity="100"/>
+			<effect type="intensity" startCentisecond="4680" endCentisecond="4760" intensity="100"/>
+			<effect type="intensity" startCentisecond="4840" endCentisecond="4920" intensity="100"/>
+			<effect type="intensity" startCentisecond="5000" endCentisecond="5040" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A3.4 (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="12" network="1" savedIndex="70">
 			<effect type="intensity" startCentisecond="20" endCentisecond="30" intensity="100"/>
 			<effect type="intensity" startCentisecond="100" endCentisecond="110" intensity="100"/>
@@ -720,6 +778,11 @@
 			<effect type="intensity" startCentisecond="3890" endCentisecond="3930" intensity="100"/>
 			<effect type="intensity" startCentisecond="4050" endCentisecond="4090" intensity="100"/>
 			<effect type="intensity" startCentisecond="4210" endCentisecond="4250" intensity="100"/>
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4410" intensity="100"/>
+			<effect type="intensity" startCentisecond="4490" endCentisecond="4570" intensity="100"/>
+			<effect type="intensity" startCentisecond="4650" endCentisecond="4730" intensity="100"/>
+			<effect type="intensity" startCentisecond="4810" endCentisecond="4890" intensity="100"/>
+			<effect type="intensity" startCentisecond="4970" endCentisecond="5040" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A3 [U1.09-12]" savedIndex="71">
 			<channelGroups>
@@ -729,9 +792,25 @@
 				<channelGroup savedIndex="70"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A4.1 {CL} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="13" network="1" savedIndex="72"/>
-		<channel name="Tree- Tomato A4.2 {CL} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="14" network="1" savedIndex="73"/>
-		<channel name="Tree- Tomato A4.3 {CL} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="15" network="1" savedIndex="74"/>
+		<channel name="Tree- Tomato A4.1 {CL} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="13" network="1" savedIndex="72">
+			<effect type="intensity" startCentisecond="4470" endCentisecond="4550" intensity="100"/>
+			<effect type="intensity" startCentisecond="4630" endCentisecond="4710" intensity="100"/>
+			<effect type="intensity" startCentisecond="4790" endCentisecond="4870" intensity="100"/>
+			<effect type="intensity" startCentisecond="4950" endCentisecond="5030" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A4.2 {CL} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="14" network="1" savedIndex="73">
+			<effect type="intensity" startCentisecond="4420" endCentisecond="4500" intensity="100"/>
+			<effect type="intensity" startCentisecond="4580" endCentisecond="4660" intensity="100"/>
+			<effect type="intensity" startCentisecond="4740" endCentisecond="4820" intensity="100"/>
+			<effect type="intensity" startCentisecond="4900" endCentisecond="4980" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A4.3 {CL} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="15" network="1" savedIndex="74">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4460" intensity="100"/>
+			<effect type="intensity" startCentisecond="4540" endCentisecond="4620" intensity="100"/>
+			<effect type="intensity" startCentisecond="4700" endCentisecond="4780" intensity="100"/>
+			<effect type="intensity" startCentisecond="4860" endCentisecond="4940" intensity="100"/>
+			<effect type="intensity" startCentisecond="5020" endCentisecond="5040" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A4.4 {CL} (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="16" network="1" savedIndex="75">
 			<effect type="intensity" startCentisecond="30" endCentisecond="40" intensity="100"/>
 			<effect type="intensity" startCentisecond="110" endCentisecond="120" intensity="100"/>
@@ -761,6 +840,11 @@
 			<effect type="intensity" startCentisecond="4010" endCentisecond="4050" intensity="100"/>
 			<effect type="intensity" startCentisecond="4170" endCentisecond="4210" intensity="100"/>
 			<effect type="intensity" startCentisecond="4330" endCentisecond="4350" intensity="100"/>
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4430" intensity="100"/>
+			<effect type="intensity" startCentisecond="4510" endCentisecond="4590" intensity="100"/>
+			<effect type="intensity" startCentisecond="4670" endCentisecond="4750" intensity="100"/>
+			<effect type="intensity" startCentisecond="4830" endCentisecond="4910" intensity="100"/>
+			<effect type="intensity" startCentisecond="4990" endCentisecond="5040" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A4 {Center Left} [U1.13-16]" savedIndex="76">
 			<channelGroups>
@@ -770,9 +854,25 @@
 				<channelGroup savedIndex="75"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A5.1 {CR} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="17" network="1" savedIndex="77"/>
-		<channel name="Tree- Tomato A5.2 {CR} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="18" network="1" savedIndex="78"/>
-		<channel name="Tree- Tomato A5.3 {CR} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="19" network="1" savedIndex="79"/>
+		<channel name="Tree- Tomato A5.1 {CR} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="17" network="1" savedIndex="77">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4410" intensity="100"/>
+			<effect type="intensity" startCentisecond="4490" endCentisecond="4570" intensity="100"/>
+			<effect type="intensity" startCentisecond="4650" endCentisecond="4730" intensity="100"/>
+			<effect type="intensity" startCentisecond="4810" endCentisecond="4890" intensity="100"/>
+			<effect type="intensity" startCentisecond="4970" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A5.2 {CR} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="18" network="1" savedIndex="78">
+			<effect type="intensity" startCentisecond="4450" endCentisecond="4530" intensity="100"/>
+			<effect type="intensity" startCentisecond="4610" endCentisecond="4690" intensity="100"/>
+			<effect type="intensity" startCentisecond="4770" endCentisecond="4850" intensity="100"/>
+			<effect type="intensity" startCentisecond="4930" endCentisecond="5010" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A5.3 {CR} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="19" network="1" savedIndex="79">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4480" intensity="100"/>
+			<effect type="intensity" startCentisecond="4560" endCentisecond="4640" intensity="100"/>
+			<effect type="intensity" startCentisecond="4720" endCentisecond="4800" intensity="100"/>
+			<effect type="intensity" startCentisecond="4880" endCentisecond="4960" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A5.4 {CR} (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="20" network="1" savedIndex="80">
 			<effect type="intensity" startCentisecond="40" endCentisecond="50" intensity="100"/>
 			<effect type="intensity" startCentisecond="120" endCentisecond="130" intensity="100"/>
@@ -802,6 +902,11 @@
 			<effect type="intensity" startCentisecond="4010" endCentisecond="4050" intensity="100"/>
 			<effect type="intensity" startCentisecond="4170" endCentisecond="4210" intensity="100"/>
 			<effect type="intensity" startCentisecond="4330" endCentisecond="4350" intensity="100"/>
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4440" intensity="100"/>
+			<effect type="intensity" startCentisecond="4520" endCentisecond="4600" intensity="100"/>
+			<effect type="intensity" startCentisecond="4680" endCentisecond="4760" intensity="100"/>
+			<effect type="intensity" startCentisecond="4840" endCentisecond="4920" intensity="100"/>
+			<effect type="intensity" startCentisecond="5000" endCentisecond="5040" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A5 {Center Right} [U1.17-20]" savedIndex="81">
 			<channelGroups>
@@ -811,9 +916,25 @@
 				<channelGroup savedIndex="80"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A6.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="21" network="1" savedIndex="82"/>
-		<channel name="Tree- Tomato A6.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="22" network="1" savedIndex="83"/>
-		<channel name="Tree- Tomato A6.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="23" network="1" savedIndex="84"/>
+		<channel name="Tree- Tomato A6.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="21" network="1" savedIndex="82">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4430" intensity="100"/>
+			<effect type="intensity" startCentisecond="4510" endCentisecond="4590" intensity="100"/>
+			<effect type="intensity" startCentisecond="4670" endCentisecond="4750" intensity="100"/>
+			<effect type="intensity" startCentisecond="4830" endCentisecond="4910" intensity="100"/>
+			<effect type="intensity" startCentisecond="4990" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A6.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="22" network="1" savedIndex="83">
+			<effect type="intensity" startCentisecond="4470" endCentisecond="4550" intensity="100"/>
+			<effect type="intensity" startCentisecond="4630" endCentisecond="4710" intensity="100"/>
+			<effect type="intensity" startCentisecond="4790" endCentisecond="4870" intensity="100"/>
+			<effect type="intensity" startCentisecond="4950" endCentisecond="5030" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A6.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="23" network="1" savedIndex="84">
+			<effect type="intensity" startCentisecond="4420" endCentisecond="4500" intensity="100"/>
+			<effect type="intensity" startCentisecond="4580" endCentisecond="4660" intensity="100"/>
+			<effect type="intensity" startCentisecond="4740" endCentisecond="4820" intensity="100"/>
+			<effect type="intensity" startCentisecond="4900" endCentisecond="4980" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A6.4 (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="24" network="1" savedIndex="85">
 			<effect type="intensity" startCentisecond="50" endCentisecond="60" intensity="100"/>
 			<effect type="intensity" startCentisecond="130" endCentisecond="140" intensity="100"/>
@@ -843,6 +964,11 @@
 			<effect type="intensity" startCentisecond="3890" endCentisecond="3930" intensity="100"/>
 			<effect type="intensity" startCentisecond="4050" endCentisecond="4090" intensity="100"/>
 			<effect type="intensity" startCentisecond="4210" endCentisecond="4250" intensity="100"/>
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4460" intensity="100"/>
+			<effect type="intensity" startCentisecond="4540" endCentisecond="4620" intensity="100"/>
+			<effect type="intensity" startCentisecond="4700" endCentisecond="4780" intensity="100"/>
+			<effect type="intensity" startCentisecond="4860" endCentisecond="4940" intensity="100"/>
+			<effect type="intensity" startCentisecond="5020" endCentisecond="5040" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A6 [U1.21-24]" savedIndex="86">
 			<channelGroups>
@@ -852,9 +978,26 @@
 				<channelGroup savedIndex="85"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A7.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="25" network="1" savedIndex="87"/>
-		<channel name="Tree- Tomato A7.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="26" network="1" savedIndex="88"/>
-		<channel name="Tree- Tomato A7.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="27" network="1" savedIndex="89"/>
+		<channel name="Tree- Tomato A7.1 (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="25" network="1" savedIndex="87">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4440" intensity="100"/>
+			<effect type="intensity" startCentisecond="4520" endCentisecond="4600" intensity="100"/>
+			<effect type="intensity" startCentisecond="4680" endCentisecond="4760" intensity="100"/>
+			<effect type="intensity" startCentisecond="4840" endCentisecond="4920" intensity="100"/>
+			<effect type="intensity" startCentisecond="5000" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A7.2 (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="26" network="1" savedIndex="88">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4410" intensity="100"/>
+			<effect type="intensity" startCentisecond="4490" endCentisecond="4570" intensity="100"/>
+			<effect type="intensity" startCentisecond="4650" endCentisecond="4730" intensity="100"/>
+			<effect type="intensity" startCentisecond="4810" endCentisecond="4890" intensity="100"/>
+			<effect type="intensity" startCentisecond="4970" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A7.3 (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="27" network="1" savedIndex="89">
+			<effect type="intensity" startCentisecond="4450" endCentisecond="4530" intensity="100"/>
+			<effect type="intensity" startCentisecond="4610" endCentisecond="4690" intensity="100"/>
+			<effect type="intensity" startCentisecond="4770" endCentisecond="4850" intensity="100"/>
+			<effect type="intensity" startCentisecond="4930" endCentisecond="5010" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A7.4 (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="28" network="1" savedIndex="90">
 			<effect type="intensity" startCentisecond="60" endCentisecond="70" intensity="100"/>
 			<effect type="intensity" startCentisecond="140" endCentisecond="150" intensity="100"/>
@@ -885,6 +1028,10 @@
 			<effect type="intensity" startCentisecond="3930" endCentisecond="3970" intensity="100"/>
 			<effect type="intensity" startCentisecond="4090" endCentisecond="4130" intensity="100"/>
 			<effect type="intensity" startCentisecond="4250" endCentisecond="4290" intensity="100"/>
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4480" intensity="100"/>
+			<effect type="intensity" startCentisecond="4560" endCentisecond="4640" intensity="100"/>
+			<effect type="intensity" startCentisecond="4720" endCentisecond="4800" intensity="100"/>
+			<effect type="intensity" startCentisecond="4880" endCentisecond="4960" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A7 [U1.25-28]" savedIndex="91">
 			<channelGroups>
@@ -894,9 +1041,26 @@
 				<channelGroup savedIndex="90"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Tomato A8.1 {R} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="29" network="1" savedIndex="92"/>
-		<channel name="Tree- Tomato A8.2 {R} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="30" network="1" savedIndex="93"/>
-		<channel name="Tree- Tomato A8.3 {R} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="31" network="1" savedIndex="94"/>
+		<channel name="Tree- Tomato A8.1 {R} (R)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="29" network="1" savedIndex="92">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4460" intensity="100"/>
+			<effect type="intensity" startCentisecond="4540" endCentisecond="4620" intensity="100"/>
+			<effect type="intensity" startCentisecond="4700" endCentisecond="4780" intensity="100"/>
+			<effect type="intensity" startCentisecond="4860" endCentisecond="4940" intensity="100"/>
+			<effect type="intensity" startCentisecond="5020" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A8.2 {R} (G)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="30" network="1" savedIndex="93">
+			<effect type="intensity" startCentisecond="4400" endCentisecond="4430" intensity="100"/>
+			<effect type="intensity" startCentisecond="4510" endCentisecond="4590" intensity="100"/>
+			<effect type="intensity" startCentisecond="4670" endCentisecond="4750" intensity="100"/>
+			<effect type="intensity" startCentisecond="4830" endCentisecond="4910" intensity="100"/>
+			<effect type="intensity" startCentisecond="4990" endCentisecond="5040" intensity="100"/>
+		</channel>
+		<channel name="Tree- Tomato A8.3 {R} (B)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="31" network="1" savedIndex="94">
+			<effect type="intensity" startCentisecond="4470" endCentisecond="4550" intensity="100"/>
+			<effect type="intensity" startCentisecond="4630" endCentisecond="4710" intensity="100"/>
+			<effect type="intensity" startCentisecond="4790" endCentisecond="4870" intensity="100"/>
+			<effect type="intensity" startCentisecond="4950" endCentisecond="5030" intensity="100"/>
+		</channel>
 		<channel name="Tree- Tomato A8.4 {R} (W)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="32" network="1" savedIndex="95">
 			<effect type="intensity" startCentisecond="70" endCentisecond="80" intensity="100"/>
 			<effect type="intensity" startCentisecond="150" endCentisecond="160" intensity="100"/>
@@ -930,6 +1094,10 @@
 			<effect type="intensity" startCentisecond="3970" endCentisecond="4010" intensity="100"/>
 			<effect type="intensity" startCentisecond="4130" endCentisecond="4170" intensity="100"/>
 			<effect type="intensity" startCentisecond="4290" endCentisecond="4330" intensity="100"/>
+			<effect type="intensity" startCentisecond="4420" endCentisecond="4500" intensity="100"/>
+			<effect type="intensity" startCentisecond="4580" endCentisecond="4660" intensity="100"/>
+			<effect type="intensity" startCentisecond="4740" endCentisecond="4820" intensity="100"/>
+			<effect type="intensity" startCentisecond="4900" endCentisecond="4980" intensity="100"/>
 		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Tree- Tomato A8 {Far Right} [U1.29-32]" savedIndex="96">
 			<channelGroups>
@@ -1382,10 +1550,184 @@
 				<channelGroup savedIndex="140"/>
 			</channelGroups>
 		</channelGroupList>
-		<channel name="Tree- Spiral 1 {L} (WR)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="49" network="1" savedIndex="142"/>
-		<channel name="Tree- Spiral 2 {F} (WG)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="50" network="1" savedIndex="143"/>
-		<channel name="Tree- Spiral 3 {R} (WB)" color="16711680" centiseconds="30000" deviceType="DMX Universe" circuit="51" network="1" savedIndex="144"/>
-		<channel name="Tree- Spiral 4 {B} (WV)" color="16711808" centiseconds="30000" deviceType="DMX Universe" circuit="52" network="1" savedIndex="145"/>
+		<channel name="Tree- Spiral 1 {L} (WR)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="49" network="1" savedIndex="142">
+			<effect type="intensity" startCentisecond="0" endCentisecond="20" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="40" intensity="100"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="60" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="80" endCentisecond="100" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="100" endCentisecond="120" intensity="100"/>
+			<effect type="intensity" startCentisecond="120" endCentisecond="140" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="160" endCentisecond="180" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="180" endCentisecond="200" intensity="100"/>
+			<effect type="intensity" startCentisecond="200" endCentisecond="220" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="240" endCentisecond="260" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="260" endCentisecond="280" intensity="100"/>
+			<effect type="intensity" startCentisecond="280" endCentisecond="300" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="320" endCentisecond="340" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="340" endCentisecond="360" intensity="100"/>
+			<effect type="intensity" startCentisecond="360" endCentisecond="380" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="450" endCentisecond="490" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="490" endCentisecond="530" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="530" endCentisecond="570" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="570" endCentisecond="610" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="610" endCentisecond="650" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="650" endCentisecond="690" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="690" endCentisecond="730" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="730" endCentisecond="770" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="770" endCentisecond="810" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="810" endCentisecond="850" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="910" endCentisecond="920" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="920" endCentisecond="930" intensity="100"/>
+			<effect type="intensity" startCentisecond="930" endCentisecond="940" startIntensity="100" endIntensity="67"/>
+			<effect type="intensity" startCentisecond="940" endCentisecond="960" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="970" endCentisecond="980" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="980" endCentisecond="990" intensity="100"/>
+			<effect type="intensity" startCentisecond="990" endCentisecond="1000" startIntensity="100" endIntensity="67"/>
+			<effect type="intensity" startCentisecond="1000" endCentisecond="1020" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1030" endCentisecond="1040" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1040" endCentisecond="1050" intensity="100"/>
+			<effect type="intensity" startCentisecond="1050" endCentisecond="1060" startIntensity="100" endIntensity="67"/>
+			<effect type="intensity" startCentisecond="1060" endCentisecond="1080" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1090" endCentisecond="1100" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1100" endCentisecond="1110" intensity="100"/>
+			<effect type="intensity" startCentisecond="1110" endCentisecond="1120" startIntensity="100" endIntensity="67"/>
+			<effect type="intensity" startCentisecond="1120" endCentisecond="1140" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1150" endCentisecond="1160" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1160" endCentisecond="1170" intensity="100"/>
+			<effect type="intensity" startCentisecond="1170" endCentisecond="1180" startIntensity="100" endIntensity="67"/>
+			<effect type="intensity" startCentisecond="1180" endCentisecond="1200" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1210" endCentisecond="1220" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1220" endCentisecond="1230" intensity="100"/>
+			<effect type="intensity" startCentisecond="1230" endCentisecond="1240" startIntensity="100" endIntensity="67"/>
+		</channel>
+		<channel name="Tree- Spiral 2 {F} (WG)" color="255" centiseconds="30000" deviceType="DMX Universe" circuit="50" network="1" savedIndex="143">
+			<effect type="intensity" startCentisecond="20" endCentisecond="40" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="60" intensity="100"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="80" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="100" endCentisecond="120" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="120" endCentisecond="140" intensity="100"/>
+			<effect type="intensity" startCentisecond="140" endCentisecond="160" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="180" endCentisecond="200" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="200" endCentisecond="220" intensity="100"/>
+			<effect type="intensity" startCentisecond="220" endCentisecond="240" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="260" endCentisecond="280" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="280" endCentisecond="300" intensity="100"/>
+			<effect type="intensity" startCentisecond="300" endCentisecond="320" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="340" endCentisecond="360" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="360" endCentisecond="380" intensity="100"/>
+			<effect type="intensity" startCentisecond="450" endCentisecond="490" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="490" endCentisecond="530" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="530" endCentisecond="570" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="570" endCentisecond="610" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="610" endCentisecond="650" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="650" endCentisecond="690" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="690" endCentisecond="730" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="730" endCentisecond="770" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="770" endCentisecond="810" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="810" endCentisecond="850" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="920" endCentisecond="930" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="930" endCentisecond="940" intensity="100"/>
+			<effect type="intensity" startCentisecond="940" endCentisecond="970" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="980" endCentisecond="990" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="990" endCentisecond="1000" intensity="100"/>
+			<effect type="intensity" startCentisecond="1000" endCentisecond="1030" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1040" endCentisecond="1050" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1050" endCentisecond="1060" intensity="100"/>
+			<effect type="intensity" startCentisecond="1060" endCentisecond="1090" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1100" endCentisecond="1110" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1110" endCentisecond="1120" intensity="100"/>
+			<effect type="intensity" startCentisecond="1120" endCentisecond="1150" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1160" endCentisecond="1170" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1170" endCentisecond="1180" intensity="100"/>
+			<effect type="intensity" startCentisecond="1180" endCentisecond="1210" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1220" endCentisecond="1230" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1230" endCentisecond="1240" intensity="100"/>
+		</channel>
+		<channel name="Tree- Spiral 3 {R} (WB)" color="16777215" centiseconds="30000" deviceType="DMX Universe" circuit="51" network="1" savedIndex="144">
+			<effect type="intensity" startCentisecond="0" endCentisecond="20" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="40" endCentisecond="60" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="80" intensity="100"/>
+			<effect type="intensity" startCentisecond="80" endCentisecond="100" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="120" endCentisecond="140" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="140" endCentisecond="160" intensity="100"/>
+			<effect type="intensity" startCentisecond="160" endCentisecond="180" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="200" endCentisecond="220" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="220" endCentisecond="240" intensity="100"/>
+			<effect type="intensity" startCentisecond="240" endCentisecond="260" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="280" endCentisecond="300" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="300" endCentisecond="320" intensity="100"/>
+			<effect type="intensity" startCentisecond="320" endCentisecond="340" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="360" endCentisecond="380" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="450" endCentisecond="490" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="490" endCentisecond="530" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="530" endCentisecond="570" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="570" endCentisecond="610" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="610" endCentisecond="650" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="650" endCentisecond="690" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="690" endCentisecond="730" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="730" endCentisecond="770" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="770" endCentisecond="810" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="810" endCentisecond="850" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="910" endCentisecond="920" startIntensity="33" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="930" endCentisecond="940" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="940" endCentisecond="950" intensity="100"/>
+			<effect type="intensity" startCentisecond="950" endCentisecond="980" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="990" endCentisecond="1000" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1000" endCentisecond="1010" intensity="100"/>
+			<effect type="intensity" startCentisecond="1010" endCentisecond="1040" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1050" endCentisecond="1060" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1060" endCentisecond="1070" intensity="100"/>
+			<effect type="intensity" startCentisecond="1070" endCentisecond="1100" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1110" endCentisecond="1120" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1120" endCentisecond="1130" intensity="100"/>
+			<effect type="intensity" startCentisecond="1130" endCentisecond="1160" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1170" endCentisecond="1180" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1180" endCentisecond="1190" intensity="100"/>
+			<effect type="intensity" startCentisecond="1190" endCentisecond="1220" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1230" endCentisecond="1240" startIntensity="0" endIntensity="100"/>
+		</channel>
+		<channel name="Tree- Spiral 4 {B} (WV)" color="65280" centiseconds="30000" deviceType="DMX Universe" circuit="52" network="1" savedIndex="145">
+			<effect type="intensity" startCentisecond="0" endCentisecond="20" intensity="100"/>
+			<effect type="intensity" startCentisecond="20" endCentisecond="40" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="60" endCentisecond="80" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="80" endCentisecond="100" intensity="100"/>
+			<effect type="intensity" startCentisecond="100" endCentisecond="120" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="140" endCentisecond="160" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="160" endCentisecond="180" intensity="100"/>
+			<effect type="intensity" startCentisecond="180" endCentisecond="200" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="220" endCentisecond="240" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="240" endCentisecond="260" intensity="100"/>
+			<effect type="intensity" startCentisecond="260" endCentisecond="280" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="300" endCentisecond="320" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="320" endCentisecond="340" intensity="100"/>
+			<effect type="intensity" startCentisecond="340" endCentisecond="360" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="450" endCentisecond="490" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="490" endCentisecond="530" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="530" endCentisecond="570" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="570" endCentisecond="610" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="610" endCentisecond="650" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="650" endCentisecond="690" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="690" endCentisecond="730" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="730" endCentisecond="770" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="770" endCentisecond="810" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="810" endCentisecond="850" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="910" endCentisecond="930" startIntensity="67" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="940" endCentisecond="950" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="950" endCentisecond="960" intensity="100"/>
+			<effect type="intensity" startCentisecond="960" endCentisecond="990" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1000" endCentisecond="1010" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1010" endCentisecond="1020" intensity="100"/>
+			<effect type="intensity" startCentisecond="1020" endCentisecond="1050" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1060" endCentisecond="1070" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1070" endCentisecond="1080" intensity="100"/>
+			<effect type="intensity" startCentisecond="1080" endCentisecond="1110" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1120" endCentisecond="1130" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1130" endCentisecond="1140" intensity="100"/>
+			<effect type="intensity" startCentisecond="1140" endCentisecond="1170" startIntensity="100" endIntensity="0"/>
+			<effect type="intensity" startCentisecond="1180" endCentisecond="1190" startIntensity="0" endIntensity="100"/>
+			<effect type="intensity" startCentisecond="1190" endCentisecond="1200" intensity="100"/>
+			<effect type="intensity" startCentisecond="1200" endCentisecond="1230" startIntensity="100" endIntensity="0"/>
+		</channel>
 		<channelGroupList totalCentiseconds="30000" name="Trees- Spiral (WRWGWBWV)" savedIndex="146">
 			<channelGroups>
 				<channelGroup savedIndex="142"/>
